@@ -1,0 +1,1001 @@
+﻿Patient_ID,Age,Region,City,Marital_Status,Education_Level,Family_History,Genetic_Mutation,BMI,Physical_Activity_Level,Dietary_Habits,Smoking,Alcohol_Consumption,Menarche_Age,Menopause_Status,Pregnancies,Breastfeeding_History,Hormone_Therapy,Contraceptive_Use,Radiation_Exposure,Diabetes,Hypertension,Tumor_Size_cm,Tumor_Location,Tumor_Stage,Histology_Type,Lymph_Node_Status,Metastasis,ER_Status,PR_Status,HER2_Status,Treatment_Type,Treatment_Response,Survival_Status,Follow_Up_Years
+PKBC1000,62,KPK,Lahore,Single,Secondary,1,1,25.8,Low,Healthy,1,0,10,Pre,5,1,1,0,0,1,0,2.96,Right,I,IDC,1,0,Negative,Positive,Positive,Radiation,Complete,Alive,10
+PKBC1001,22,Balochistan,Peshawar,Married,Secondary,0,1,30.2,Moderate,Healthy,1,1,11,Pre,6,1,0,0,1,1,1,4.98,Right,IV,Medullary,1,0,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,1
+PKBC1002,43,Sindh,Peshawar,Single,Primary,0,1,31.5,High,Unhealthy,1,1,15,Pre,0,0,1,1,0,1,1,6.18,Left,I,ILC,1,0,Positive,Negative,Positive,Radiation,None,Deceased,13
+PKBC1003,49,Sindh,Karachi,Widowed,None,1,0,25.1,High,Unhealthy,1,1,14,Pre,2,0,1,0,0,1,1,7.27,Left,II,ILC,1,1,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,3
+PKBC1004,27,Punjab,Peshawar,Widowed,None,1,1,30.5,Moderate,Mixed,1,0,9,Post,5,0,0,0,0,0,0,2.08,Right,I,IDC,1,0,Negative,Negative,Positive,Surgery,Complete,Alive,8
+PKBC1005,41,Punjab,Karachi,Divorced,Graduate,1,1,23.2,Low,Healthy,0,1,12,Post,4,1,0,1,1,1,0,8.22,Left,III,ILC,1,1,Negative,Negative,Positive,Chemotherapy,Complete,Deceased,5
+PKBC1006,44,KPK,Quetta,Single,Primary,1,1,21.2,High,Healthy,0,0,14,Post,7,0,1,1,0,1,0,3.79,Right,II,IDC,0,1,Negative,Negative,Negative,Surgery,Complete,Alive,3
+PKBC1007,79,Balochistan,Lahore,Married,Graduate,0,0,26.2,Moderate,Healthy,1,0,13,Post,3,0,1,1,0,1,0,5.28,Left,II,Mucinous,0,1,Positive,Positive,Positive,Targeted Therapy,None,Deceased,0
+PKBC1008,29,Balochistan,Islamabad,Single,None,1,0,34.3,Low,Mixed,0,0,12,Post,1,0,1,0,0,1,1,6.28,Right,I,Medullary,0,0,Negative,Negative,Negative,Targeted Therapy,Complete,Deceased,13
+PKBC1009,68,Gilgit-Baltistan,Islamabad,Married,Primary,0,0,38.2,High,Mixed,1,0,12,Post,4,0,1,0,1,0,1,5.14,Left,IV,IDC,0,0,Positive,Positive,Positive,Radiation,None,Alive,6
+PKBC1010,48,Punjab,Islamabad,Divorced,Postgraduate,0,1,28.1,Low,Mixed,0,0,14,Post,7,0,1,1,1,0,1,5.93,Left,IV,Medullary,0,0,Positive,Positive,Negative,Targeted Therapy,None,Alive,1
+PKBC1011,59,Sindh,Quetta,Single,Primary,1,0,32.1,Moderate,Unhealthy,0,0,11,Post,0,1,1,0,0,1,0,1.56,Left,II,ILC,0,0,Negative,Negative,Positive,Targeted Therapy,Partial,Alive,11
+PKBC1012,73,Sindh,Lahore,Widowed,Primary,0,1,20.3,High,Healthy,0,1,11,Pre,2,0,0,0,0,1,1,4.61,Left,II,Medullary,1,1,Positive,Negative,Positive,Surgery,Partial,Deceased,5
+PKBC1013,20,KPK,Peshawar,Married,Postgraduate,1,0,37.9,Low,Unhealthy,1,1,14,Pre,7,0,0,0,1,0,1,3.16,Left,I,Medullary,0,1,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,9
+PKBC1014,71,Sindh,Peshawar,Widowed,Secondary,1,0,30.5,Low,Unhealthy,1,0,14,Post,5,0,1,0,0,1,1,1.32,Right,II,Medullary,0,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Alive,0
+PKBC1015,40,Balochistan,Lahore,Divorced,Secondary,0,0,35.2,Low,Mixed,1,0,14,Post,3,0,1,1,1,1,1,2.32,Right,II,ILC,1,1,Negative,Negative,Negative,Radiation,None,Deceased,12
+PKBC1016,58,Balochistan,Lahore,Divorced,Secondary,0,0,35.5,Moderate,Healthy,0,1,15,Post,1,1,0,1,0,0,0,6.22,Left,IV,Mucinous,1,1,Negative,Positive,Positive,Targeted Therapy,Partial,Alive,6
+PKBC1017,43,Punjab,Islamabad,Married,None,0,1,23.6,Low,Unhealthy,1,1,15,Pre,5,1,1,0,1,0,0,2.37,Right,II,Mucinous,0,0,Negative,Negative,Positive,Targeted Therapy,Complete,Alive,3
+PKBC1018,28,KPK,Peshawar,Single,Primary,1,0,29.6,High,Healthy,0,0,13,Post,2,0,0,0,1,0,1,2.22,Left,I,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,10
+PKBC1019,79,Sindh,Lahore,Widowed,Postgraduate,1,1,39.1,High,Unhealthy,0,1,10,Post,6,0,1,0,1,1,1,5.75,Right,II,IDC,0,1,Positive,Positive,Negative,Radiation,None,Alive,2
+PKBC1020,63,Punjab,Peshawar,Widowed,None,0,1,20,Low,Mixed,1,0,12,Post,1,0,1,1,0,1,1,9.09,Right,II,IDC,1,1,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,9
+PKBC1021,73,Gilgit-Baltistan,Lahore,Married,Postgraduate,1,1,33,Moderate,Unhealthy,0,1,14,Post,3,1,1,1,0,1,1,7.99,Right,II,ILC,0,1,Negative,Positive,Negative,Radiation,Complete,Alive,6
+PKBC1022,45,Gilgit-Baltistan,Karachi,Married,None,1,0,39.2,High,Mixed,0,1,15,Pre,5,1,1,1,1,1,1,9.1,Left,III,Mucinous,0,1,Positive,Negative,Negative,Surgery,Complete,Deceased,12
+PKBC1023,28,Sindh,Islamabad,Married,None,0,0,24.6,High,Healthy,0,1,10,Post,4,0,0,1,1,0,0,6.04,Left,II,Medullary,0,1,Negative,Negative,Positive,Targeted Therapy,Complete,Alive,2
+PKBC1024,39,Sindh,Lahore,Divorced,None,1,1,37,High,Unhealthy,1,1,13,Pre,0,1,0,1,0,0,1,4.39,Right,I,Mucinous,1,0,Negative,Negative,Negative,Targeted Therapy,Complete,Deceased,7
+PKBC1025,75,Sindh,Quetta,Divorced,Postgraduate,0,0,38.5,Low,Unhealthy,1,1,12,Pre,3,1,0,0,1,0,1,7.43,Right,IV,IDC,1,1,Negative,Positive,Negative,Targeted Therapy,Complete,Alive,10
+PKBC1026,54,Balochistan,Lahore,Widowed,Graduate,0,1,34.4,High,Mixed,1,0,10,Post,7,1,0,0,0,0,1,2.98,Right,IV,ILC,0,0,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,3
+PKBC1027,55,Sindh,Karachi,Single,None,0,0,23.1,Low,Mixed,0,0,12,Pre,2,1,1,1,1,1,0,1.24,Right,III,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,2
+PKBC1028,61,Gilgit-Baltistan,Quetta,Married,Secondary,1,0,25.3,Low,Healthy,0,1,11,Post,4,1,0,1,1,1,0,3.77,Left,I,IDC,1,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,6
+PKBC1029,55,Sindh,Quetta,Divorced,Primary,0,1,18.8,Low,Mixed,1,0,14,Pre,5,1,0,0,0,0,0,3.34,Left,IV,IDC,0,1,Negative,Negative,Negative,Targeted Therapy,None,Alive,6
+PKBC1030,73,KPK,Lahore,Single,Graduate,0,0,36.3,Low,Healthy,0,0,11,Post,1,0,0,1,0,1,0,6.92,Right,IV,Medullary,0,0,Negative,Positive,Positive,Surgery,None,Deceased,8
+PKBC1031,28,Gilgit-Baltistan,Karachi,Married,Graduate,0,1,36.7,Low,Unhealthy,1,1,9,Pre,4,1,1,0,1,0,0,5.74,Left,II,Mucinous,1,0,Negative,Negative,Negative,Surgery,Complete,Alive,9
+PKBC1032,41,KPK,Quetta,Single,Postgraduate,0,1,31.9,High,Healthy,1,0,13,Pre,4,0,1,1,0,0,1,1.81,Right,II,Medullary,1,0,Positive,Negative,Positive,Radiation,None,Alive,6
+PKBC1033,20,Gilgit-Baltistan,Islamabad,Married,Graduate,1,0,25.8,Low,Healthy,1,0,14,Post,2,1,1,0,1,1,1,9.13,Left,II,Mucinous,0,1,Negative,Positive,Negative,Radiation,Partial,Alive,5
+PKBC1034,24,Punjab,Islamabad,Single,Postgraduate,0,0,19.7,Low,Healthy,1,1,10,Pre,0,0,1,1,0,1,0,6.14,Right,III,ILC,1,0,Negative,Positive,Negative,Hormonal Therapy,Complete,Deceased,2
+PKBC1035,28,Gilgit-Baltistan,Peshawar,Widowed,Postgraduate,1,0,34.6,Low,Unhealthy,0,0,12,Post,6,1,1,0,1,1,0,4.85,Left,II,Mucinous,1,1,Negative,Positive,Negative,Chemotherapy,Partial,Alive,3
+PKBC1036,56,Gilgit-Baltistan,Peshawar,Married,Secondary,0,1,34,Low,Unhealthy,0,1,15,Post,7,0,0,0,0,1,0,9.4,Right,I,Medullary,1,0,Negative,Negative,Positive,Surgery,Complete,Alive,7
+PKBC1037,57,KPK,Karachi,Married,None,1,0,38.1,Low,Mixed,0,1,9,Pre,7,0,0,1,0,1,1,1.42,Left,III,Medullary,0,1,Negative,Negative,Negative,Radiation,Complete,Deceased,5
+PKBC1038,38,KPK,Quetta,Widowed,Graduate,1,0,34.1,Low,Healthy,1,0,13,Post,4,1,0,1,1,1,0,8,Right,IV,IDC,1,1,Positive,Negative,Positive,Surgery,None,Deceased,8
+PKBC1039,27,Gilgit-Baltistan,Islamabad,Married,None,1,0,36.2,High,Unhealthy,0,1,13,Post,4,0,0,1,1,1,0,3.96,Left,IV,Mucinous,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,7
+PKBC1040,61,Gilgit-Baltistan,Islamabad,Married,None,1,0,34.4,Low,Healthy,1,0,13,Post,0,0,1,1,1,1,0,7.11,Right,I,Mucinous,0,1,Negative,Positive,Negative,Chemotherapy,None,Deceased,13
+PKBC1041,62,Balochistan,Karachi,Divorced,None,0,1,31.9,Low,Healthy,1,0,10,Post,0,1,0,1,1,0,1,9.34,Right,I,ILC,1,1,Negative,Positive,Negative,Surgery,Complete,Alive,7
+PKBC1042,51,Punjab,Quetta,Widowed,Postgraduate,0,0,27.4,High,Healthy,1,1,14,Pre,1,0,1,0,1,0,0,5.42,Left,IV,IDC,0,0,Positive,Positive,Negative,Chemotherapy,Partial,Alive,10
+PKBC1043,32,Punjab,Karachi,Divorced,None,1,1,37.8,High,Unhealthy,0,0,11,Pre,5,1,1,1,1,1,1,0.72,Left,I,Medullary,0,1,Positive,Negative,Positive,Chemotherapy,Partial,Alive,9
+PKBC1044,39,Sindh,Lahore,Widowed,Graduate,1,0,32.3,Moderate,Healthy,1,0,9,Pre,7,0,0,1,0,1,1,0.77,Left,I,Mucinous,0,0,Positive,Positive,Negative,Surgery,Complete,Alive,9
+PKBC1045,55,Gilgit-Baltistan,Islamabad,Single,Postgraduate,1,0,26.8,High,Healthy,0,0,10,Post,1,0,0,1,1,0,1,3.64,Right,I,IDC,0,0,Negative,Negative,Positive,Surgery,None,Alive,6
+PKBC1046,62,Gilgit-Baltistan,Karachi,Widowed,Graduate,0,0,19.8,High,Mixed,0,0,12,Pre,0,1,0,1,1,0,1,7.93,Right,II,ILC,0,0,Positive,Positive,Positive,Radiation,Complete,Deceased,9
+PKBC1047,63,Gilgit-Baltistan,Karachi,Widowed,Postgraduate,1,1,24.4,Low,Healthy,0,0,10,Pre,6,0,0,0,1,0,1,3.24,Right,IV,IDC,0,1,Negative,Negative,Negative,Surgery,Partial,Alive,10
+PKBC1048,56,Gilgit-Baltistan,Lahore,Divorced,Primary,1,1,30,Moderate,Mixed,0,0,12,Pre,3,0,0,1,1,0,0,3.68,Left,I,Mucinous,1,1,Negative,Positive,Negative,Surgery,Partial,Deceased,0
+PKBC1049,49,Punjab,Peshawar,Married,Primary,0,0,24.1,Low,Healthy,0,0,12,Post,0,1,1,1,0,1,1,7.95,Right,I,Mucinous,0,0,Positive,Negative,Negative,Surgery,Partial,Deceased,14
+PKBC1050,29,KPK,Islamabad,Widowed,Primary,0,1,22.9,Moderate,Mixed,0,1,13,Pre,1,1,0,1,1,0,1,1.6,Left,II,ILC,1,1,Negative,Negative,Negative,Radiation,Complete,Alive,4
+PKBC1051,50,Balochistan,Karachi,Married,Primary,0,1,29.6,Low,Unhealthy,0,0,10,Post,2,1,1,1,1,0,1,8.54,Right,IV,ILC,0,0,Negative,Positive,Positive,Chemotherapy,Partial,Alive,13
+PKBC1052,44,KPK,Islamabad,Widowed,Postgraduate,0,0,21.7,High,Unhealthy,0,1,11,Pre,2,0,1,0,0,0,0,3.03,Right,III,ILC,0,0,Positive,Negative,Negative,Radiation,Partial,Alive,6
+PKBC1053,48,KPK,Peshawar,Divorced,None,0,0,35.6,High,Healthy,1,1,12,Pre,5,0,0,0,0,0,1,0.99,Right,IV,Medullary,1,0,Negative,Positive,Positive,Surgery,None,Deceased,9
+PKBC1054,43,Punjab,Karachi,Widowed,Secondary,0,0,28.7,Moderate,Mixed,1,0,15,Post,4,1,1,0,1,1,1,1.61,Left,IV,IDC,0,1,Positive,Negative,Negative,Targeted Therapy,None,Deceased,8
+PKBC1055,58,Balochistan,Lahore,Single,Secondary,1,0,30.6,Low,Unhealthy,0,1,13,Pre,6,0,1,0,0,0,1,9.55,Right,IV,IDC,0,1,Positive,Positive,Positive,Surgery,Partial,Deceased,11
+PKBC1056,40,Gilgit-Baltistan,Islamabad,Widowed,Primary,1,0,21.2,Low,Healthy,0,1,11,Post,2,0,1,0,1,1,0,4.79,Right,II,IDC,0,1,Positive,Positive,Positive,Radiation,None,Alive,3
+PKBC1057,60,Punjab,Lahore,Widowed,None,0,0,25.1,High,Healthy,0,1,10,Post,1,0,1,1,0,1,1,2.94,Left,IV,Medullary,0,0,Negative,Positive,Positive,Radiation,Complete,Deceased,7
+PKBC1058,28,Punjab,Peshawar,Married,Graduate,1,1,27,High,Mixed,0,0,11,Pre,2,0,1,0,0,1,1,5.45,Right,III,IDC,1,0,Positive,Negative,Positive,Hormonal Therapy,None,Deceased,0
+PKBC1059,61,Balochistan,Peshawar,Married,None,0,0,35.8,Moderate,Mixed,0,1,10,Post,6,0,0,0,0,1,1,6.98,Left,I,ILC,0,1,Positive,Negative,Negative,Targeted Therapy,None,Deceased,3
+PKBC1060,61,Sindh,Islamabad,Single,Graduate,1,0,34.9,High,Healthy,1,1,12,Post,6,1,0,1,0,1,1,3.53,Right,IV,IDC,0,1,Negative,Positive,Negative,Radiation,None,Deceased,3
+PKBC1061,21,Punjab,Peshawar,Widowed,Secondary,0,0,22.9,Moderate,Mixed,0,1,9,Post,3,1,0,0,0,0,1,7.39,Right,II,Medullary,0,0,Positive,Negative,Negative,Chemotherapy,None,Alive,1
+PKBC1062,23,KPK,Quetta,Married,None,0,0,31.6,Moderate,Mixed,0,1,9,Post,0,0,1,0,1,1,1,2.9,Left,IV,Medullary,1,0,Negative,Positive,Negative,Surgery,Complete,Deceased,10
+PKBC1063,27,KPK,Islamabad,Widowed,None,1,1,23.4,Moderate,Unhealthy,0,1,14,Pre,0,0,1,0,1,0,1,1.57,Right,IV,IDC,0,0,Negative,Negative,Positive,Chemotherapy,None,Alive,10
+PKBC1064,51,Gilgit-Baltistan,Quetta,Divorced,Secondary,1,1,39.7,Moderate,Mixed,1,1,14,Post,1,0,0,0,0,0,0,5.72,Left,III,Medullary,0,0,Positive,Positive,Negative,Radiation,Partial,Alive,2
+PKBC1065,33,Punjab,Peshawar,Divorced,None,0,1,38.9,High,Healthy,1,0,12,Post,4,1,1,1,0,1,0,1.94,Left,III,Medullary,1,1,Positive,Positive,Positive,Radiation,None,Alive,2
+PKBC1066,68,Gilgit-Baltistan,Islamabad,Single,Graduate,0,0,30.4,Moderate,Mixed,0,1,11,Pre,6,1,1,0,0,1,0,9.43,Right,II,IDC,0,1,Negative,Positive,Positive,Chemotherapy,None,Alive,8
+PKBC1067,32,Punjab,Quetta,Divorced,None,0,0,33.4,High,Healthy,1,1,10,Pre,0,1,1,0,1,0,1,0.5,Right,II,Medullary,1,0,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,6
+PKBC1068,40,Balochistan,Peshawar,Married,Graduate,0,1,35.6,Moderate,Healthy,1,0,9,Pre,7,1,1,0,1,1,0,7.68,Right,II,Medullary,1,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Alive,1
+PKBC1069,43,Punjab,Karachi,Married,Primary,0,1,33.9,High,Mixed,1,0,10,Post,2,1,1,0,1,1,1,3.15,Right,II,IDC,1,1,Positive,Negative,Positive,Surgery,Partial,Alive,8
+PKBC1070,69,Sindh,Karachi,Single,None,0,0,33.4,Moderate,Mixed,1,1,12,Post,6,0,0,0,0,1,0,8.54,Right,II,ILC,1,0,Negative,Negative,Positive,Chemotherapy,Partial,Deceased,7
+PKBC1071,37,KPK,Lahore,Widowed,Graduate,1,0,39.1,High,Mixed,1,1,11,Post,3,0,0,1,1,0,0,1.07,Left,I,ILC,1,0,Positive,Negative,Positive,Surgery,Partial,Deceased,5
+PKBC1072,64,Balochistan,Karachi,Married,Secondary,1,0,31.1,Low,Unhealthy,1,0,15,Post,7,0,1,0,0,0,1,9.55,Left,I,Medullary,0,1,Positive,Negative,Positive,Targeted Therapy,Partial,Deceased,5
+PKBC1073,59,KPK,Quetta,Divorced,Primary,1,0,32,Moderate,Unhealthy,1,1,10,Pre,4,0,0,0,0,1,1,1.46,Left,II,Mucinous,0,1,Negative,Positive,Positive,Radiation,None,Deceased,11
+PKBC1074,45,Gilgit-Baltistan,Karachi,Married,None,1,0,36.7,Moderate,Mixed,1,1,11,Pre,4,1,0,1,0,1,1,7.98,Left,II,Mucinous,1,1,Positive,Positive,Positive,Chemotherapy,None,Alive,1
+PKBC1075,51,Balochistan,Islamabad,Single,Graduate,1,1,32.7,Low,Healthy,0,0,15,Post,4,0,1,1,0,1,1,5.41,Left,I,IDC,0,0,Positive,Positive,Positive,Targeted Therapy,None,Deceased,12
+PKBC1076,63,Sindh,Islamabad,Divorced,None,0,0,34.1,Low,Mixed,0,1,9,Post,7,0,0,0,1,0,1,4.59,Right,III,IDC,0,0,Negative,Negative,Negative,Radiation,None,Deceased,2
+PKBC1077,76,KPK,Islamabad,Divorced,Graduate,0,1,23.2,Moderate,Unhealthy,1,0,10,Post,0,0,0,1,1,1,0,3.16,Left,I,ILC,1,1,Negative,Positive,Positive,Hormonal Therapy,Complete,Alive,5
+PKBC1078,74,Punjab,Karachi,Divorced,None,1,0,26.2,High,Unhealthy,1,1,13,Post,5,0,1,0,0,1,1,8.49,Left,II,Mucinous,1,1,Negative,Negative,Negative,Radiation,None,Alive,13
+PKBC1079,75,Punjab,Karachi,Single,Primary,0,1,21.2,Moderate,Mixed,0,1,9,Pre,4,1,0,0,0,1,0,2.4,Right,III,IDC,0,0,Positive,Negative,Positive,Chemotherapy,None,Deceased,11
+PKBC1080,72,Punjab,Lahore,Single,Primary,1,1,29.1,High,Healthy,0,0,11,Pre,7,1,1,0,0,1,0,7.35,Right,II,Mucinous,0,0,Positive,Negative,Positive,Targeted Therapy,Complete,Alive,2
+PKBC1081,52,Balochistan,Peshawar,Widowed,None,1,1,28,Low,Healthy,1,0,12,Pre,7,0,0,0,0,0,1,4.74,Right,IV,Mucinous,1,0,Negative,Positive,Positive,Targeted Therapy,Partial,Deceased,10
+PKBC1082,71,Sindh,Lahore,Widowed,None,0,0,39.9,High,Unhealthy,0,1,13,Pre,1,0,0,1,0,1,0,9.99,Right,III,Medullary,0,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,10
+PKBC1083,50,Sindh,Quetta,Widowed,Postgraduate,0,0,31.4,Moderate,Unhealthy,1,1,14,Post,2,0,0,1,0,1,0,6.31,Left,II,Medullary,1,1,Positive,Negative,Positive,Radiation,None,Alive,6
+PKBC1084,37,Sindh,Islamabad,Single,None,1,0,35.3,Low,Unhealthy,0,1,10,Pre,5,0,0,1,1,0,1,1.49,Right,I,Mucinous,1,0,Negative,Negative,Negative,Surgery,Partial,Alive,13
+PKBC1085,54,KPK,Karachi,Divorced,None,1,1,25.3,Low,Healthy,1,0,14,Post,3,1,1,1,1,1,1,4.49,Left,II,ILC,1,1,Negative,Negative,Negative,Surgery,None,Alive,4
+PKBC1086,31,Balochistan,Peshawar,Divorced,Primary,1,1,36.3,Moderate,Unhealthy,0,0,9,Pre,2,1,1,0,1,1,0,1.13,Right,I,IDC,0,1,Negative,Negative,Positive,Radiation,Partial,Alive,3
+PKBC1087,70,Punjab,Peshawar,Married,None,1,0,31.5,Moderate,Unhealthy,1,0,10,Pre,1,0,0,0,0,0,0,3.21,Right,III,IDC,1,1,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,7
+PKBC1088,44,KPK,Karachi,Widowed,Secondary,0,1,33.3,Low,Healthy,0,0,10,Post,1,0,1,0,1,1,0,3.76,Left,I,ILC,1,0,Positive,Negative,Positive,Radiation,Partial,Deceased,10
+PKBC1089,64,Sindh,Lahore,Divorced,None,1,1,24.5,High,Unhealthy,0,0,13,Pre,6,1,1,1,1,0,1,8.61,Left,III,Medullary,1,0,Negative,Negative,Negative,Surgery,None,Alive,10
+PKBC1090,50,Punjab,Peshawar,Divorced,Postgraduate,0,1,30.1,High,Unhealthy,1,0,13,Pre,5,1,0,0,1,1,1,8.46,Right,II,Medullary,1,1,Positive,Negative,Negative,Radiation,Partial,Deceased,1
+PKBC1091,29,Balochistan,Lahore,Divorced,Graduate,1,1,31.9,High,Mixed,1,1,13,Pre,2,0,0,0,1,1,1,0.61,Left,I,ILC,1,0,Positive,Positive,Positive,Targeted Therapy,None,Alive,2
+PKBC1092,66,Gilgit-Baltistan,Karachi,Divorced,Primary,1,0,31,Moderate,Unhealthy,0,0,13,Pre,0,0,1,0,1,1,0,5.56,Right,III,ILC,0,1,Negative,Negative,Positive,Chemotherapy,Complete,Deceased,9
+PKBC1093,71,Sindh,Lahore,Single,Secondary,0,1,38.1,Low,Mixed,0,0,12,Post,6,0,1,1,0,0,1,2.62,Right,III,Medullary,0,1,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,11
+PKBC1094,53,Sindh,Islamabad,Widowed,Graduate,0,0,37.8,High,Unhealthy,1,0,11,Pre,1,1,1,1,0,1,1,3.54,Left,III,Mucinous,0,0,Negative,Negative,Negative,Hormonal Therapy,None,Deceased,3
+PKBC1095,70,Sindh,Karachi,Divorced,Secondary,0,1,39.4,Low,Unhealthy,0,0,13,Pre,4,1,1,1,0,0,0,0.71,Left,IV,Medullary,1,1,Positive,Positive,Positive,Radiation,Partial,Deceased,11
+PKBC1096,22,Sindh,Karachi,Divorced,Primary,0,1,32.7,High,Mixed,0,1,9,Pre,3,1,0,1,1,0,0,7.62,Left,III,Mucinous,0,1,Negative,Positive,Positive,Targeted Therapy,None,Deceased,9
+PKBC1097,65,Punjab,Peshawar,Divorced,Postgraduate,0,0,39.4,Low,Unhealthy,0,0,10,Post,7,1,1,0,0,0,0,9.53,Right,II,IDC,1,1,Negative,Positive,Positive,Radiation,None,Deceased,13
+PKBC1098,58,Balochistan,Peshawar,Divorced,Primary,1,1,36.3,Moderate,Mixed,0,1,14,Post,3,1,1,0,1,0,1,2.58,Left,II,IDC,0,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Alive,5
+PKBC1099,27,KPK,Peshawar,Married,Secondary,1,0,24,Moderate,Unhealthy,0,0,13,Pre,1,0,1,0,0,0,1,3.75,Left,II,Mucinous,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,14
+PKBC1100,51,Punjab,Islamabad,Divorced,Secondary,1,0,27.4,Moderate,Mixed,1,1,9,Pre,4,0,0,0,1,0,1,2.46,Right,III,Mucinous,1,1,Negative,Negative,Positive,Radiation,None,Alive,4
+PKBC1101,62,Balochistan,Islamabad,Divorced,Primary,0,0,23.2,High,Mixed,0,0,12,Pre,2,0,1,1,1,1,1,9.34,Left,II,Medullary,0,0,Positive,Negative,Positive,Radiation,Complete,Deceased,14
+PKBC1102,48,KPK,Quetta,Divorced,None,0,0,18.1,Moderate,Unhealthy,0,0,9,Post,7,0,1,0,0,1,1,0.59,Left,III,ILC,0,1,Negative,Positive,Negative,Radiation,None,Alive,4
+PKBC1103,41,Sindh,Karachi,Married,Primary,0,0,22.1,Moderate,Unhealthy,1,0,14,Pre,3,1,0,0,0,1,1,6.05,Left,III,Mucinous,0,0,Positive,Negative,Negative,Surgery,None,Deceased,6
+PKBC1104,39,Balochistan,Peshawar,Single,Postgraduate,1,0,18.1,Moderate,Mixed,1,0,14,Pre,4,0,0,1,1,1,1,8.77,Left,III,IDC,1,0,Negative,Negative,Positive,Hormonal Therapy,Complete,Deceased,7
+PKBC1105,25,Sindh,Karachi,Married,Primary,0,0,33.8,Low,Healthy,1,1,9,Post,4,1,1,0,1,0,0,2.27,Right,IV,Medullary,0,0,Negative,Positive,Negative,Chemotherapy,Partial,Deceased,5
+PKBC1106,62,Balochistan,Lahore,Divorced,Graduate,1,1,27.4,Low,Unhealthy,1,1,12,Post,0,1,0,0,0,1,1,6.1,Left,I,IDC,1,0,Positive,Positive,Positive,Surgery,Complete,Alive,14
+PKBC1107,68,Gilgit-Baltistan,Islamabad,Single,None,1,0,24.9,Low,Unhealthy,1,0,14,Post,1,0,1,1,0,1,1,0.98,Right,II,Medullary,1,0,Negative,Positive,Negative,Targeted Therapy,Partial,Deceased,13
+PKBC1108,48,Sindh,Quetta,Divorced,Graduate,1,1,34.8,Low,Healthy,0,0,12,Pre,4,0,1,1,1,0,0,8.24,Right,IV,ILC,1,1,Negative,Positive,Positive,Chemotherapy,None,Deceased,2
+PKBC1109,61,Sindh,Lahore,Single,Primary,0,1,36.3,Low,Healthy,0,1,10,Pre,6,0,0,0,0,1,0,3.11,Left,II,ILC,0,1,Positive,Negative,Positive,Chemotherapy,None,Alive,3
+PKBC1110,75,Sindh,Karachi,Divorced,None,1,1,39.5,Low,Mixed,0,1,13,Pre,2,0,0,0,0,0,0,9.89,Right,IV,IDC,0,0,Positive,Negative,Positive,Chemotherapy,Complete,Alive,13
+PKBC1111,36,Punjab,Islamabad,Divorced,Graduate,1,0,32.1,Low,Unhealthy,1,1,14,Post,3,0,0,0,0,1,0,9.26,Left,I,Mucinous,1,1,Negative,Positive,Negative,Hormonal Therapy,Complete,Alive,0
+PKBC1112,50,KPK,Peshawar,Single,Graduate,1,0,28.2,Moderate,Mixed,1,0,9,Pre,6,0,1,0,0,1,1,7.46,Right,I,Mucinous,1,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,13
+PKBC1113,72,Sindh,Lahore,Single,None,0,1,24.7,Moderate,Unhealthy,1,1,11,Pre,0,1,0,0,1,0,1,5.22,Left,I,IDC,0,1,Positive,Negative,Negative,Surgery,None,Deceased,10
+PKBC1114,53,Sindh,Islamabad,Divorced,None,1,0,22.9,High,Healthy,0,0,11,Post,2,1,1,1,1,1,0,7.78,Right,I,Mucinous,0,0,Negative,Positive,Positive,Targeted Therapy,Partial,Alive,13
+PKBC1115,57,Punjab,Karachi,Married,Secondary,0,1,22.7,Moderate,Mixed,0,0,15,Post,3,1,0,0,1,1,0,1.74,Right,III,Mucinous,0,0,Negative,Positive,Negative,Surgery,Complete,Deceased,4
+PKBC1116,76,Punjab,Karachi,Married,None,0,1,27,Low,Unhealthy,0,1,10,Pre,1,0,1,0,0,1,1,3.45,Right,II,IDC,0,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,12
+PKBC1117,56,Gilgit-Baltistan,Lahore,Married,Primary,1,1,39.8,Low,Unhealthy,0,0,11,Post,2,1,1,0,1,1,0,0.76,Right,II,IDC,1,1,Negative,Negative,Negative,Targeted Therapy,Complete,Deceased,14
+PKBC1118,23,Balochistan,Lahore,Married,Postgraduate,1,0,18,High,Healthy,0,0,10,Pre,7,0,0,0,1,0,0,6.63,Right,II,ILC,0,1,Negative,Negative,Positive,Chemotherapy,Complete,Alive,11
+PKBC1119,21,Sindh,Lahore,Single,Secondary,0,1,22.3,Moderate,Healthy,0,1,13,Pre,3,0,0,0,0,1,1,8.15,Right,III,IDC,1,0,Positive,Negative,Positive,Targeted Therapy,Complete,Deceased,9
+PKBC1120,31,Balochistan,Quetta,Single,None,1,0,22.1,Moderate,Unhealthy,1,0,15,Pre,0,1,1,0,0,0,0,9.49,Left,II,ILC,1,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Alive,7
+PKBC1121,54,Punjab,Peshawar,Married,Postgraduate,0,1,33.8,High,Healthy,0,1,10,Post,7,1,0,0,1,0,1,7.02,Right,I,ILC,0,1,Negative,Negative,Positive,Hormonal Therapy,None,Alive,2
+PKBC1122,25,Punjab,Islamabad,Widowed,Secondary,0,0,25.8,Low,Healthy,0,1,12,Pre,6,0,0,0,1,1,0,7.45,Left,II,Medullary,0,1,Negative,Positive,Negative,Hormonal Therapy,None,Alive,9
+PKBC1123,75,Gilgit-Baltistan,Karachi,Widowed,Primary,0,1,28.1,Low,Mixed,0,1,12,Post,3,0,0,0,0,0,1,9.01,Right,II,Mucinous,0,0,Negative,Negative,Positive,Surgery,Complete,Deceased,12
+PKBC1124,65,KPK,Karachi,Widowed,Postgraduate,1,0,21.3,Low,Unhealthy,0,0,15,Post,7,1,0,1,0,1,0,9.4,Left,IV,IDC,0,0,Negative,Positive,Negative,Targeted Therapy,None,Deceased,14
+PKBC1125,27,Punjab,Peshawar,Divorced,None,0,1,26.9,Low,Mixed,0,1,12,Post,4,1,0,1,0,0,1,5.17,Right,III,Mucinous,0,0,Positive,Positive,Positive,Chemotherapy,None,Deceased,3
+PKBC1126,40,Sindh,Lahore,Married,None,0,0,20.3,High,Healthy,1,1,14,Post,0,1,0,0,0,0,1,1.54,Right,I,Medullary,0,1,Negative,Negative,Positive,Chemotherapy,None,Alive,12
+PKBC1127,72,Gilgit-Baltistan,Lahore,Divorced,Primary,1,0,29.7,Moderate,Unhealthy,0,0,12,Pre,2,1,0,0,0,0,0,4.93,Right,I,IDC,0,0,Negative,Negative,Positive,Radiation,None,Alive,3
+PKBC1128,77,KPK,Karachi,Single,Secondary,1,0,20.2,Low,Healthy,0,0,12,Post,7,1,1,0,1,0,0,5.78,Right,I,IDC,1,1,Positive,Positive,Negative,Hormonal Therapy,Partial,Deceased,5
+PKBC1129,65,Gilgit-Baltistan,Peshawar,Single,Postgraduate,0,1,35.4,Moderate,Healthy,1,1,12,Pre,5,1,0,0,1,1,0,6.5,Right,II,Medullary,1,1,Negative,Positive,Positive,Chemotherapy,Partial,Deceased,8
+PKBC1130,54,Punjab,Karachi,Widowed,Primary,0,1,30.5,Moderate,Unhealthy,1,0,12,Pre,7,0,1,0,1,1,0,9.9,Right,I,Mucinous,0,0,Negative,Positive,Positive,Hormonal Therapy,None,Alive,9
+PKBC1131,67,KPK,Lahore,Widowed,Secondary,0,1,33.9,Low,Healthy,0,0,14,Pre,1,1,0,0,1,1,0,9.22,Right,I,ILC,1,1,Negative,Positive,Positive,Chemotherapy,Partial,Deceased,2
+PKBC1132,34,Balochistan,Islamabad,Single,Graduate,1,0,27.2,Low,Mixed,0,0,12,Pre,6,0,1,1,0,1,1,4.27,Right,IV,Medullary,1,0,Positive,Positive,Positive,Targeted Therapy,Complete,Alive,3
+PKBC1133,26,KPK,Lahore,Widowed,Graduate,0,0,26.4,Low,Unhealthy,0,0,12,Post,0,0,1,0,0,0,1,1.58,Left,II,Medullary,0,0,Negative,Negative,Negative,Radiation,Partial,Alive,5
+PKBC1134,34,Sindh,Islamabad,Widowed,Secondary,0,1,20.2,Moderate,Healthy,0,0,13,Post,6,1,0,1,1,1,1,2.54,Left,IV,IDC,1,1,Positive,Positive,Positive,Hormonal Therapy,Complete,Alive,5
+PKBC1135,64,Balochistan,Quetta,Single,None,1,1,29.5,High,Healthy,0,1,14,Pre,0,1,0,1,0,1,1,2.15,Right,III,ILC,0,0,Positive,Negative,Positive,Surgery,Partial,Alive,6
+PKBC1136,25,Balochistan,Peshawar,Divorced,None,1,0,29.3,Low,Healthy,1,1,12,Pre,0,1,0,1,1,1,0,3.88,Left,II,Medullary,0,1,Negative,Negative,Positive,Surgery,Partial,Deceased,14
+PKBC1137,66,Sindh,Quetta,Widowed,Graduate,0,1,28.3,Moderate,Unhealthy,1,1,10,Pre,3,0,0,1,1,0,1,8.83,Right,IV,Mucinous,1,1,Positive,Negative,Negative,Chemotherapy,Complete,Alive,0
+PKBC1138,36,Balochistan,Lahore,Divorced,None,1,0,34.3,Moderate,Mixed,0,0,15,Post,7,0,1,1,1,0,1,4.66,Left,III,Medullary,0,0,Positive,Negative,Negative,Targeted Therapy,Complete,Alive,13
+PKBC1139,23,Punjab,Peshawar,Widowed,None,0,0,36.3,Low,Healthy,0,0,13,Post,4,1,1,1,1,0,1,5.89,Right,IV,Mucinous,0,1,Positive,Positive,Positive,Hormonal Therapy,None,Deceased,13
+PKBC1140,41,KPK,Lahore,Married,Secondary,0,0,34.5,High,Healthy,1,1,14,Pre,5,1,0,1,1,0,0,2.2,Left,III,IDC,0,1,Positive,Negative,Negative,Radiation,Partial,Alive,8
+PKBC1141,51,KPK,Peshawar,Divorced,Secondary,1,1,21.2,Low,Healthy,1,1,11,Pre,1,0,1,1,1,0,0,5.18,Left,I,Medullary,1,0,Negative,Negative,Positive,Targeted Therapy,Complete,Alive,1
+PKBC1142,78,Sindh,Peshawar,Divorced,None,0,0,31.7,Low,Unhealthy,0,1,9,Pre,7,0,0,1,0,1,1,8.8,Right,I,Mucinous,1,1,Negative,Negative,Negative,Chemotherapy,None,Alive,13
+PKBC1143,41,Punjab,Lahore,Widowed,Secondary,0,1,19.8,High,Healthy,0,0,14,Post,6,1,1,0,0,0,0,7.85,Left,II,IDC,0,0,Negative,Positive,Positive,Targeted Therapy,Complete,Alive,3
+PKBC1144,46,Balochistan,Lahore,Divorced,Postgraduate,1,0,33.3,Low,Healthy,0,1,15,Pre,1,1,0,0,1,1,1,1.27,Right,IV,IDC,0,0,Negative,Negative,Positive,Radiation,None,Deceased,2
+PKBC1145,65,KPK,Peshawar,Married,Graduate,0,1,26.4,Low,Healthy,0,0,13,Post,4,1,1,1,1,0,0,8.69,Right,IV,IDC,1,1,Positive,Negative,Negative,Targeted Therapy,None,Deceased,2
+PKBC1146,34,KPK,Peshawar,Single,Postgraduate,1,1,20.9,High,Unhealthy,0,1,12,Post,3,0,0,1,1,0,0,3.1,Left,III,Medullary,1,1,Negative,Negative,Positive,Hormonal Therapy,Complete,Deceased,10
+PKBC1147,79,KPK,Lahore,Married,Postgraduate,0,0,37,Moderate,Mixed,0,1,13,Post,3,0,1,1,0,0,0,6.82,Right,II,IDC,0,0,Negative,Positive,Positive,Chemotherapy,Complete,Deceased,4
+PKBC1148,63,KPK,Lahore,Single,None,1,0,31.5,Moderate,Unhealthy,1,0,9,Pre,4,1,0,0,0,0,1,1.89,Left,I,IDC,1,1,Positive,Positive,Negative,Radiation,Partial,Alive,6
+PKBC1149,70,Gilgit-Baltistan,Karachi,Married,None,1,0,25.8,Moderate,Mixed,1,0,9,Post,6,1,0,0,0,0,0,6.91,Left,IV,Mucinous,0,0,Negative,Positive,Positive,Chemotherapy,Partial,Alive,12
+PKBC1150,41,Sindh,Karachi,Married,Postgraduate,1,0,18.7,Moderate,Mixed,1,1,14,Post,4,1,1,1,1,0,1,0.84,Left,III,IDC,1,1,Positive,Negative,Positive,Hormonal Therapy,None,Deceased,11
+PKBC1151,47,Balochistan,Karachi,Divorced,Postgraduate,1,1,29.8,Moderate,Unhealthy,1,1,12,Pre,2,0,1,1,0,1,0,6.21,Left,I,Medullary,1,0,Negative,Positive,Positive,Radiation,Complete,Alive,6
+PKBC1152,61,Balochistan,Quetta,Married,Primary,1,1,38.3,Low,Healthy,0,1,12,Pre,3,0,1,1,1,0,1,6.64,Left,I,ILC,1,0,Negative,Positive,Negative,Radiation,Partial,Deceased,13
+PKBC1153,57,Sindh,Peshawar,Widowed,Primary,1,1,31.1,High,Mixed,1,0,10,Pre,6,0,1,1,0,0,1,2.82,Left,I,IDC,1,1,Negative,Positive,Negative,Chemotherapy,None,Alive,13
+PKBC1154,79,Punjab,Islamabad,Widowed,Graduate,0,1,39.4,Moderate,Healthy,1,0,9,Post,0,1,1,1,1,1,1,9.4,Right,III,Medullary,0,1,Positive,Negative,Positive,Targeted Therapy,Partial,Deceased,6
+PKBC1155,76,Sindh,Quetta,Widowed,Postgraduate,0,1,21,High,Mixed,0,1,12,Post,7,1,0,1,1,0,1,0.94,Left,III,IDC,0,1,Negative,Positive,Negative,Targeted Therapy,None,Deceased,2
+PKBC1156,28,KPK,Peshawar,Widowed,Secondary,1,0,30.5,Moderate,Healthy,1,1,9,Pre,1,1,1,0,1,0,1,8.97,Left,I,Medullary,1,0,Negative,Negative,Positive,Surgery,Partial,Deceased,8
+PKBC1157,53,KPK,Islamabad,Divorced,Primary,0,0,35.6,Low,Healthy,0,1,10,Post,3,0,1,0,0,1,1,4.13,Left,III,IDC,0,0,Positive,Negative,Negative,Surgery,Complete,Deceased,5
+PKBC1158,55,Sindh,Karachi,Widowed,None,1,1,29.6,Moderate,Unhealthy,0,0,11,Pre,4,0,1,0,0,1,0,7.28,Right,I,Mucinous,0,1,Negative,Negative,Negative,Radiation,None,Alive,10
+PKBC1159,28,Sindh,Islamabad,Married,Postgraduate,1,0,20,Moderate,Healthy,1,1,9,Pre,0,0,1,1,0,0,1,6.69,Right,I,ILC,1,1,Negative,Negative,Negative,Chemotherapy,None,Alive,11
+PKBC1160,34,Balochistan,Lahore,Widowed,Secondary,0,0,30.8,High,Mixed,1,1,10,Post,7,1,0,1,1,0,0,2.1,Right,I,ILC,1,0,Positive,Positive,Positive,Radiation,Partial,Alive,10
+PKBC1161,64,Balochistan,Lahore,Divorced,Secondary,1,0,31.5,High,Healthy,1,0,10,Post,7,1,0,0,1,0,1,3.53,Left,III,Medullary,0,1,Positive,Positive,Negative,Chemotherapy,Partial,Deceased,9
+PKBC1162,39,Gilgit-Baltistan,Peshawar,Single,Secondary,0,0,34,Low,Healthy,0,1,15,Post,7,0,0,0,0,0,1,5.53,Left,II,Medullary,1,1,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,10
+PKBC1163,27,Gilgit-Baltistan,Quetta,Married,None,1,0,34.7,High,Healthy,1,1,10,Post,2,1,0,1,0,0,0,8.54,Left,II,ILC,0,0,Positive,Negative,Positive,Surgery,Complete,Alive,7
+PKBC1164,77,KPK,Karachi,Married,Primary,1,0,35,High,Mixed,0,0,13,Pre,5,1,1,0,1,0,1,9.57,Right,III,Mucinous,1,1,Positive,Negative,Negative,Radiation,Partial,Alive,13
+PKBC1165,47,Gilgit-Baltistan,Peshawar,Divorced,Secondary,0,1,32.6,High,Mixed,1,0,14,Pre,2,0,0,0,1,1,0,0.7,Right,IV,Mucinous,0,0,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,14
+PKBC1166,70,Gilgit-Baltistan,Karachi,Single,Primary,1,0,22.7,Low,Mixed,0,1,12,Post,0,0,0,0,0,1,1,3.85,Right,III,IDC,1,0,Negative,Positive,Negative,Targeted Therapy,Complete,Alive,13
+PKBC1167,38,Punjab,Lahore,Widowed,Graduate,1,0,26.9,Low,Healthy,1,0,9,Post,7,0,1,0,1,1,0,6.85,Left,IV,Mucinous,1,1,Negative,Positive,Positive,Surgery,Partial,Deceased,0
+PKBC1168,76,Sindh,Quetta,Single,None,1,1,35.1,Low,Unhealthy,1,0,14,Post,6,0,1,1,0,1,0,5.51,Left,I,ILC,0,1,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,3
+PKBC1169,35,Balochistan,Quetta,Married,Primary,0,1,39,High,Mixed,0,0,13,Pre,6,0,1,1,0,0,1,9.46,Right,IV,ILC,1,1,Positive,Positive,Positive,Targeted Therapy,Complete,Alive,14
+PKBC1170,30,Gilgit-Baltistan,Lahore,Married,Primary,0,1,19.7,High,Healthy,1,0,9,Pre,0,1,1,1,1,1,0,0.66,Left,I,Mucinous,0,0,Negative,Positive,Negative,Targeted Therapy,Partial,Alive,14
+PKBC1171,61,Balochistan,Islamabad,Married,Secondary,0,0,29.8,Low,Mixed,1,0,14,Post,6,0,1,1,0,0,0,4.66,Right,II,Mucinous,0,0,Positive,Positive,Positive,Hormonal Therapy,Complete,Alive,6
+PKBC1172,27,Gilgit-Baltistan,Quetta,Single,Secondary,0,1,24.9,High,Unhealthy,0,0,13,Pre,4,1,1,0,0,0,1,6.85,Right,I,ILC,1,0,Positive,Positive,Negative,Radiation,Partial,Deceased,11
+PKBC1173,52,Gilgit-Baltistan,Islamabad,Widowed,None,0,0,23,High,Healthy,1,0,12,Pre,6,1,0,0,1,1,1,2.57,Right,IV,ILC,1,1,Negative,Negative,Positive,Radiation,Complete,Alive,8
+PKBC1174,29,KPK,Karachi,Married,Primary,1,1,29.1,Moderate,Mixed,1,1,10,Pre,5,0,0,0,0,0,1,7.4,Left,II,ILC,1,0,Negative,Positive,Positive,Hormonal Therapy,None,Deceased,11
+PKBC1175,37,Punjab,Quetta,Divorced,Postgraduate,0,0,31.3,Low,Mixed,0,0,14,Pre,4,0,1,1,0,1,0,1.27,Right,II,ILC,1,0,Negative,Negative,Positive,Targeted Therapy,Partial,Deceased,2
+PKBC1176,54,Sindh,Lahore,Widowed,Secondary,0,0,18.2,Low,Unhealthy,1,0,14,Post,1,1,0,1,1,1,0,4.78,Right,III,ILC,0,0,Positive,Positive,Positive,Surgery,None,Alive,11
+PKBC1177,62,Sindh,Islamabad,Married,Secondary,1,1,35.2,High,Mixed,0,0,9,Post,6,1,1,1,1,1,0,6.92,Left,IV,Mucinous,0,1,Positive,Positive,Negative,Targeted Therapy,None,Alive,10
+PKBC1178,69,KPK,Karachi,Widowed,Graduate,1,0,36,High,Healthy,1,0,10,Post,5,1,1,1,0,1,1,3.03,Left,IV,Mucinous,1,0,Positive,Negative,Positive,Hormonal Therapy,None,Alive,11
+PKBC1179,22,KPK,Karachi,Divorced,None,0,0,39.2,Moderate,Healthy,1,1,15,Post,5,0,0,0,0,1,1,1.2,Right,III,IDC,0,1,Negative,Positive,Positive,Targeted Therapy,None,Deceased,5
+PKBC1180,59,Sindh,Quetta,Single,Primary,1,0,22,Low,Unhealthy,0,1,12,Pre,1,1,0,1,1,0,0,9.59,Left,III,IDC,1,1,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,7
+PKBC1181,46,Sindh,Quetta,Married,Primary,1,0,31.1,Low,Unhealthy,1,0,9,Post,2,0,0,0,1,1,1,9.18,Left,II,Medullary,0,0,Negative,Positive,Positive,Targeted Therapy,Complete,Alive,10
+PKBC1182,78,Punjab,Peshawar,Divorced,Primary,1,1,27.4,High,Unhealthy,0,1,11,Post,0,0,0,0,0,0,1,9.3,Left,III,IDC,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,2
+PKBC1183,47,Gilgit-Baltistan,Peshawar,Married,Secondary,0,1,25.4,Low,Healthy,0,1,11,Post,2,1,0,0,0,0,1,9.8,Left,II,Mucinous,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,5
+PKBC1184,65,Punjab,Quetta,Married,None,1,1,30.4,High,Unhealthy,1,1,11,Post,6,0,1,1,0,0,1,2.25,Right,IV,IDC,0,1,Negative,Negative,Negative,Chemotherapy,Complete,Deceased,8
+PKBC1185,25,Sindh,Peshawar,Single,Primary,1,0,35.2,Moderate,Mixed,0,1,12,Post,6,1,0,1,0,0,1,2,Left,III,IDC,1,1,Positive,Positive,Positive,Chemotherapy,None,Alive,8
+PKBC1186,66,Gilgit-Baltistan,Lahore,Single,Postgraduate,0,1,18.5,High,Mixed,1,1,11,Pre,4,1,0,0,1,1,0,0.83,Right,IV,Mucinous,0,1,Positive,Negative,Negative,Radiation,Complete,Deceased,5
+PKBC1187,33,Sindh,Lahore,Widowed,Graduate,1,1,39.3,Moderate,Healthy,0,0,14,Post,3,0,1,0,1,0,0,8.97,Left,II,ILC,1,1,Negative,Positive,Negative,Chemotherapy,None,Deceased,4
+PKBC1188,26,Punjab,Peshawar,Divorced,Graduate,1,0,35.8,High,Mixed,1,0,15,Pre,6,0,0,1,1,1,1,7.65,Left,I,Mucinous,0,0,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,0
+PKBC1189,29,Punjab,Quetta,Divorced,Primary,0,1,34.5,Moderate,Unhealthy,1,0,9,Pre,6,1,0,1,1,0,1,6.52,Right,I,Mucinous,0,0,Negative,Negative,Negative,Chemotherapy,Complete,Deceased,2
+PKBC1190,34,Punjab,Lahore,Single,Secondary,0,1,34.7,Moderate,Mixed,0,1,15,Pre,4,0,0,1,0,1,0,9.31,Left,IV,Medullary,0,1,Negative,Positive,Positive,Targeted Therapy,Complete,Deceased,14
+PKBC1191,50,Gilgit-Baltistan,Karachi,Married,Graduate,0,1,26.6,Low,Unhealthy,1,0,15,Pre,3,0,0,1,1,1,0,5.96,Left,II,Medullary,0,1,Negative,Negative,Positive,Targeted Therapy,None,Alive,2
+PKBC1192,48,Balochistan,Quetta,Widowed,Graduate,1,0,34.5,High,Mixed,1,1,15,Pre,7,1,0,0,0,1,0,1.73,Right,II,Medullary,1,1,Positive,Negative,Negative,Surgery,Complete,Deceased,11
+PKBC1193,61,Balochistan,Islamabad,Single,Graduate,0,1,26.5,Low,Healthy,1,0,14,Pre,7,0,1,0,0,1,0,2.18,Right,I,ILC,1,1,Positive,Positive,Positive,Targeted Therapy,Partial,Deceased,3
+PKBC1194,73,Sindh,Islamabad,Widowed,Graduate,0,1,37.8,Low,Unhealthy,0,0,11,Post,7,1,0,0,1,1,0,1.76,Right,II,IDC,1,1,Positive,Positive,Positive,Targeted Therapy,Complete,Deceased,4
+PKBC1195,36,Gilgit-Baltistan,Quetta,Widowed,Primary,1,1,21.9,High,Mixed,1,0,15,Pre,0,1,0,0,1,0,1,3.42,Left,II,Medullary,0,1,Negative,Positive,Negative,Chemotherapy,Complete,Alive,10
+PKBC1196,78,KPK,Peshawar,Divorced,None,1,0,24.4,Low,Healthy,1,0,15,Post,0,0,1,0,0,0,0,4.11,Left,IV,Mucinous,1,1,Negative,Negative,Positive,Surgery,Partial,Alive,7
+PKBC1197,70,Balochistan,Lahore,Widowed,None,1,0,30.1,Low,Mixed,0,1,9,Pre,7,1,0,0,1,0,0,8.07,Left,I,Medullary,1,1,Positive,Negative,Positive,Surgery,None,Deceased,12
+PKBC1198,48,Gilgit-Baltistan,Lahore,Divorced,Secondary,1,1,25,Low,Healthy,1,0,14,Pre,5,0,1,1,0,0,0,2.32,Right,II,Mucinous,1,0,Negative,Positive,Negative,Chemotherapy,Complete,Deceased,10
+PKBC1199,68,Gilgit-Baltistan,Quetta,Married,Postgraduate,1,1,27.3,High,Mixed,0,0,12,Pre,0,1,1,0,0,1,0,7.39,Left,IV,ILC,1,0,Positive,Negative,Negative,Chemotherapy,None,Deceased,8
+PKBC1200,63,Balochistan,Karachi,Married,None,0,1,28.8,Low,Unhealthy,0,1,10,Post,1,0,1,1,1,0,1,5.17,Right,III,Medullary,0,1,Positive,Positive,Positive,Surgery,Complete,Deceased,11
+PKBC1201,34,Gilgit-Baltistan,Peshawar,Single,Postgraduate,0,0,36.8,Low,Unhealthy,1,1,14,Pre,1,1,0,1,0,0,1,10,Right,I,Mucinous,1,0,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,13
+PKBC1202,45,Gilgit-Baltistan,Karachi,Married,None,0,0,29.5,Low,Unhealthy,0,0,13,Pre,7,1,0,0,1,0,0,7.88,Right,IV,IDC,1,0,Positive,Positive,Negative,Chemotherapy,None,Alive,13
+PKBC1203,31,Balochistan,Quetta,Divorced,None,1,1,26,High,Unhealthy,1,0,11,Post,3,0,0,1,1,0,0,9.71,Right,III,ILC,0,0,Negative,Negative,Positive,Chemotherapy,Complete,Alive,6
+PKBC1204,44,Punjab,Quetta,Widowed,Secondary,0,1,23.5,Moderate,Unhealthy,1,1,13,Pre,2,0,0,0,1,0,1,3.75,Right,II,Mucinous,1,1,Positive,Positive,Negative,Surgery,None,Deceased,12
+PKBC1205,60,Sindh,Karachi,Widowed,Graduate,1,0,27,Moderate,Mixed,1,1,10,Pre,5,0,1,0,0,1,0,1.67,Left,II,IDC,0,1,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,9
+PKBC1206,24,KPK,Islamabad,Married,Secondary,1,0,29.3,Moderate,Mixed,0,0,12,Pre,2,0,1,1,1,1,0,5.31,Right,III,IDC,1,1,Negative,Positive,Negative,Hormonal Therapy,Partial,Alive,5
+PKBC1207,23,Sindh,Quetta,Divorced,None,0,1,34.4,Moderate,Mixed,0,1,14,Post,3,0,1,1,0,0,1,1.68,Right,IV,Mucinous,0,0,Positive,Negative,Positive,Radiation,Partial,Alive,14
+PKBC1208,63,Punjab,Peshawar,Widowed,Graduate,0,0,20.7,Low,Mixed,1,1,12,Pre,1,0,0,1,1,1,1,5.18,Right,II,Medullary,0,1,Positive,Negative,Positive,Hormonal Therapy,Complete,Deceased,2
+PKBC1209,67,Punjab,Karachi,Married,Graduate,1,1,22.9,High,Unhealthy,1,0,10,Pre,4,0,1,1,0,0,0,3.06,Right,II,IDC,1,0,Negative,Negative,Negative,Chemotherapy,Complete,Alive,8
+PKBC1210,60,Gilgit-Baltistan,Islamabad,Divorced,Graduate,1,1,26.4,Low,Healthy,0,0,13,Post,6,0,0,1,0,1,0,5.16,Left,IV,ILC,1,1,Positive,Positive,Positive,Targeted Therapy,None,Alive,9
+PKBC1211,76,Sindh,Karachi,Divorced,Postgraduate,0,0,25.9,High,Unhealthy,1,0,14,Post,7,0,1,1,0,1,1,9.52,Left,IV,IDC,1,1,Negative,Negative,Negative,Surgery,Complete,Alive,0
+PKBC1212,50,Punjab,Islamabad,Widowed,None,0,1,26.6,Low,Mixed,0,1,11,Pre,5,1,1,1,0,0,1,3.25,Left,III,Medullary,1,0,Negative,Negative,Negative,Chemotherapy,None,Alive,8
+PKBC1213,22,Sindh,Islamabad,Single,Primary,1,1,35.5,Moderate,Unhealthy,0,0,9,Pre,3,0,1,1,0,1,1,9.94,Right,II,ILC,1,1,Negative,Positive,Negative,Surgery,Complete,Alive,2
+PKBC1214,72,Punjab,Peshawar,Single,Secondary,1,1,25.1,Moderate,Unhealthy,1,0,15,Pre,2,1,0,1,1,0,0,2.68,Left,IV,ILC,1,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,8
+PKBC1215,22,KPK,Quetta,Divorced,Postgraduate,1,1,29,High,Unhealthy,1,0,12,Pre,3,0,1,0,0,0,0,2.48,Left,I,ILC,0,1,Positive,Positive,Positive,Surgery,None,Deceased,12
+PKBC1216,45,Punjab,Islamabad,Divorced,Secondary,1,1,31.7,Low,Healthy,1,1,10,Post,3,0,1,0,1,1,0,5.68,Right,III,Mucinous,0,1,Positive,Positive,Negative,Chemotherapy,None,Deceased,9
+PKBC1217,69,Sindh,Quetta,Married,Primary,0,1,23.1,Moderate,Unhealthy,0,0,14,Post,0,1,0,1,1,1,1,8.5,Right,III,IDC,0,1,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,0
+PKBC1218,36,Gilgit-Baltistan,Peshawar,Divorced,Graduate,0,1,33.8,High,Unhealthy,0,0,13,Post,7,1,1,1,1,1,0,7.62,Right,III,Medullary,0,0,Negative,Positive,Negative,Chemotherapy,None,Alive,7
+PKBC1219,79,Sindh,Quetta,Married,Primary,1,0,30,Low,Healthy,0,1,11,Pre,1,0,1,1,1,1,1,7.37,Right,III,Mucinous,1,1,Positive,Negative,Positive,Radiation,Partial,Deceased,5
+PKBC1220,29,Balochistan,Lahore,Married,Secondary,1,0,27.8,High,Unhealthy,0,1,13,Post,5,1,0,0,0,0,0,3.19,Right,I,Mucinous,0,0,Negative,Positive,Negative,Surgery,Partial,Alive,13
+PKBC1221,21,Sindh,Islamabad,Married,Primary,0,1,35.8,Low,Unhealthy,1,0,11,Post,0,0,0,0,1,0,1,0.71,Left,III,ILC,0,0,Negative,Negative,Negative,Chemotherapy,Partial,Alive,8
+PKBC1222,43,KPK,Peshawar,Divorced,None,1,0,23.4,Low,Unhealthy,0,0,14,Pre,1,1,0,1,1,0,0,2.04,Left,III,Mucinous,0,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,3
+PKBC1223,30,KPK,Karachi,Divorced,Primary,1,1,37.4,Low,Unhealthy,1,0,9,Pre,7,0,0,1,1,0,1,3.82,Left,IV,IDC,1,1,Positive,Positive,Negative,Hormonal Therapy,Partial,Deceased,11
+PKBC1224,43,KPK,Peshawar,Married,None,1,1,30.3,High,Unhealthy,0,1,9,Pre,3,1,1,1,1,0,1,9.73,Left,II,Mucinous,1,1,Positive,Positive,Positive,Chemotherapy,None,Deceased,4
+PKBC1225,54,Punjab,Islamabad,Widowed,Primary,1,0,31.4,High,Mixed,0,0,15,Pre,1,0,1,1,1,0,1,9.24,Left,III,Mucinous,1,1,Negative,Positive,Negative,Radiation,Complete,Deceased,5
+PKBC1226,42,KPK,Peshawar,Divorced,None,1,1,37.3,Low,Unhealthy,1,0,10,Pre,2,1,0,0,1,1,1,2.41,Right,IV,ILC,0,1,Positive,Positive,Negative,Surgery,Partial,Alive,11
+PKBC1227,51,Sindh,Karachi,Single,None,1,1,36,Moderate,Healthy,0,1,10,Pre,7,0,1,0,0,0,0,7.39,Left,IV,ILC,1,1,Negative,Negative,Negative,Radiation,Partial,Alive,8
+PKBC1228,42,Gilgit-Baltistan,Lahore,Widowed,Primary,0,0,31.2,Low,Unhealthy,1,1,11,Post,5,1,1,1,0,0,1,6,Left,II,Mucinous,0,0,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,5
+PKBC1229,53,KPK,Islamabad,Single,Postgraduate,1,0,34.6,High,Mixed,0,0,11,Pre,7,0,0,1,0,1,0,0.97,Left,IV,ILC,0,0,Positive,Negative,Positive,Chemotherapy,None,Deceased,8
+PKBC1230,60,Sindh,Islamabad,Divorced,Graduate,0,0,27.5,Low,Healthy,1,1,11,Pre,7,0,1,0,1,1,0,4.03,Left,IV,Medullary,0,0,Positive,Negative,Positive,Radiation,Complete,Deceased,1
+PKBC1231,38,Punjab,Peshawar,Widowed,Graduate,0,0,30,High,Healthy,0,0,11,Post,0,0,1,0,1,0,1,5.12,Left,III,Medullary,1,0,Negative,Negative,Negative,Targeted Therapy,Complete,Alive,13
+PKBC1232,21,Punjab,Quetta,Divorced,Graduate,0,0,19.4,Low,Unhealthy,0,0,15,Post,5,1,1,1,1,0,1,6.84,Right,III,Medullary,1,0,Positive,Positive,Negative,Radiation,Complete,Alive,3
+PKBC1233,79,Gilgit-Baltistan,Quetta,Divorced,None,1,0,20,Low,Mixed,1,1,14,Post,3,1,0,1,0,1,0,3.3,Right,IV,Mucinous,1,0,Positive,Positive,Negative,Targeted Therapy,None,Deceased,2
+PKBC1234,70,Gilgit-Baltistan,Karachi,Widowed,Graduate,1,1,36.2,Moderate,Unhealthy,1,1,14,Post,2,1,1,0,1,0,0,9.37,Left,I,IDC,0,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,3
+PKBC1235,21,Sindh,Lahore,Divorced,None,1,0,19.3,Moderate,Mixed,1,1,9,Post,1,1,1,0,1,1,0,4.79,Right,II,IDC,1,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,0
+PKBC1236,34,Gilgit-Baltistan,Lahore,Widowed,Postgraduate,0,0,21.7,High,Mixed,0,1,10,Pre,6,1,1,0,0,1,0,2.86,Left,IV,ILC,1,0,Negative,Negative,Negative,Chemotherapy,Partial,Alive,1
+PKBC1237,75,Gilgit-Baltistan,Peshawar,Divorced,Primary,0,1,35.5,Low,Unhealthy,0,0,15,Pre,1,0,0,1,1,1,0,3.51,Left,IV,IDC,1,0,Positive,Negative,Negative,Radiation,None,Alive,3
+PKBC1238,40,Punjab,Peshawar,Married,Primary,1,1,18,High,Mixed,0,1,10,Post,2,1,0,0,0,0,0,7.64,Right,I,IDC,0,0,Negative,Negative,Positive,Hormonal Therapy,Complete,Deceased,9
+PKBC1239,54,Sindh,Quetta,Single,None,1,0,24.2,Low,Unhealthy,0,1,12,Post,6,0,1,1,1,0,0,6.58,Right,II,Mucinous,0,1,Negative,Positive,Negative,Surgery,None,Alive,3
+PKBC1240,24,Gilgit-Baltistan,Lahore,Married,None,0,1,30.8,Low,Mixed,0,0,10,Post,1,0,1,0,1,1,1,7.55,Right,IV,ILC,0,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,4
+PKBC1241,62,Sindh,Lahore,Divorced,Postgraduate,0,1,31.1,Low,Healthy,0,0,10,Post,0,0,0,0,1,1,0,3.28,Left,IV,IDC,0,1,Negative,Positive,Negative,Hormonal Therapy,Complete,Deceased,8
+PKBC1242,46,KPK,Lahore,Divorced,Graduate,0,1,35.1,Moderate,Unhealthy,1,0,13,Pre,4,0,0,0,0,0,0,3.61,Left,III,Medullary,1,1,Negative,Negative,Positive,Radiation,Partial,Alive,0
+PKBC1243,43,Punjab,Karachi,Divorced,Postgraduate,1,1,29.1,High,Mixed,0,1,13,Post,1,0,0,1,1,0,1,4.27,Left,IV,ILC,1,0,Positive,Positive,Negative,Targeted Therapy,None,Alive,7
+PKBC1244,26,Punjab,Karachi,Married,Primary,0,1,29.2,Low,Healthy,0,0,15,Post,3,1,0,1,0,0,0,2.29,Right,I,ILC,0,0,Positive,Negative,Positive,Surgery,Complete,Alive,2
+PKBC1245,25,Punjab,Peshawar,Divorced,Primary,0,1,34,Low,Healthy,1,1,12,Pre,1,0,1,0,1,1,0,7.06,Right,IV,ILC,1,1,Positive,Negative,Positive,Surgery,Complete,Deceased,8
+PKBC1246,65,Balochistan,Quetta,Widowed,Graduate,0,1,29,High,Healthy,1,1,11,Pre,5,1,0,1,0,1,1,3.63,Left,II,Medullary,0,0,Positive,Positive,Negative,Targeted Therapy,None,Deceased,10
+PKBC1247,52,Sindh,Islamabad,Single,Primary,1,0,31.4,High,Healthy,1,1,12,Pre,3,0,0,0,1,1,0,3.6,Right,II,IDC,1,0,Negative,Positive,Negative,Radiation,Partial,Alive,7
+PKBC1248,77,KPK,Quetta,Divorced,None,1,1,37.8,Low,Unhealthy,1,1,12,Post,1,0,0,1,0,0,0,3.06,Right,I,Medullary,1,0,Negative,Positive,Positive,Hormonal Therapy,None,Deceased,7
+PKBC1249,68,Gilgit-Baltistan,Karachi,Divorced,Primary,1,0,26.8,Moderate,Mixed,1,0,9,Post,1,1,0,0,0,1,1,4.8,Left,IV,ILC,1,1,Positive,Negative,Positive,Targeted Therapy,Complete,Alive,8
+PKBC1250,36,KPK,Karachi,Single,Secondary,0,1,26.5,Moderate,Healthy,0,0,14,Pre,7,1,1,0,1,1,1,7.83,Right,IV,ILC,0,0,Positive,Negative,Negative,Surgery,None,Alive,14
+PKBC1251,65,Sindh,Peshawar,Single,Graduate,0,1,18.1,Low,Mixed,0,0,10,Post,3,0,1,1,0,1,0,8.44,Right,IV,Mucinous,1,1,Positive,Negative,Positive,Surgery,Partial,Deceased,3
+PKBC1252,61,Punjab,Islamabad,Single,Graduate,0,0,31.5,Moderate,Mixed,1,0,9,Post,0,0,1,0,0,0,1,8.14,Left,IV,Mucinous,1,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,11
+PKBC1253,49,Balochistan,Lahore,Married,Graduate,0,1,18.7,High,Mixed,1,0,15,Pre,6,0,1,1,0,1,1,6.4,Left,IV,Mucinous,1,1,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,4
+PKBC1254,27,Sindh,Islamabad,Married,Secondary,1,1,29.1,Moderate,Unhealthy,0,1,14,Pre,6,1,0,0,1,1,0,3.16,Left,II,Mucinous,1,0,Negative,Positive,Negative,Chemotherapy,Partial,Deceased,11
+PKBC1255,59,Sindh,Islamabad,Divorced,Postgraduate,0,0,35.7,High,Unhealthy,1,1,15,Pre,4,1,1,1,0,0,1,7.48,Right,III,ILC,0,1,Negative,Positive,Negative,Targeted Therapy,Partial,Alive,6
+PKBC1256,65,Gilgit-Baltistan,Islamabad,Single,None,0,1,30.1,High,Healthy,0,1,10,Post,4,0,1,0,1,1,1,0.87,Left,II,Medullary,0,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Alive,1
+PKBC1257,26,KPK,Peshawar,Divorced,Graduate,1,1,23.9,High,Mixed,0,1,15,Pre,6,1,0,0,0,0,0,8.08,Right,III,Mucinous,0,1,Negative,Positive,Negative,Chemotherapy,Partial,Deceased,6
+PKBC1258,25,KPK,Karachi,Divorced,Primary,0,0,35.3,High,Unhealthy,1,0,12,Post,0,1,1,1,0,0,0,7.91,Left,II,Medullary,1,0,Positive,Positive,Positive,Radiation,Complete,Deceased,11
+PKBC1259,23,Gilgit-Baltistan,Lahore,Divorced,None,0,0,23.9,Moderate,Unhealthy,0,1,10,Post,1,1,1,0,0,1,1,6.87,Left,I,Mucinous,1,0,Positive,Positive,Negative,Surgery,None,Alive,2
+PKBC1260,20,Balochistan,Islamabad,Married,Primary,0,1,34.1,High,Unhealthy,0,1,11,Post,4,1,1,1,0,0,1,1.43,Left,IV,IDC,1,1,Negative,Negative,Positive,Targeted Therapy,Partial,Deceased,5
+PKBC1261,34,Punjab,Lahore,Single,None,1,0,31.4,Low,Healthy,0,1,11,Pre,0,1,0,0,1,1,0,9.97,Right,III,Mucinous,0,1,Negative,Negative,Negative,Radiation,None,Alive,12
+PKBC1262,50,Punjab,Islamabad,Divorced,None,0,1,21.7,High,Unhealthy,0,1,12,Pre,0,1,0,0,1,0,0,7.69,Left,II,Medullary,0,1,Positive,Positive,Negative,Targeted Therapy,None,Alive,5
+PKBC1263,44,Balochistan,Karachi,Married,Primary,1,1,37.9,Low,Mixed,1,1,15,Pre,4,1,0,0,0,1,1,7.48,Left,III,Mucinous,1,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,5
+PKBC1264,66,Gilgit-Baltistan,Lahore,Widowed,Primary,0,0,22.4,High,Unhealthy,1,1,13,Post,6,0,1,0,1,0,0,1.11,Right,IV,IDC,0,0,Negative,Negative,Positive,Hormonal Therapy,None,Alive,9
+PKBC1265,52,Sindh,Quetta,Widowed,None,1,0,39.8,High,Unhealthy,1,0,11,Pre,3,1,0,1,1,0,0,4.29,Right,I,Medullary,0,0,Negative,Positive,Negative,Chemotherapy,None,Deceased,14
+PKBC1266,71,KPK,Karachi,Divorced,Graduate,1,0,18.2,Moderate,Healthy,1,0,12,Pre,2,1,0,1,0,0,1,1.32,Left,IV,Medullary,1,1,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,1
+PKBC1267,54,Sindh,Lahore,Divorced,Primary,1,0,23.8,High,Mixed,1,1,9,Post,6,0,1,1,0,1,1,3.93,Left,II,Medullary,0,0,Positive,Negative,Negative,Radiation,Partial,Alive,8
+PKBC1268,74,KPK,Islamabad,Single,Secondary,0,1,22.4,High,Unhealthy,0,1,13,Post,3,1,0,0,0,1,0,5.92,Left,II,ILC,1,0,Negative,Positive,Negative,Targeted Therapy,None,Alive,7
+PKBC1269,24,Sindh,Islamabad,Single,Secondary,0,0,18.3,Moderate,Mixed,0,1,11,Pre,6,1,1,1,0,1,0,8.85,Right,III,Medullary,0,0,Negative,Negative,Positive,Chemotherapy,Partial,Alive,6
+PKBC1270,24,Gilgit-Baltistan,Karachi,Divorced,None,1,0,34.1,Moderate,Mixed,0,1,12,Pre,1,1,1,1,0,0,1,3.19,Right,I,ILC,0,1,Negative,Negative,Positive,Surgery,Complete,Alive,10
+PKBC1271,55,Gilgit-Baltistan,Karachi,Married,Postgraduate,1,1,33.3,Low,Unhealthy,0,1,12,Post,3,1,0,0,0,0,0,6.42,Left,I,IDC,0,1,Negative,Negative,Negative,Targeted Therapy,None,Alive,13
+PKBC1272,36,Balochistan,Islamabad,Divorced,None,0,1,35.4,Moderate,Healthy,1,0,9,Post,5,0,1,1,1,1,1,2.06,Left,II,Medullary,0,0,Negative,Positive,Negative,Radiation,None,Deceased,11
+PKBC1273,72,Sindh,Lahore,Single,None,1,1,23.6,Low,Mixed,1,0,9,Post,2,1,1,0,0,1,0,3.86,Left,III,Medullary,1,1,Positive,Positive,Positive,Surgery,Complete,Deceased,11
+PKBC1274,71,Sindh,Quetta,Single,Graduate,0,1,27.8,High,Unhealthy,0,1,13,Pre,6,0,1,0,0,0,0,9.5,Left,IV,Medullary,1,1,Positive,Negative,Negative,Surgery,Complete,Alive,14
+PKBC1275,33,Balochistan,Peshawar,Married,Graduate,0,1,32.5,Low,Mixed,1,0,14,Pre,7,1,0,1,0,0,0,7.6,Right,IV,IDC,0,1,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,8
+PKBC1276,77,Balochistan,Karachi,Divorced,Postgraduate,1,1,27.7,Moderate,Mixed,0,1,11,Post,2,1,1,1,1,0,1,5.69,Right,II,ILC,1,1,Negative,Negative,Positive,Hormonal Therapy,Complete,Deceased,3
+PKBC1277,48,Gilgit-Baltistan,Islamabad,Single,Postgraduate,1,1,33.3,High,Mixed,0,1,12,Pre,0,1,0,1,0,1,1,2.89,Right,II,Mucinous,0,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,14
+PKBC1278,27,Gilgit-Baltistan,Lahore,Divorced,Postgraduate,0,1,31.9,Low,Unhealthy,1,0,13,Pre,5,1,0,1,1,0,0,4.11,Left,IV,IDC,1,1,Positive,Positive,Positive,Radiation,Partial,Deceased,1
+PKBC1279,53,Sindh,Karachi,Single,Postgraduate,0,1,20.5,Low,Mixed,1,0,15,Pre,1,0,1,0,1,1,0,1.99,Left,IV,IDC,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,3
+PKBC1280,59,Gilgit-Baltistan,Lahore,Widowed,Postgraduate,0,0,35.2,Low,Mixed,1,0,13,Post,0,0,1,1,1,0,1,3.86,Right,IV,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,13
+PKBC1281,20,Gilgit-Baltistan,Karachi,Widowed,None,1,0,33.9,High,Healthy,0,0,15,Pre,3,0,1,0,0,1,1,1.93,Left,III,ILC,0,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,11
+PKBC1282,48,Sindh,Islamabad,Widowed,None,0,1,32.4,Low,Unhealthy,1,1,9,Post,3,0,1,1,1,0,0,8.06,Right,I,ILC,0,0,Positive,Negative,Negative,Surgery,Complete,Alive,9
+PKBC1283,55,Balochistan,Lahore,Single,Secondary,1,0,21.4,Low,Unhealthy,0,0,12,Pre,4,0,1,0,0,0,1,1.27,Left,II,ILC,1,0,Negative,Negative,Positive,Surgery,Partial,Alive,10
+PKBC1284,70,Sindh,Islamabad,Married,Secondary,1,1,23.9,Moderate,Mixed,1,0,10,Post,0,1,0,1,0,1,1,2.3,Left,II,ILC,0,1,Negative,Negative,Negative,Surgery,Partial,Alive,13
+PKBC1285,56,Punjab,Lahore,Widowed,Primary,0,1,26.6,Low,Healthy,0,0,14,Post,5,0,0,1,0,0,0,7.07,Left,III,ILC,0,1,Positive,Negative,Negative,Chemotherapy,None,Deceased,2
+PKBC1286,48,Sindh,Karachi,Single,None,1,1,24.2,High,Mixed,1,1,14,Pre,0,0,1,0,0,0,0,9.07,Right,IV,Medullary,0,1,Negative,Positive,Negative,Hormonal Therapy,None,Deceased,1
+PKBC1287,24,Punjab,Peshawar,Divorced,Postgraduate,1,1,23,Moderate,Mixed,0,1,9,Pre,0,1,0,1,1,0,1,9.66,Left,III,Mucinous,0,1,Negative,Positive,Positive,Hormonal Therapy,Partial,Alive,1
+PKBC1288,72,Sindh,Peshawar,Widowed,Primary,1,0,35.7,High,Unhealthy,0,1,15,Post,0,0,0,1,0,1,1,8.44,Left,IV,Mucinous,1,0,Negative,Negative,Positive,Targeted Therapy,Complete,Alive,13
+PKBC1289,51,Punjab,Quetta,Married,Graduate,1,0,32,Moderate,Healthy,1,0,12,Post,2,1,0,1,1,0,0,2.51,Right,II,ILC,1,1,Positive,Positive,Positive,Radiation,Partial,Deceased,7
+PKBC1290,79,Punjab,Quetta,Married,None,0,1,30.4,Moderate,Mixed,0,0,13,Pre,4,0,1,1,1,1,1,3.21,Left,I,ILC,0,0,Negative,Negative,Negative,Chemotherapy,Complete,Alive,12
+PKBC1291,71,Sindh,Islamabad,Married,Secondary,0,0,23,Low,Unhealthy,1,0,14,Post,6,1,0,0,0,0,0,8.77,Left,III,Medullary,0,0,Negative,Negative,Negative,Surgery,None,Alive,4
+PKBC1292,43,Gilgit-Baltistan,Lahore,Divorced,None,1,0,38.2,High,Mixed,1,1,13,Post,1,0,0,0,0,0,0,8.95,Right,IV,ILC,1,0,Positive,Negative,Negative,Radiation,Complete,Deceased,11
+PKBC1293,38,KPK,Quetta,Divorced,None,1,1,22.2,Low,Mixed,1,0,11,Pre,1,1,0,1,1,1,1,6.59,Left,II,Medullary,1,0,Negative,Negative,Negative,Surgery,Partial,Alive,13
+PKBC1294,31,Gilgit-Baltistan,Karachi,Married,None,1,1,35.5,Moderate,Healthy,0,0,10,Pre,7,0,1,0,1,1,0,3.48,Right,I,Medullary,0,0,Negative,Positive,Positive,Radiation,None,Alive,5
+PKBC1295,71,Punjab,Peshawar,Married,None,1,0,39.3,Low,Healthy,1,1,9,Pre,1,0,0,1,0,1,0,2.63,Left,III,IDC,0,0,Negative,Negative,Negative,Radiation,Partial,Alive,7
+PKBC1296,20,Sindh,Lahore,Married,Graduate,1,0,34,Moderate,Healthy,0,0,15,Pre,7,1,1,0,0,1,0,8.6,Left,III,IDC,1,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,6
+PKBC1297,26,Sindh,Peshawar,Divorced,Secondary,0,1,39.8,Moderate,Mixed,1,0,14,Post,2,1,0,0,0,1,0,2.45,Right,II,ILC,0,1,Positive,Positive,Negative,Targeted Therapy,Complete,Alive,6
+PKBC1298,36,Sindh,Lahore,Divorced,None,0,1,32.3,High,Healthy,1,0,11,Pre,4,1,1,0,1,1,0,6.79,Left,III,Medullary,1,0,Negative,Positive,Positive,Targeted Therapy,Partial,Deceased,11
+PKBC1299,53,Sindh,Quetta,Single,Graduate,0,0,22.8,High,Unhealthy,0,0,11,Pre,5,0,0,1,0,0,1,9.7,Right,II,ILC,1,1,Positive,Positive,Negative,Surgery,Partial,Alive,12
+PKBC1300,62,KPK,Quetta,Widowed,Primary,0,1,22.5,High,Mixed,0,1,10,Pre,4,1,1,0,0,0,0,7.2,Left,III,IDC,1,0,Positive,Positive,Positive,Chemotherapy,None,Alive,6
+PKBC1301,26,Balochistan,Islamabad,Divorced,None,1,1,25.1,High,Healthy,1,1,9,Pre,7,0,0,0,0,0,0,2.95,Right,I,IDC,0,1,Positive,Positive,Negative,Targeted Therapy,Complete,Deceased,11
+PKBC1302,36,Punjab,Lahore,Married,Graduate,1,1,18.2,Low,Mixed,0,1,9,Post,2,1,1,1,0,0,0,3.18,Left,I,IDC,1,0,Positive,Positive,Positive,Chemotherapy,Complete,Alive,10
+PKBC1303,78,KPK,Karachi,Widowed,Postgraduate,0,0,33,High,Mixed,1,0,13,Post,5,0,1,0,1,1,1,1.38,Left,III,IDC,1,0,Positive,Negative,Positive,Surgery,None,Alive,10
+PKBC1304,22,Gilgit-Baltistan,Quetta,Divorced,Primary,0,0,23.9,High,Unhealthy,0,0,9,Pre,0,1,0,1,1,0,0,7.02,Left,II,IDC,0,1,Positive,Negative,Positive,Chemotherapy,None,Deceased,6
+PKBC1305,48,Balochistan,Islamabad,Widowed,Secondary,0,1,35.9,High,Unhealthy,0,1,11,Pre,3,1,0,0,0,0,0,5.43,Left,IV,ILC,1,0,Positive,Positive,Negative,Radiation,Complete,Deceased,7
+PKBC1306,41,Balochistan,Quetta,Single,None,1,0,25.9,Moderate,Unhealthy,1,0,13,Pre,0,0,1,1,1,0,0,2.46,Left,III,ILC,1,1,Positive,Positive,Positive,Radiation,None,Deceased,0
+PKBC1307,57,Sindh,Peshawar,Divorced,None,1,1,28.6,Moderate,Mixed,0,1,9,Pre,1,1,1,0,0,1,0,2.66,Right,IV,IDC,1,0,Positive,Negative,Positive,Surgery,Complete,Deceased,12
+PKBC1308,73,KPK,Quetta,Married,Graduate,1,0,39.2,High,Mixed,1,1,15,Post,0,1,0,1,1,1,1,0.59,Left,II,ILC,1,1,Negative,Positive,Positive,Chemotherapy,None,Deceased,2
+PKBC1309,62,Gilgit-Baltistan,Lahore,Married,Secondary,0,0,23.3,Moderate,Unhealthy,1,0,15,Post,2,1,1,0,1,0,1,9.79,Right,IV,IDC,1,1,Positive,Positive,Positive,Chemotherapy,Complete,Alive,14
+PKBC1310,48,Sindh,Islamabad,Single,Postgraduate,0,0,33.9,Moderate,Mixed,0,1,10,Post,1,0,0,0,0,1,0,8.37,Right,III,IDC,1,1,Positive,Positive,Positive,Surgery,Complete,Deceased,0
+PKBC1311,69,Sindh,Lahore,Single,Primary,1,1,34.6,Low,Unhealthy,1,1,11,Post,3,0,0,1,0,0,1,4.24,Left,I,IDC,0,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,7
+PKBC1312,69,Punjab,Karachi,Single,Secondary,1,1,22.9,Moderate,Unhealthy,0,1,12,Pre,5,1,1,0,0,1,1,9.49,Left,II,ILC,0,1,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,1
+PKBC1313,73,Balochistan,Karachi,Single,None,1,1,29,Low,Healthy,0,1,10,Post,7,1,0,0,0,0,1,6.93,Left,I,ILC,0,0,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,6
+PKBC1314,61,Gilgit-Baltistan,Quetta,Single,Graduate,0,0,25.7,Moderate,Unhealthy,1,1,10,Post,7,0,1,1,1,1,0,7.64,Right,I,Medullary,1,0,Negative,Negative,Positive,Hormonal Therapy,None,Alive,5
+PKBC1315,24,Balochistan,Islamabad,Divorced,Postgraduate,1,1,35,High,Healthy,0,1,9,Pre,5,0,0,1,0,0,0,6.96,Left,I,ILC,1,1,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,10
+PKBC1316,49,KPK,Islamabad,Divorced,Graduate,1,1,31.7,Moderate,Unhealthy,1,0,13,Post,7,1,0,0,0,0,0,7.69,Left,III,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,None,Alive,0
+PKBC1317,42,Punjab,Islamabad,Widowed,Primary,0,1,28.5,Moderate,Mixed,1,1,13,Post,1,0,0,1,0,1,0,2.12,Left,II,Mucinous,0,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Alive,11
+PKBC1318,74,Sindh,Islamabad,Single,Secondary,1,1,35.1,Low,Healthy,0,1,15,Post,6,1,0,0,0,1,0,5.84,Left,IV,IDC,0,1,Negative,Negative,Negative,Chemotherapy,Complete,Deceased,14
+PKBC1319,40,Punjab,Quetta,Married,Graduate,1,0,23.2,High,Mixed,0,0,11,Pre,6,1,0,1,0,1,0,8.57,Left,I,IDC,1,1,Positive,Negative,Negative,Radiation,Complete,Alive,5
+PKBC1320,75,Sindh,Lahore,Married,Graduate,1,1,34.6,Low,Mixed,1,0,9,Pre,0,0,0,1,0,1,1,0.69,Left,IV,ILC,0,0,Positive,Positive,Negative,Hormonal Therapy,Complete,Alive,8
+PKBC1321,45,Punjab,Quetta,Single,None,1,1,37,High,Unhealthy,1,1,13,Pre,6,0,0,1,1,0,1,1.67,Right,II,ILC,0,1,Negative,Negative,Positive,Surgery,Partial,Alive,2
+PKBC1322,73,Sindh,Lahore,Single,Graduate,0,0,37.3,High,Unhealthy,1,0,15,Pre,7,0,0,1,0,0,1,2.83,Left,II,Medullary,1,1,Negative,Positive,Positive,Targeted Therapy,Partial,Deceased,11
+PKBC1323,66,Balochistan,Peshawar,Single,Postgraduate,1,1,35.2,Low,Mixed,0,0,14,Post,4,0,0,0,1,0,1,3.3,Right,IV,Mucinous,0,1,Negative,Negative,Positive,Chemotherapy,Complete,Deceased,6
+PKBC1324,40,Balochistan,Peshawar,Single,Secondary,0,0,27,Moderate,Unhealthy,0,1,12,Post,4,0,0,1,0,0,1,2.24,Right,IV,IDC,0,0,Negative,Positive,Positive,Chemotherapy,Complete,Alive,3
+PKBC1325,39,Balochistan,Lahore,Single,Primary,1,0,39.6,High,Unhealthy,1,0,14,Pre,5,0,0,0,1,0,0,6.43,Left,I,IDC,0,1,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,0
+PKBC1326,42,Balochistan,Quetta,Married,Graduate,0,0,26.4,Moderate,Unhealthy,0,1,9,Pre,4,0,0,0,1,0,0,3.29,Left,IV,ILC,0,0,Positive,Negative,Negative,Radiation,Partial,Deceased,6
+PKBC1327,23,Punjab,Karachi,Widowed,Postgraduate,1,1,32,Low,Mixed,1,1,9,Pre,1,0,1,0,1,0,1,2,Right,IV,ILC,1,1,Negative,Negative,Negative,Radiation,Complete,Deceased,0
+PKBC1328,40,Sindh,Quetta,Single,Primary,1,0,21.5,Low,Healthy,0,1,13,Post,4,1,1,0,0,0,0,9.11,Left,III,Mucinous,1,0,Negative,Positive,Positive,Targeted Therapy,None,Alive,10
+PKBC1329,40,Balochistan,Karachi,Single,Postgraduate,0,0,39.6,Low,Healthy,1,1,10,Post,2,1,0,0,1,1,0,7.1,Left,I,IDC,0,1,Positive,Negative,Positive,Targeted Therapy,None,Deceased,3
+PKBC1330,20,Punjab,Quetta,Single,Graduate,1,0,33.5,Low,Mixed,1,0,9,Pre,5,0,0,1,0,0,0,2.84,Left,I,Mucinous,0,1,Positive,Negative,Negative,Radiation,None,Deceased,12
+PKBC1331,34,Sindh,Islamabad,Divorced,Graduate,1,1,34.6,High,Unhealthy,1,1,10,Pre,3,1,1,1,1,1,0,3.93,Left,II,IDC,0,1,Positive,Negative,Positive,Radiation,Partial,Alive,14
+PKBC1332,36,Punjab,Islamabad,Married,Secondary,0,0,19.4,Low,Unhealthy,1,0,11,Pre,4,1,0,0,0,1,0,7.54,Right,IV,ILC,0,0,Negative,Positive,Negative,Radiation,None,Deceased,8
+PKBC1333,70,Balochistan,Peshawar,Married,None,1,0,34.8,Moderate,Healthy,1,0,15,Pre,2,1,0,0,0,1,1,8.01,Right,III,Mucinous,1,0,Negative,Negative,Negative,Hormonal Therapy,None,Alive,4
+PKBC1334,33,KPK,Peshawar,Widowed,Postgraduate,1,0,35,Moderate,Mixed,1,1,11,Pre,2,1,0,1,1,1,1,2.18,Right,II,Medullary,1,0,Positive,Negative,Positive,Surgery,Partial,Deceased,6
+PKBC1335,78,Punjab,Lahore,Divorced,None,1,1,32.8,High,Mixed,0,1,13,Pre,1,1,1,0,0,0,1,9.4,Left,III,ILC,0,0,Positive,Negative,Negative,Targeted Therapy,None,Deceased,12
+PKBC1336,38,Balochistan,Karachi,Divorced,None,1,0,24.4,Low,Unhealthy,1,0,11,Pre,5,0,0,1,1,1,0,7.96,Right,I,Medullary,0,1,Negative,Negative,Positive,Chemotherapy,Complete,Deceased,6
+PKBC1337,69,Gilgit-Baltistan,Islamabad,Divorced,Primary,1,0,28.8,High,Unhealthy,1,1,14,Pre,1,0,1,0,1,0,0,8.64,Right,IV,Medullary,0,1,Positive,Positive,Positive,Radiation,Partial,Deceased,14
+PKBC1338,79,Sindh,Quetta,Widowed,Primary,0,1,20.4,High,Unhealthy,1,1,14,Post,3,0,1,1,0,0,0,1.87,Right,III,Medullary,0,0,Positive,Negative,Positive,Radiation,Complete,Alive,11
+PKBC1339,53,Balochistan,Lahore,Widowed,Postgraduate,0,1,28.4,High,Mixed,1,1,14,Pre,3,0,0,1,1,1,0,1.86,Left,II,IDC,1,0,Positive,Positive,Positive,Surgery,None,Deceased,2
+PKBC1340,25,Gilgit-Baltistan,Quetta,Widowed,None,1,1,23.4,Low,Healthy,1,0,13,Post,7,0,1,0,0,0,1,3.4,Left,I,Medullary,0,0,Positive,Positive,Negative,Radiation,Complete,Alive,12
+PKBC1341,64,Punjab,Islamabad,Divorced,Secondary,1,0,25.7,Moderate,Mixed,0,0,13,Pre,0,0,1,1,1,0,0,1.11,Left,III,IDC,0,0,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,10
+PKBC1342,68,Punjab,Islamabad,Married,None,0,0,21.6,Moderate,Mixed,1,0,14,Post,3,1,1,0,0,1,1,1.37,Left,III,Mucinous,1,0,Negative,Negative,Negative,Radiation,None,Deceased,7
+PKBC1343,25,Gilgit-Baltistan,Islamabad,Divorced,Primary,0,0,23.1,High,Mixed,1,0,10,Pre,5,0,0,1,0,1,1,1.86,Left,II,ILC,0,0,Negative,Positive,Negative,Surgery,Partial,Deceased,0
+PKBC1344,72,Gilgit-Baltistan,Islamabad,Widowed,None,0,0,19.7,High,Healthy,1,1,14,Pre,6,1,0,1,0,0,1,7.27,Right,III,IDC,1,1,Positive,Negative,Positive,Hormonal Therapy,None,Deceased,3
+PKBC1345,73,Sindh,Quetta,Divorced,Graduate,0,1,38.2,Moderate,Unhealthy,1,1,10,Post,6,0,1,0,1,0,1,0.79,Right,I,IDC,1,0,Negative,Negative,Positive,Targeted Therapy,Partial,Deceased,9
+PKBC1346,24,Punjab,Lahore,Single,Graduate,0,0,29.7,Moderate,Unhealthy,0,0,11,Pre,5,1,0,1,0,0,0,1.29,Left,III,Mucinous,0,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,3
+PKBC1347,26,Gilgit-Baltistan,Islamabad,Divorced,Secondary,0,1,26.7,Low,Mixed,0,0,10,Post,7,1,1,1,0,0,0,9.47,Left,IV,Mucinous,1,0,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,1
+PKBC1348,52,KPK,Peshawar,Divorced,Postgraduate,1,0,29.8,High,Mixed,1,0,9,Post,7,0,0,0,0,1,1,1.29,Right,IV,ILC,0,1,Positive,Negative,Positive,Surgery,Partial,Deceased,5
+PKBC1349,32,KPK,Lahore,Married,None,1,0,31.8,Low,Healthy,1,0,12,Post,1,0,0,1,0,1,0,5.61,Right,II,Mucinous,0,0,Negative,Negative,Negative,Chemotherapy,Partial,Deceased,14
+PKBC1350,70,Gilgit-Baltistan,Peshawar,Married,Graduate,1,0,38.3,Moderate,Healthy,0,0,9,Pre,2,0,1,0,0,1,0,6.6,Left,IV,IDC,1,1,Positive,Positive,Negative,Chemotherapy,Complete,Deceased,0
+PKBC1351,73,Sindh,Quetta,Married,Postgraduate,1,1,21.9,Moderate,Unhealthy,1,1,9,Post,0,0,0,0,0,1,0,9.61,Left,IV,ILC,1,1,Positive,Negative,Positive,Chemotherapy,None,Alive,2
+PKBC1352,20,Punjab,Islamabad,Single,Graduate,1,1,24.5,Moderate,Mixed,0,0,13,Pre,6,1,1,1,0,0,1,9.05,Left,III,ILC,1,0,Negative,Positive,Negative,Chemotherapy,None,Deceased,8
+PKBC1353,32,KPK,Lahore,Married,Postgraduate,0,1,39.5,Moderate,Healthy,1,0,12,Post,7,0,0,0,0,1,1,4.69,Right,I,ILC,0,1,Negative,Positive,Positive,Surgery,Partial,Deceased,11
+PKBC1354,62,Gilgit-Baltistan,Islamabad,Single,Postgraduate,0,1,26.2,Low,Healthy,0,1,13,Pre,6,0,1,1,0,0,1,9.45,Right,I,Medullary,0,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Alive,9
+PKBC1355,46,Gilgit-Baltistan,Islamabad,Widowed,Graduate,0,0,18.5,Moderate,Mixed,0,1,10,Post,3,1,0,1,1,0,1,4.61,Left,III,Medullary,0,1,Positive,Negative,Negative,Radiation,None,Deceased,5
+PKBC1356,26,Balochistan,Lahore,Married,Primary,0,0,21.2,High,Mixed,1,1,14,Post,2,1,1,0,0,1,1,6.86,Left,IV,IDC,0,0,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,1
+PKBC1357,71,Gilgit-Baltistan,Islamabad,Divorced,Postgraduate,0,0,18.6,Moderate,Mixed,1,0,15,Pre,1,0,0,1,0,0,1,2.97,Right,III,Medullary,0,0,Positive,Positive,Negative,Radiation,Partial,Alive,11
+PKBC1358,22,Sindh,Islamabad,Divorced,None,0,0,39.8,High,Mixed,1,1,15,Pre,7,0,0,1,0,0,1,6.55,Right,IV,Mucinous,1,1,Positive,Positive,Positive,Radiation,Complete,Deceased,11
+PKBC1359,77,KPK,Karachi,Single,Graduate,1,0,24.1,Moderate,Mixed,1,0,15,Pre,4,1,1,1,1,0,0,5.61,Right,IV,ILC,1,0,Positive,Negative,Negative,Chemotherapy,Partial,Alive,14
+PKBC1360,44,Balochistan,Karachi,Married,Primary,1,1,38.3,Low,Mixed,0,0,10,Pre,0,0,0,0,0,1,1,6.26,Left,IV,IDC,1,0,Positive,Negative,Negative,Targeted Therapy,None,Deceased,14
+PKBC1361,52,KPK,Lahore,Divorced,Graduate,0,1,39.9,High,Healthy,0,1,12,Pre,5,1,1,0,0,0,0,6.99,Left,I,Mucinous,0,1,Negative,Positive,Negative,Radiation,None,Deceased,8
+PKBC1362,59,KPK,Lahore,Widowed,Secondary,1,0,31.2,Low,Mixed,1,0,11,Pre,2,1,0,1,1,0,1,2.15,Left,II,ILC,0,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,12
+PKBC1363,36,Sindh,Islamabad,Married,None,0,0,18.7,Moderate,Unhealthy,0,0,10,Pre,1,0,1,0,1,0,0,3.36,Left,I,Mucinous,0,0,Positive,Positive,Positive,Hormonal Therapy,None,Alive,1
+PKBC1364,64,Gilgit-Baltistan,Peshawar,Widowed,Secondary,1,0,19.8,Low,Mixed,1,1,9,Pre,1,1,1,1,1,0,0,7.49,Right,IV,Medullary,0,1,Negative,Positive,Negative,Radiation,Complete,Alive,11
+PKBC1365,33,Sindh,Lahore,Divorced,Postgraduate,0,0,28.6,Moderate,Unhealthy,1,1,12,Pre,0,0,1,1,0,1,0,2.06,Right,III,Mucinous,0,0,Negative,Negative,Positive,Surgery,Complete,Alive,6
+PKBC1366,56,Gilgit-Baltistan,Islamabad,Married,Postgraduate,0,1,26.9,Low,Unhealthy,1,1,12,Post,0,0,1,0,0,1,0,3.77,Left,III,Medullary,1,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Alive,14
+PKBC1367,77,Balochistan,Peshawar,Single,Secondary,1,0,31.3,Low,Unhealthy,0,1,10,Post,7,0,1,0,0,0,1,6.83,Left,IV,Mucinous,0,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Deceased,0
+PKBC1368,75,Sindh,Karachi,Divorced,Secondary,0,0,27.7,High,Mixed,1,1,10,Post,3,1,1,0,0,0,1,9.41,Left,II,IDC,1,1,Negative,Positive,Negative,Targeted Therapy,None,Alive,4
+PKBC1369,73,Sindh,Lahore,Widowed,Postgraduate,1,0,38.5,Moderate,Mixed,0,1,13,Post,3,0,1,1,1,0,1,1.22,Left,I,Medullary,0,0,Negative,Negative,Positive,Chemotherapy,None,Deceased,6
+PKBC1370,42,Punjab,Islamabad,Married,Primary,1,0,29.8,Low,Unhealthy,1,1,13,Pre,5,0,1,0,1,1,1,5.41,Left,I,Medullary,1,0,Positive,Negative,Negative,Surgery,None,Deceased,2
+PKBC1371,78,Sindh,Karachi,Widowed,None,0,1,33.3,Moderate,Mixed,0,1,9,Post,5,1,0,1,0,1,1,1.28,Left,IV,ILC,0,0,Positive,Positive,Negative,Surgery,Complete,Deceased,3
+PKBC1372,43,Punjab,Quetta,Widowed,Graduate,0,0,37.7,High,Healthy,0,1,12,Post,7,0,0,1,1,0,1,4.1,Left,IV,Medullary,0,0,Positive,Positive,Negative,Targeted Therapy,Complete,Deceased,4
+PKBC1373,48,Gilgit-Baltistan,Karachi,Single,Secondary,0,1,21.2,Low,Healthy,0,1,15,Post,0,0,0,1,0,0,1,2.17,Left,II,ILC,1,0,Negative,Negative,Positive,Targeted Therapy,None,Deceased,2
+PKBC1374,57,Gilgit-Baltistan,Islamabad,Single,None,1,1,23.1,Moderate,Healthy,0,0,11,Pre,0,0,0,0,0,1,1,6.67,Left,I,Medullary,0,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Alive,14
+PKBC1375,78,Gilgit-Baltistan,Peshawar,Divorced,Graduate,1,0,20.4,Low,Healthy,1,0,11,Pre,2,1,1,0,0,0,1,7.7,Left,II,Medullary,0,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,5
+PKBC1376,73,Punjab,Quetta,Single,Graduate,0,0,21.1,Low,Mixed,0,0,12,Post,3,1,1,0,0,1,1,2.85,Right,I,Medullary,0,1,Positive,Positive,Positive,Chemotherapy,None,Deceased,14
+PKBC1377,46,Gilgit-Baltistan,Quetta,Single,Secondary,0,0,29.3,Low,Unhealthy,0,1,9,Post,1,0,0,1,1,0,1,7.27,Right,II,Medullary,1,1,Positive,Negative,Positive,Hormonal Therapy,None,Alive,2
+PKBC1378,57,KPK,Quetta,Divorced,Primary,0,0,25.1,Low,Mixed,1,0,15,Post,6,0,0,1,1,0,0,4.74,Right,II,ILC,1,1,Positive,Negative,Positive,Hormonal Therapy,None,Deceased,7
+PKBC1379,72,Sindh,Lahore,Divorced,Primary,0,0,27.3,High,Healthy,0,0,13,Pre,6,0,1,0,0,0,0,3.19,Right,II,IDC,0,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Alive,6
+PKBC1380,59,Punjab,Islamabad,Divorced,None,0,1,39.6,High,Mixed,1,0,13,Post,6,1,0,0,0,0,0,5.47,Left,III,Mucinous,1,1,Negative,Negative,Negative,Surgery,None,Deceased,0
+PKBC1381,64,Gilgit-Baltistan,Quetta,Divorced,None,0,1,21.4,Moderate,Mixed,0,0,13,Post,7,0,1,0,1,1,0,4.11,Right,III,Medullary,1,0,Negative,Positive,Negative,Surgery,Complete,Alive,1
+PKBC1382,69,KPK,Karachi,Widowed,Postgraduate,0,1,29.9,Moderate,Healthy,1,0,11,Pre,3,0,0,0,1,1,0,2.68,Right,III,Medullary,1,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,3
+PKBC1383,42,Sindh,Peshawar,Widowed,Primary,1,1,20.2,Low,Unhealthy,0,1,11,Post,3,0,1,0,0,1,1,7.69,Right,I,IDC,1,0,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,4
+PKBC1384,50,Sindh,Islamabad,Divorced,None,1,1,25,Low,Mixed,0,1,9,Post,0,1,1,0,1,0,1,8.08,Right,II,ILC,1,0,Negative,Negative,Positive,Radiation,None,Alive,13
+PKBC1385,55,Gilgit-Baltistan,Karachi,Divorced,Postgraduate,0,0,29.6,Low,Mixed,0,1,11,Post,6,1,0,0,1,0,0,8.1,Right,IV,Mucinous,0,1,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,13
+PKBC1386,36,KPK,Lahore,Married,Graduate,0,0,38.8,High,Healthy,0,0,10,Post,0,1,0,0,1,1,1,4.13,Left,IV,IDC,0,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,10
+PKBC1387,56,Punjab,Quetta,Married,None,1,1,26.6,Low,Unhealthy,1,0,11,Post,3,1,1,0,0,1,0,2.11,Right,I,IDC,0,1,Positive,Positive,Positive,Radiation,None,Alive,13
+PKBC1388,22,Gilgit-Baltistan,Karachi,Married,Postgraduate,0,0,19.4,Moderate,Healthy,0,1,13,Post,4,1,0,1,1,0,1,8.48,Right,I,IDC,1,1,Negative,Negative,Positive,Surgery,None,Alive,9
+PKBC1389,55,Sindh,Islamabad,Single,Primary,1,0,26.5,Low,Healthy,1,1,9,Post,4,0,0,0,1,1,1,3.63,Left,IV,IDC,1,0,Positive,Positive,Negative,Surgery,Complete,Deceased,10
+PKBC1390,74,Sindh,Karachi,Widowed,Graduate,1,1,21.2,High,Mixed,1,1,12,Post,5,0,1,0,1,0,0,7.61,Right,II,Medullary,1,1,Negative,Positive,Negative,Radiation,Partial,Alive,3
+PKBC1391,24,Sindh,Lahore,Widowed,None,0,1,23.1,Low,Unhealthy,1,0,12,Pre,3,0,0,1,1,1,0,8.27,Left,III,Mucinous,0,1,Negative,Positive,Positive,Targeted Therapy,Partial,Deceased,14
+PKBC1392,65,Gilgit-Baltistan,Peshawar,Married,Primary,1,1,31.6,High,Healthy,1,1,9,Post,6,0,0,1,1,0,0,7.8,Right,I,Medullary,0,1,Negative,Negative,Positive,Surgery,None,Alive,3
+PKBC1393,34,Balochistan,Quetta,Married,Graduate,1,0,19.5,High,Mixed,0,1,10,Post,7,1,1,1,0,0,1,4.2,Left,I,IDC,0,0,Negative,Positive,Positive,Surgery,None,Alive,13
+PKBC1394,71,Balochistan,Islamabad,Widowed,Secondary,0,1,28.2,High,Healthy,0,1,12,Post,4,1,1,1,1,1,0,9.41,Left,I,Mucinous,0,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Alive,8
+PKBC1395,68,Balochistan,Quetta,Single,Primary,0,1,31.4,High,Mixed,0,1,13,Pre,7,0,1,1,1,1,1,6.77,Left,IV,IDC,0,0,Negative,Negative,Negative,Chemotherapy,Complete,Deceased,3
+PKBC1396,25,KPK,Quetta,Married,Secondary,1,0,27.3,Moderate,Unhealthy,0,1,12,Post,7,1,0,1,1,0,1,5.97,Right,III,ILC,0,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,3
+PKBC1397,78,Gilgit-Baltistan,Quetta,Divorced,None,0,0,18.4,High,Healthy,0,0,12,Pre,5,0,1,1,1,0,1,7.13,Right,II,IDC,0,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,3
+PKBC1398,29,Sindh,Karachi,Married,Postgraduate,1,1,39.7,Moderate,Unhealthy,0,0,13,Post,5,1,0,0,0,1,1,0.92,Left,II,IDC,0,0,Negative,Positive,Positive,Chemotherapy,None,Alive,1
+PKBC1399,73,KPK,Karachi,Widowed,None,1,0,26.1,Moderate,Unhealthy,1,1,11,Pre,3,0,0,0,0,0,0,4.21,Left,IV,ILC,1,1,Negative,Negative,Negative,Surgery,None,Deceased,12
+PKBC1400,51,Balochistan,Peshawar,Widowed,Primary,1,1,35.1,Low,Mixed,1,0,10,Pre,5,0,0,0,0,1,0,8.87,Left,I,Medullary,1,1,Positive,Positive,Negative,Chemotherapy,Complete,Deceased,7
+PKBC1401,42,Punjab,Lahore,Married,Secondary,1,0,25.2,Low,Healthy,0,1,15,Pre,0,0,0,1,1,0,0,2.03,Left,IV,Mucinous,1,1,Positive,Negative,Negative,Surgery,None,Alive,12
+PKBC1402,67,KPK,Islamabad,Married,Secondary,1,1,28.5,High,Healthy,0,1,13,Post,0,1,1,0,1,1,0,4.44,Left,IV,IDC,0,0,Negative,Negative,Positive,Hormonal Therapy,None,Alive,13
+PKBC1403,36,KPK,Karachi,Divorced,Graduate,1,0,26.5,Low,Mixed,0,0,13,Post,0,0,0,1,0,0,1,4.35,Left,II,IDC,0,1,Negative,Negative,Negative,Surgery,Complete,Deceased,3
+PKBC1404,65,Gilgit-Baltistan,Quetta,Divorced,None,0,0,25.5,High,Mixed,1,0,14,Pre,1,0,0,0,0,0,0,3.88,Left,III,ILC,0,0,Positive,Negative,Negative,Chemotherapy,Partial,Deceased,4
+PKBC1405,39,KPK,Lahore,Single,None,0,0,18.5,Low,Unhealthy,0,0,9,Post,7,1,0,1,0,0,0,5.84,Left,II,Mucinous,1,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Deceased,7
+PKBC1406,63,Gilgit-Baltistan,Islamabad,Single,Primary,0,1,25.9,High,Healthy,0,0,10,Pre,0,0,1,0,0,0,0,9.96,Left,IV,ILC,0,0,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,13
+PKBC1407,60,Punjab,Islamabad,Divorced,Secondary,0,1,37.6,Low,Healthy,0,1,11,Post,6,1,1,0,0,0,0,2.93,Left,IV,IDC,1,0,Negative,Positive,Negative,Chemotherapy,Partial,Deceased,3
+PKBC1408,34,Sindh,Islamabad,Single,Primary,1,1,33.2,Low,Mixed,1,0,14,Post,0,1,1,0,0,0,1,7.2,Right,I,Medullary,1,0,Negative,Positive,Positive,Radiation,None,Alive,4
+PKBC1409,63,Sindh,Islamabad,Single,Primary,1,0,21.2,Moderate,Mixed,1,1,15,Pre,3,1,0,0,1,0,1,7.7,Left,I,Medullary,0,0,Negative,Negative,Positive,Surgery,Partial,Deceased,4
+PKBC1410,65,Balochistan,Peshawar,Married,Secondary,1,0,31,Low,Mixed,0,1,13,Pre,4,0,0,0,1,1,1,6.05,Right,IV,Mucinous,1,1,Negative,Negative,Positive,Surgery,Complete,Deceased,5
+PKBC1411,77,Balochistan,Islamabad,Divorced,Primary,1,0,37.6,Low,Healthy,1,1,15,Post,6,1,1,0,0,1,1,1.43,Left,II,IDC,0,0,Positive,Positive,Negative,Chemotherapy,Complete,Deceased,6
+PKBC1412,41,Punjab,Lahore,Married,Secondary,1,1,33.4,High,Healthy,1,1,15,Pre,4,1,1,0,1,0,0,5.94,Right,I,ILC,1,1,Positive,Positive,Positive,Surgery,Partial,Alive,2
+PKBC1413,69,Sindh,Karachi,Married,Primary,0,0,21.3,Moderate,Unhealthy,1,1,15,Pre,0,1,0,1,1,1,1,9.56,Left,III,IDC,0,1,Positive,Positive,Negative,Targeted Therapy,Partial,Alive,13
+PKBC1414,71,Balochistan,Lahore,Single,Postgraduate,0,1,37.1,High,Mixed,0,0,14,Post,7,0,1,1,0,1,0,3.75,Right,III,ILC,0,1,Positive,Positive,Positive,Surgery,None,Deceased,9
+PKBC1415,25,KPK,Quetta,Married,Primary,0,1,24.6,Low,Unhealthy,0,1,11,Pre,0,1,0,0,0,0,0,6.58,Left,IV,ILC,0,0,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,10
+PKBC1416,23,Gilgit-Baltistan,Peshawar,Widowed,Primary,1,1,28,High,Healthy,1,0,14,Post,0,0,1,0,1,1,0,9.61,Left,III,Mucinous,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,2
+PKBC1417,77,Balochistan,Peshawar,Single,Postgraduate,1,1,29.6,Moderate,Unhealthy,1,1,14,Post,5,1,0,0,1,0,0,8.08,Left,III,ILC,0,0,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,12
+PKBC1418,42,Punjab,Quetta,Widowed,None,0,1,36.7,High,Unhealthy,1,0,14,Pre,3,1,0,0,1,1,1,7.04,Right,I,Mucinous,0,1,Negative,Negative,Negative,Chemotherapy,None,Alive,8
+PKBC1419,63,Sindh,Lahore,Single,Secondary,1,0,38.5,Low,Unhealthy,0,0,13,Pre,3,0,0,1,0,1,1,9.73,Left,I,Medullary,0,0,Negative,Positive,Negative,Surgery,Partial,Deceased,0
+PKBC1420,64,Punjab,Lahore,Married,Graduate,1,0,38.5,High,Mixed,1,1,13,Pre,7,0,1,1,1,1,0,2.12,Left,II,Mucinous,0,0,Negative,Positive,Negative,Hormonal Therapy,None,Deceased,14
+PKBC1421,38,Gilgit-Baltistan,Quetta,Single,Postgraduate,0,0,18.2,Low,Healthy,1,1,9,Post,3,0,1,0,0,0,1,7.84,Left,I,Mucinous,0,1,Positive,Negative,Positive,Targeted Therapy,None,Deceased,9
+PKBC1422,73,Gilgit-Baltistan,Islamabad,Widowed,None,1,0,38.3,Moderate,Mixed,0,0,12,Pre,4,1,0,0,0,1,1,4.36,Right,II,Mucinous,1,0,Positive,Negative,Positive,Radiation,Complete,Alive,11
+PKBC1423,64,Punjab,Islamabad,Single,Primary,0,0,19.2,Moderate,Unhealthy,1,1,10,Post,6,1,1,0,1,0,0,3.92,Right,I,Medullary,1,1,Negative,Negative,Positive,Chemotherapy,Complete,Alive,12
+PKBC1424,50,Balochistan,Karachi,Widowed,None,0,0,23.8,High,Mixed,1,1,9,Pre,6,0,0,0,0,0,0,5.45,Left,IV,Mucinous,1,1,Negative,Negative,Positive,Chemotherapy,None,Alive,7
+PKBC1425,63,Balochistan,Lahore,Divorced,Postgraduate,0,1,29.3,Moderate,Healthy,0,0,11,Pre,1,0,1,1,0,1,1,0.82,Left,II,ILC,0,1,Negative,Positive,Positive,Chemotherapy,None,Alive,9
+PKBC1426,71,Sindh,Lahore,Married,Primary,0,0,28.6,High,Healthy,1,0,14,Post,4,0,1,1,0,0,0,3.47,Right,IV,ILC,0,0,Negative,Positive,Negative,Targeted Therapy,None,Alive,2
+PKBC1427,22,Sindh,Quetta,Widowed,None,1,1,31.3,Low,Unhealthy,1,1,13,Pre,3,0,0,1,1,0,1,2.08,Right,II,Mucinous,0,0,Positive,Positive,Positive,Surgery,Complete,Deceased,4
+PKBC1428,47,KPK,Quetta,Divorced,Graduate,1,1,28.5,High,Unhealthy,1,1,14,Pre,7,0,1,1,1,1,0,1.82,Left,III,ILC,1,1,Negative,Positive,Negative,Surgery,None,Alive,2
+PKBC1429,22,KPK,Islamabad,Married,Secondary,1,1,38.6,Low,Mixed,1,1,13,Post,2,1,1,0,1,0,0,3.7,Left,II,Mucinous,1,1,Positive,Positive,Negative,Surgery,Complete,Deceased,9
+PKBC1430,33,Sindh,Lahore,Divorced,Secondary,0,1,23.3,Moderate,Healthy,0,1,15,Pre,1,1,0,1,0,1,0,8.12,Left,II,Medullary,0,0,Negative,Negative,Negative,Surgery,Complete,Deceased,0
+PKBC1431,37,KPK,Lahore,Widowed,Postgraduate,1,1,24,Low,Healthy,0,0,10,Pre,0,0,0,0,1,1,0,2.41,Right,II,ILC,1,0,Negative,Negative,Positive,Chemotherapy,None,Deceased,9
+PKBC1432,46,Punjab,Peshawar,Married,Primary,0,0,38.3,Low,Mixed,0,0,9,Post,5,0,0,1,0,0,1,5.55,Right,II,Mucinous,1,1,Positive,Positive,Negative,Radiation,None,Alive,13
+PKBC1433,70,Balochistan,Karachi,Divorced,Primary,1,0,19.7,Low,Healthy,1,1,9,Pre,4,1,0,1,1,1,1,7.61,Left,II,IDC,0,1,Negative,Positive,Negative,Chemotherapy,None,Alive,4
+PKBC1434,79,KPK,Karachi,Widowed,Secondary,1,0,31.4,Low,Unhealthy,0,0,11,Pre,5,0,1,0,0,1,1,2.79,Right,III,Medullary,1,1,Negative,Negative,Negative,Radiation,Complete,Alive,7
+PKBC1435,29,KPK,Islamabad,Divorced,None,0,1,33,Low,Unhealthy,0,0,15,Post,1,0,1,1,1,0,1,9.28,Right,II,IDC,0,0,Negative,Negative,Negative,Radiation,Partial,Deceased,4
+PKBC1436,68,Punjab,Lahore,Married,Primary,1,0,29.1,High,Mixed,1,0,9,Pre,7,0,0,0,1,0,0,8.73,Left,IV,Mucinous,1,1,Positive,Positive,Positive,Surgery,None,Deceased,14
+PKBC1437,34,Gilgit-Baltistan,Peshawar,Married,Graduate,0,0,33.3,Low,Mixed,0,0,9,Pre,6,0,1,0,0,0,0,2.89,Left,II,ILC,1,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Alive,3
+PKBC1438,38,Sindh,Lahore,Married,Graduate,0,1,21.8,Low,Mixed,1,0,12,Pre,7,1,0,0,0,0,1,9.9,Left,II,Mucinous,1,1,Negative,Negative,Positive,Targeted Therapy,Partial,Alive,8
+PKBC1439,28,Punjab,Quetta,Widowed,Primary,1,1,36.8,Low,Unhealthy,1,0,10,Post,2,0,0,0,1,1,1,6.86,Right,IV,ILC,0,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Alive,12
+PKBC1440,23,Gilgit-Baltistan,Islamabad,Divorced,Primary,1,0,21.1,Low,Mixed,1,0,14,Pre,1,1,0,0,1,1,1,3.22,Right,I,Mucinous,1,1,Positive,Positive,Negative,Radiation,Partial,Deceased,0
+PKBC1441,34,Punjab,Karachi,Divorced,Secondary,1,1,26.8,Low,Healthy,0,1,9,Post,4,1,1,1,0,1,1,6.97,Left,I,Mucinous,0,0,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,4
+PKBC1442,70,Balochistan,Lahore,Widowed,Postgraduate,1,1,19.7,Low,Mixed,0,1,11,Pre,3,1,1,1,1,1,1,6.83,Right,III,ILC,1,0,Positive,Negative,Positive,Radiation,Complete,Alive,0
+PKBC1443,67,Punjab,Islamabad,Married,Secondary,0,1,30,Moderate,Healthy,1,0,14,Pre,0,1,1,0,0,1,0,6.26,Right,II,ILC,0,0,Negative,Negative,Negative,Chemotherapy,Complete,Deceased,14
+PKBC1444,27,Punjab,Karachi,Single,Postgraduate,0,0,32.7,High,Unhealthy,0,0,13,Pre,3,0,0,0,0,0,1,7.26,Right,II,Mucinous,0,0,Negative,Positive,Negative,Chemotherapy,Complete,Deceased,5
+PKBC1445,68,Balochistan,Lahore,Married,Graduate,1,1,38.7,Low,Healthy,1,0,15,Pre,3,1,0,0,0,1,1,3.05,Right,I,IDC,0,0,Negative,Negative,Positive,Surgery,Partial,Alive,14
+PKBC1446,72,Sindh,Peshawar,Single,Postgraduate,1,1,34.3,High,Healthy,0,0,15,Pre,7,0,1,0,0,1,0,9.8,Left,II,Medullary,1,0,Negative,Positive,Positive,Targeted Therapy,Complete,Deceased,9
+PKBC1447,20,Gilgit-Baltistan,Islamabad,Married,Secondary,1,1,29.9,Moderate,Healthy,0,0,9,Pre,4,0,1,1,0,1,0,8.65,Right,III,IDC,0,1,Positive,Negative,Negative,Chemotherapy,None,Deceased,8
+PKBC1448,26,KPK,Lahore,Widowed,Primary,0,1,38.5,Moderate,Unhealthy,0,1,9,Pre,3,1,1,0,0,1,1,7.58,Left,IV,IDC,1,1,Positive,Positive,Positive,Targeted Therapy,Partial,Deceased,10
+PKBC1449,72,Sindh,Karachi,Single,Postgraduate,1,1,28.5,Low,Healthy,0,0,14,Pre,7,0,1,1,0,0,1,0.75,Right,II,IDC,0,1,Positive,Positive,Positive,Surgery,None,Alive,13
+PKBC1450,50,Punjab,Karachi,Widowed,Secondary,0,0,30.3,High,Healthy,0,1,13,Pre,3,0,0,1,0,0,1,6.11,Left,IV,IDC,0,0,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,1
+PKBC1451,37,KPK,Peshawar,Single,Graduate,1,0,31.1,Low,Mixed,1,1,12,Post,4,1,1,0,0,0,0,7.21,Right,III,ILC,0,0,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,12
+PKBC1452,31,Balochistan,Islamabad,Divorced,Postgraduate,1,1,27,Moderate,Mixed,0,0,10,Pre,7,1,1,1,0,1,1,8.61,Left,I,IDC,0,1,Negative,Positive,Positive,Chemotherapy,Partial,Alive,12
+PKBC1453,67,Sindh,Islamabad,Single,Graduate,0,1,36.4,Moderate,Mixed,0,0,12,Post,4,1,0,0,0,1,1,9.49,Left,III,Medullary,1,0,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,3
+PKBC1454,49,Gilgit-Baltistan,Lahore,Single,Graduate,0,0,22.1,High,Healthy,0,0,11,Post,2,0,1,0,0,1,0,9.2,Right,III,ILC,1,0,Negative,Positive,Positive,Hormonal Therapy,None,Deceased,7
+PKBC1455,52,Sindh,Karachi,Single,None,1,0,30.2,Low,Healthy,0,1,14,Pre,3,0,1,1,0,0,0,4.36,Right,III,IDC,0,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,13
+PKBC1456,78,Sindh,Karachi,Divorced,Postgraduate,0,1,33.9,High,Unhealthy,0,1,9,Post,1,1,1,0,0,1,0,9.02,Left,III,ILC,1,1,Positive,Positive,Positive,Targeted Therapy,Partial,Deceased,2
+PKBC1457,66,KPK,Peshawar,Widowed,Secondary,0,1,37.9,High,Healthy,1,1,12,Post,6,1,0,0,0,0,0,0.51,Right,IV,IDC,1,1,Positive,Negative,Positive,Chemotherapy,Complete,Alive,13
+PKBC1458,26,Balochistan,Peshawar,Divorced,Postgraduate,1,0,37.4,Moderate,Healthy,1,0,10,Post,0,0,0,1,0,1,1,3.84,Left,III,IDC,0,1,Positive,Negative,Negative,Surgery,Partial,Alive,6
+PKBC1459,47,Balochistan,Islamabad,Single,Postgraduate,0,1,29.2,High,Unhealthy,1,0,11,Post,5,0,1,1,1,0,0,1.58,Left,III,Medullary,1,1,Positive,Positive,Positive,Radiation,Partial,Deceased,11
+PKBC1460,68,Sindh,Karachi,Married,Graduate,0,1,32.1,Moderate,Healthy,0,0,15,Pre,0,1,0,1,1,0,0,8.89,Left,III,ILC,1,1,Positive,Negative,Positive,Chemotherapy,Partial,Alive,6
+PKBC1461,22,Balochistan,Lahore,Divorced,Graduate,1,0,26.7,Low,Unhealthy,0,0,12,Post,4,0,1,0,0,1,0,9.32,Left,III,ILC,0,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,13
+PKBC1462,62,KPK,Quetta,Married,Graduate,1,0,28.3,High,Unhealthy,1,0,9,Pre,7,0,1,1,1,1,1,2.93,Right,IV,Mucinous,1,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Alive,14
+PKBC1463,25,KPK,Lahore,Divorced,Graduate,0,0,37.9,High,Mixed,1,0,10,Post,5,1,0,1,1,0,0,3.99,Right,III,IDC,0,0,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,1
+PKBC1464,50,Gilgit-Baltistan,Peshawar,Divorced,Secondary,1,0,38.5,Low,Healthy,1,1,9,Post,4,1,1,1,1,0,1,9.85,Right,I,IDC,1,0,Negative,Negative,Positive,Hormonal Therapy,None,Alive,11
+PKBC1465,57,Balochistan,Lahore,Single,Primary,0,1,37.7,High,Mixed,1,1,9,Post,6,0,0,1,0,0,0,5.88,Right,III,Medullary,0,0,Negative,Negative,Positive,Targeted Therapy,None,Alive,9
+PKBC1466,34,Gilgit-Baltistan,Karachi,Widowed,None,0,1,21,Low,Healthy,0,0,11,Pre,7,0,0,0,0,0,1,5.22,Right,III,Medullary,1,1,Negative,Negative,Negative,Surgery,Partial,Deceased,3
+PKBC1467,26,Punjab,Islamabad,Widowed,Graduate,0,1,36.7,Moderate,Mixed,1,0,10,Pre,6,0,0,1,0,0,1,5.25,Left,II,ILC,1,0,Positive,Positive,Positive,Hormonal Therapy,None,Deceased,0
+PKBC1468,62,KPK,Quetta,Single,Graduate,1,1,38.9,Moderate,Unhealthy,0,1,13,Pre,2,0,1,1,1,1,1,7.11,Right,II,Medullary,1,0,Positive,Negative,Positive,Targeted Therapy,Complete,Deceased,7
+PKBC1469,49,Sindh,Islamabad,Divorced,None,0,0,25.9,High,Unhealthy,1,1,15,Pre,3,1,1,0,1,0,0,9.57,Right,II,ILC,1,0,Positive,Negative,Negative,Hormonal Therapy,Complete,Alive,9
+PKBC1470,46,KPK,Quetta,Widowed,Graduate,0,0,29.4,Moderate,Unhealthy,0,1,9,Post,4,0,1,1,0,1,1,3.98,Right,III,IDC,1,0,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,9
+PKBC1471,36,Punjab,Quetta,Widowed,Primary,0,1,35.1,Moderate,Unhealthy,0,0,10,Pre,6,1,1,1,1,1,0,2.14,Left,I,IDC,0,1,Positive,Positive,Negative,Chemotherapy,Partial,Deceased,8
+PKBC1472,74,Sindh,Karachi,Widowed,Postgraduate,1,1,30.4,Low,Healthy,0,1,9,Post,4,0,0,0,1,1,0,2.26,Right,I,ILC,1,0,Positive,Positive,Negative,Targeted Therapy,None,Alive,0
+PKBC1473,37,Balochistan,Karachi,Single,None,1,1,39.9,Moderate,Healthy,1,1,12,Pre,0,1,1,0,0,1,1,0.69,Right,II,Medullary,0,1,Negative,Negative,Positive,Radiation,Complete,Deceased,10
+PKBC1474,41,Balochistan,Peshawar,Married,Secondary,1,0,28,Moderate,Mixed,0,1,12,Post,3,0,1,0,1,1,0,5.78,Right,II,Medullary,0,1,Negative,Negative,Positive,Surgery,Partial,Deceased,6
+PKBC1475,75,KPK,Peshawar,Married,None,0,0,33.7,Moderate,Healthy,0,1,10,Post,2,0,0,0,1,0,1,9.33,Right,III,ILC,1,0,Negative,Positive,Positive,Chemotherapy,Complete,Deceased,0
+PKBC1476,72,Sindh,Quetta,Married,Primary,0,0,35.4,Low,Healthy,1,1,15,Pre,6,1,0,0,0,1,0,7.27,Right,I,IDC,0,1,Negative,Negative,Negative,Surgery,None,Deceased,11
+PKBC1477,45,Sindh,Peshawar,Married,Secondary,1,1,28.9,High,Mixed,1,0,11,Post,7,0,1,1,1,0,1,9.93,Left,I,ILC,1,0,Negative,Negative,Positive,Chemotherapy,Partial,Alive,0
+PKBC1478,70,Gilgit-Baltistan,Karachi,Married,Postgraduate,0,1,36.9,Low,Unhealthy,1,0,13,Post,4,1,0,1,0,1,0,9.14,Right,II,Medullary,1,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,8
+PKBC1479,46,Punjab,Peshawar,Widowed,Graduate,0,1,30,High,Mixed,1,1,12,Post,4,1,1,1,0,0,1,5.17,Right,I,ILC,1,1,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,9
+PKBC1480,59,Balochistan,Quetta,Widowed,None,0,0,27.1,High,Mixed,1,0,11,Post,7,1,1,1,0,1,0,5.12,Right,II,IDC,1,1,Negative,Positive,Negative,Hormonal Therapy,Complete,Alive,9
+PKBC1481,43,KPK,Islamabad,Divorced,Secondary,0,1,20.4,Moderate,Unhealthy,1,0,13,Post,4,0,0,0,0,0,0,6.47,Left,II,Mucinous,0,0,Negative,Positive,Positive,Surgery,None,Deceased,5
+PKBC1482,71,Sindh,Lahore,Widowed,None,1,0,26.7,Moderate,Mixed,0,1,12,Pre,0,0,0,0,0,0,1,1.55,Right,IV,ILC,1,0,Negative,Positive,Positive,Surgery,Complete,Alive,0
+PKBC1483,27,Balochistan,Peshawar,Single,Postgraduate,1,1,34.1,Low,Mixed,0,0,13,Pre,6,0,1,0,0,0,0,6.27,Right,IV,Mucinous,1,0,Positive,Positive,Negative,Chemotherapy,Complete,Alive,6
+PKBC1484,40,KPK,Karachi,Divorced,None,1,1,38.3,Low,Mixed,1,0,14,Post,4,1,1,1,0,1,0,4.91,Left,III,ILC,1,0,Positive,Positive,Positive,Surgery,Partial,Alive,2
+PKBC1485,48,Balochistan,Islamabad,Widowed,Secondary,0,0,23.5,Low,Healthy,1,1,9,Post,4,0,1,0,1,0,1,6.61,Right,II,Medullary,0,1,Positive,Negative,Negative,Targeted Therapy,None,Alive,9
+PKBC1486,62,KPK,Karachi,Divorced,Primary,0,0,25.8,Moderate,Unhealthy,0,1,10,Pre,0,0,1,0,0,1,1,5.87,Left,III,Medullary,0,0,Positive,Positive,Negative,Surgery,None,Deceased,3
+PKBC1487,40,Balochistan,Peshawar,Divorced,Secondary,1,1,21.4,High,Unhealthy,0,0,12,Pre,4,1,1,1,1,1,1,3.45,Right,IV,Mucinous,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,13
+PKBC1488,22,Gilgit-Baltistan,Quetta,Married,None,1,0,33.2,Low,Mixed,0,0,12,Pre,7,1,0,0,1,0,1,6.27,Left,I,ILC,0,1,Positive,Positive,Negative,Targeted Therapy,None,Alive,3
+PKBC1489,50,Punjab,Lahore,Divorced,Postgraduate,1,0,39.1,High,Healthy,1,0,9,Post,3,1,1,0,0,1,1,3.98,Left,IV,Medullary,1,1,Positive,Negative,Negative,Surgery,Partial,Alive,7
+PKBC1490,74,Balochistan,Lahore,Widowed,Graduate,0,0,32.1,Moderate,Unhealthy,0,1,12,Post,3,1,0,1,1,1,0,2.35,Left,IV,Mucinous,0,1,Negative,Positive,Negative,Radiation,Partial,Alive,0
+PKBC1491,46,Punjab,Islamabad,Married,Graduate,1,0,31.6,Moderate,Unhealthy,0,0,12,Pre,0,0,0,1,0,1,1,6.91,Left,IV,Mucinous,0,1,Negative,Positive,Positive,Radiation,None,Alive,7
+PKBC1492,65,Balochistan,Lahore,Widowed,Postgraduate,0,0,30.2,Moderate,Mixed,1,0,14,Pre,3,1,0,0,0,1,0,3.41,Right,I,ILC,0,1,Positive,Negative,Negative,Hormonal Therapy,None,Deceased,8
+PKBC1493,46,Sindh,Quetta,Married,None,1,1,19.9,Moderate,Mixed,1,1,12,Pre,5,1,1,1,0,0,0,8.95,Left,IV,Medullary,0,1,Negative,Negative,Positive,Chemotherapy,None,Alive,10
+PKBC1494,28,Gilgit-Baltistan,Karachi,Widowed,Postgraduate,0,1,34,High,Mixed,1,0,12,Post,5,0,1,0,0,1,0,2.39,Left,II,Mucinous,1,1,Positive,Negative,Positive,Chemotherapy,None,Deceased,6
+PKBC1495,76,Gilgit-Baltistan,Quetta,Married,None,0,1,31.2,High,Unhealthy,0,1,12,Post,5,0,0,1,0,0,0,6.2,Right,II,IDC,1,1,Negative,Positive,Negative,Surgery,Complete,Alive,0
+PKBC1496,52,Punjab,Islamabad,Married,Secondary,1,1,32.6,Low,Mixed,1,0,11,Post,2,1,0,1,0,1,0,5.93,Right,IV,IDC,0,1,Positive,Positive,Negative,Targeted Therapy,Partial,Alive,14
+PKBC1497,52,Sindh,Islamabad,Single,Primary,0,0,37.8,High,Mixed,0,1,12,Pre,4,0,0,1,1,0,1,2.38,Left,III,Medullary,0,1,Positive,Negative,Positive,Chemotherapy,Partial,Alive,6
+PKBC1498,45,KPK,Lahore,Widowed,None,0,1,35.2,High,Mixed,0,0,9,Post,2,0,0,1,1,0,1,4.68,Left,III,Medullary,1,0,Negative,Positive,Negative,Radiation,Partial,Deceased,5
+PKBC1499,47,Gilgit-Baltistan,Quetta,Divorced,Graduate,1,0,35.2,High,Healthy,1,0,14,Pre,3,1,0,0,1,1,1,6.92,Right,I,IDC,1,1,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,4
+PKBC1500,63,Sindh,Karachi,Married,Graduate,1,1,38.4,Low,Mixed,0,1,12,Pre,0,0,1,0,1,1,1,3.53,Left,I,Mucinous,1,0,Negative,Positive,Positive,Radiation,Complete,Deceased,4
+PKBC1501,62,Sindh,Quetta,Widowed,Primary,1,1,39.8,High,Unhealthy,1,1,13,Pre,5,1,0,0,1,1,1,1.58,Right,II,ILC,1,0,Positive,Negative,Negative,Chemotherapy,None,Alive,0
+PKBC1502,50,Punjab,Karachi,Married,None,0,0,30.8,High,Mixed,1,1,14,Post,0,0,1,1,0,1,1,6.34,Right,II,Mucinous,0,1,Negative,Negative,Negative,Hormonal Therapy,None,Deceased,5
+PKBC1503,72,Sindh,Karachi,Single,Primary,0,1,20.4,High,Unhealthy,1,1,14,Post,2,0,0,0,1,1,0,2.63,Left,IV,Medullary,0,1,Positive,Positive,Negative,Targeted Therapy,None,Alive,12
+PKBC1504,20,Sindh,Quetta,Single,Secondary,1,1,28.1,Moderate,Healthy,1,1,13,Post,7,0,0,1,0,0,1,6.97,Right,III,Medullary,1,1,Negative,Negative,Negative,Surgery,Partial,Alive,14
+PKBC1505,39,KPK,Peshawar,Single,Primary,1,1,35.3,High,Healthy,0,1,9,Post,3,0,1,0,0,0,1,8.47,Right,II,ILC,0,1,Positive,Positive,Negative,Radiation,Complete,Deceased,3
+PKBC1506,31,Punjab,Quetta,Single,Secondary,0,1,18.6,Low,Mixed,1,1,11,Post,6,1,1,1,0,0,1,1.67,Left,III,Mucinous,0,0,Negative,Positive,Negative,Chemotherapy,Complete,Alive,13
+PKBC1507,36,Punjab,Karachi,Divorced,Graduate,1,1,19.3,Low,Unhealthy,0,0,15,Post,4,1,0,1,0,1,1,4.66,Right,I,ILC,0,0,Negative,Positive,Negative,Surgery,None,Deceased,13
+PKBC1508,34,Sindh,Islamabad,Divorced,Secondary,1,1,19.5,Low,Mixed,0,0,15,Pre,6,0,1,1,0,1,1,4.73,Right,I,Mucinous,1,1,Negative,Negative,Negative,Radiation,Partial,Alive,0
+PKBC1509,53,KPK,Islamabad,Married,None,0,1,34.1,Low,Mixed,1,0,9,Pre,3,0,1,0,0,1,0,6.51,Left,IV,Mucinous,1,0,Negative,Negative,Negative,Radiation,None,Alive,11
+PKBC1510,69,Balochistan,Lahore,Widowed,None,0,0,29,Moderate,Unhealthy,0,0,11,Post,5,0,0,0,0,0,0,3.68,Right,IV,IDC,1,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,7
+PKBC1511,35,Gilgit-Baltistan,Islamabad,Single,None,1,1,26.1,Low,Unhealthy,1,0,10,Post,7,1,0,0,1,1,0,4.48,Right,II,Mucinous,1,1,Negative,Positive,Positive,Chemotherapy,None,Alive,7
+PKBC1512,23,Punjab,Peshawar,Single,None,0,1,20.3,Moderate,Unhealthy,1,0,13,Post,3,0,0,0,0,0,1,0.61,Left,III,Medullary,0,1,Positive,Positive,Negative,Surgery,None,Alive,14
+PKBC1513,27,KPK,Karachi,Divorced,Postgraduate,0,1,34.1,Moderate,Unhealthy,1,0,14,Pre,0,1,1,1,0,0,1,1.66,Right,II,Medullary,1,0,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,11
+PKBC1514,53,KPK,Quetta,Divorced,Secondary,1,1,25.1,Moderate,Unhealthy,0,1,14,Post,1,0,0,1,1,1,1,5.91,Right,II,Medullary,1,0,Positive,Positive,Negative,Chemotherapy,Partial,Alive,12
+PKBC1515,65,Sindh,Quetta,Single,None,1,1,23.8,Low,Healthy,1,0,14,Pre,7,1,0,1,1,0,0,2.55,Right,III,IDC,0,0,Positive,Positive,Positive,Targeted Therapy,Complete,Alive,10
+PKBC1516,44,Gilgit-Baltistan,Peshawar,Widowed,Primary,1,1,32.4,Low,Healthy,1,1,13,Post,5,1,1,1,0,0,0,1.87,Right,II,ILC,1,1,Positive,Positive,Negative,Radiation,Complete,Deceased,3
+PKBC1517,34,Punjab,Islamabad,Married,Primary,0,0,30.3,Moderate,Healthy,0,0,13,Pre,6,0,0,0,1,0,1,3.58,Left,IV,Medullary,0,0,Positive,Negative,Negative,Radiation,None,Deceased,12
+PKBC1518,47,Balochistan,Karachi,Married,Postgraduate,1,1,26,Moderate,Unhealthy,1,1,15,Pre,4,1,1,0,0,1,1,2.05,Right,III,Medullary,1,1,Positive,Negative,Negative,Targeted Therapy,Partial,Alive,6
+PKBC1519,28,Sindh,Islamabad,Married,Secondary,0,1,32.1,Low,Unhealthy,1,0,15,Post,5,0,1,1,0,0,0,1.07,Left,III,ILC,0,1,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,2
+PKBC1520,21,Punjab,Lahore,Married,Secondary,1,0,24,High,Unhealthy,1,0,15,Pre,5,1,0,0,0,1,0,3.2,Right,II,IDC,0,0,Negative,Positive,Negative,Chemotherapy,None,Alive,7
+PKBC1521,36,Punjab,Islamabad,Widowed,Secondary,0,0,35.5,High,Mixed,1,0,11,Pre,4,1,1,1,0,1,0,2.06,Left,III,Mucinous,0,1,Negative,Positive,Positive,Radiation,None,Deceased,6
+PKBC1522,77,KPK,Lahore,Widowed,Postgraduate,0,1,23,High,Healthy,1,0,14,Pre,6,0,1,1,1,0,1,8.09,Right,IV,ILC,0,1,Positive,Negative,Negative,Surgery,None,Deceased,13
+PKBC1523,29,Gilgit-Baltistan,Quetta,Widowed,Secondary,1,1,21.5,Low,Healthy,1,1,9,Pre,5,1,0,1,1,1,0,1.1,Left,IV,Mucinous,1,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Alive,4
+PKBC1524,28,Balochistan,Karachi,Divorced,Secondary,0,1,35.2,Low,Mixed,0,0,11,Post,0,0,1,0,1,0,1,7.6,Left,I,Mucinous,0,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,4
+PKBC1525,50,Gilgit-Baltistan,Lahore,Single,None,1,0,33.6,Moderate,Mixed,1,1,14,Pre,3,1,0,1,0,1,1,4.14,Right,I,Mucinous,0,0,Positive,Positive,Positive,Surgery,None,Alive,8
+PKBC1526,21,KPK,Islamabad,Widowed,Secondary,1,0,22,Low,Healthy,1,0,13,Pre,0,0,0,0,0,1,1,6.92,Right,I,ILC,1,1,Negative,Negative,Positive,Surgery,Complete,Alive,5
+PKBC1527,43,Balochistan,Islamabad,Married,None,0,1,20.6,Low,Unhealthy,1,0,13,Pre,3,1,0,1,1,1,0,1,Left,I,ILC,0,1,Negative,Negative,Negative,Chemotherapy,None,Alive,14
+PKBC1528,38,Balochistan,Quetta,Widowed,None,0,1,36.4,Low,Healthy,1,0,13,Post,1,1,0,0,1,1,0,9.25,Left,II,Mucinous,0,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,5
+PKBC1529,36,Sindh,Peshawar,Single,Secondary,0,0,35.1,Moderate,Unhealthy,0,0,14,Post,5,0,0,0,0,1,0,7.79,Left,I,IDC,1,0,Positive,Positive,Positive,Surgery,Partial,Alive,1
+PKBC1530,62,Balochistan,Peshawar,Divorced,Primary,1,0,25.2,Moderate,Healthy,1,1,15,Pre,1,1,1,1,1,1,0,1.83,Left,I,IDC,1,1,Positive,Negative,Negative,Hormonal Therapy,None,Deceased,10
+PKBC1531,68,Punjab,Islamabad,Married,Graduate,1,0,32.5,High,Healthy,0,1,13,Post,2,0,1,1,1,1,1,2.58,Left,I,IDC,1,1,Negative,Positive,Negative,Surgery,Partial,Alive,4
+PKBC1532,29,Gilgit-Baltistan,Peshawar,Divorced,Primary,1,0,20.7,High,Mixed,1,1,10,Post,6,0,1,0,0,0,1,6.62,Left,I,Medullary,0,0,Positive,Negative,Negative,Hormonal Therapy,Complete,Deceased,11
+PKBC1533,69,Gilgit-Baltistan,Karachi,Widowed,Secondary,1,1,29.2,Low,Mixed,1,0,13,Post,3,1,0,0,1,0,1,9.25,Right,II,Mucinous,0,1,Positive,Positive,Negative,Hormonal Therapy,Complete,Deceased,3
+PKBC1534,74,Sindh,Peshawar,Married,Secondary,1,0,18.4,Low,Unhealthy,0,0,14,Post,0,0,0,0,0,0,1,4.74,Right,I,Medullary,1,0,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,9
+PKBC1535,47,Balochistan,Karachi,Married,Primary,1,0,26.6,Moderate,Unhealthy,0,0,15,Post,7,0,0,1,1,1,0,5.11,Left,III,IDC,1,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,14
+PKBC1536,57,KPK,Islamabad,Widowed,Secondary,0,1,19.6,High,Healthy,1,0,11,Post,0,0,0,1,1,0,1,2.76,Left,IV,ILC,1,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Alive,2
+PKBC1537,67,Punjab,Islamabad,Widowed,None,1,0,28.5,High,Mixed,1,1,13,Post,5,0,1,0,0,1,0,4.14,Right,III,IDC,0,1,Negative,Negative,Positive,Targeted Therapy,None,Alive,8
+PKBC1538,47,Sindh,Islamabad,Single,Postgraduate,1,1,27.3,High,Unhealthy,1,1,15,Pre,0,0,1,0,0,1,1,3.22,Left,II,Medullary,0,0,Positive,Negative,Negative,Surgery,None,Alive,10
+PKBC1539,78,Balochistan,Quetta,Widowed,Secondary,1,0,27.8,Low,Unhealthy,1,1,15,Pre,2,0,0,0,0,1,0,3.83,Left,II,Medullary,1,0,Positive,Negative,Positive,Hormonal Therapy,None,Alive,11
+PKBC1540,69,KPK,Peshawar,Widowed,Secondary,1,1,19,Low,Unhealthy,1,0,12,Pre,4,1,0,1,0,1,1,0.7,Right,II,IDC,0,1,Positive,Negative,Negative,Radiation,Partial,Deceased,6
+PKBC1541,71,Balochistan,Lahore,Widowed,Primary,0,0,26,Low,Healthy,1,1,10,Post,0,0,0,1,0,1,1,0.89,Right,IV,Mucinous,0,1,Positive,Positive,Positive,Surgery,Complete,Alive,14
+PKBC1542,69,Sindh,Lahore,Married,None,0,1,34.6,Moderate,Unhealthy,0,0,14,Pre,5,0,1,0,0,1,0,6.97,Left,I,ILC,0,0,Positive,Positive,Positive,Radiation,Partial,Deceased,3
+PKBC1543,20,KPK,Islamabad,Single,Primary,0,1,26.1,High,Unhealthy,1,1,13,Post,1,1,1,0,1,1,1,6.98,Right,II,ILC,1,1,Positive,Positive,Positive,Radiation,None,Deceased,8
+PKBC1544,79,KPK,Peshawar,Married,Primary,1,0,33.7,Moderate,Mixed,1,1,12,Post,6,0,0,1,1,1,0,3.64,Left,I,IDC,1,1,Positive,Positive,Positive,Chemotherapy,Partial,Alive,8
+PKBC1545,22,KPK,Karachi,Widowed,Secondary,1,1,26.1,High,Mixed,1,1,14,Pre,0,0,0,1,0,0,1,8.91,Right,II,Mucinous,0,0,Positive,Positive,Negative,Targeted Therapy,Complete,Alive,11
+PKBC1546,34,KPK,Lahore,Single,None,1,1,27.3,Low,Mixed,0,1,11,Pre,0,0,1,0,0,1,0,3.03,Left,IV,Mucinous,1,0,Positive,Positive,Positive,Chemotherapy,Partial,Alive,14
+PKBC1547,71,Balochistan,Islamabad,Widowed,Secondary,0,0,30.4,Moderate,Healthy,0,0,10,Pre,0,1,1,0,0,0,0,4.26,Left,III,IDC,0,1,Negative,Positive,Positive,Targeted Therapy,Complete,Alive,6
+PKBC1548,29,KPK,Lahore,Married,Secondary,1,1,38.9,Moderate,Mixed,0,0,15,Pre,5,1,0,0,1,0,0,7.45,Left,III,ILC,0,1,Positive,Positive,Positive,Chemotherapy,Complete,Alive,4
+PKBC1549,40,Balochistan,Lahore,Married,Secondary,1,1,20.4,Low,Mixed,1,1,13,Post,6,0,0,1,1,1,0,7.56,Left,IV,ILC,1,1,Positive,Negative,Negative,Surgery,None,Deceased,12
+PKBC1550,56,KPK,Lahore,Widowed,Secondary,0,0,18.7,High,Mixed,0,1,11,Pre,4,0,0,0,1,0,1,8.68,Right,I,ILC,1,1,Positive,Negative,Positive,Radiation,Complete,Alive,8
+PKBC1551,34,KPK,Islamabad,Single,Postgraduate,0,0,31.4,High,Mixed,1,0,14,Pre,0,1,1,0,1,1,0,0.78,Right,II,Mucinous,1,0,Negative,Positive,Positive,Surgery,Partial,Alive,13
+PKBC1552,42,Sindh,Islamabad,Married,Graduate,1,1,38.9,High,Unhealthy,1,1,12,Post,4,0,0,0,0,0,0,2.25,Right,III,IDC,0,0,Negative,Positive,Positive,Targeted Therapy,Partial,Alive,12
+PKBC1553,33,Balochistan,Quetta,Widowed,None,0,1,39.8,High,Healthy,1,1,14,Post,4,1,1,1,1,1,0,6.59,Left,IV,Mucinous,1,0,Positive,Positive,Positive,Radiation,None,Deceased,6
+PKBC1554,34,Balochistan,Quetta,Divorced,Postgraduate,1,1,28.7,Low,Unhealthy,1,1,14,Post,6,0,0,1,1,0,0,3.71,Right,I,ILC,0,0,Positive,Negative,Positive,Radiation,Partial,Alive,8
+PKBC1555,29,Gilgit-Baltistan,Quetta,Widowed,Graduate,1,1,28.3,Low,Unhealthy,1,0,10,Post,6,0,0,1,1,1,1,0.91,Left,III,Mucinous,0,1,Negative,Positive,Negative,Targeted Therapy,None,Deceased,10
+PKBC1556,75,Sindh,Lahore,Widowed,Graduate,0,1,32.2,Low,Healthy,1,0,13,Post,2,1,0,0,0,0,0,6.07,Left,IV,ILC,0,0,Positive,Positive,Positive,Surgery,Partial,Deceased,2
+PKBC1557,28,Balochistan,Peshawar,Single,Graduate,1,0,30.2,Low,Unhealthy,1,1,11,Pre,1,0,1,1,1,1,1,4.23,Right,II,IDC,0,0,Negative,Positive,Negative,Radiation,Partial,Deceased,10
+PKBC1558,63,Sindh,Islamabad,Widowed,Postgraduate,0,1,31.9,Moderate,Mixed,0,1,10,Pre,0,1,0,1,0,1,1,3.96,Right,IV,ILC,0,1,Positive,Positive,Negative,Surgery,Complete,Alive,8
+PKBC1559,58,Sindh,Quetta,Divorced,None,0,0,37.2,Moderate,Healthy,0,0,12,Post,0,1,1,1,1,0,0,3.01,Left,I,Medullary,1,1,Negative,Negative,Positive,Surgery,Complete,Deceased,0
+PKBC1560,24,Sindh,Peshawar,Widowed,Primary,1,0,34.4,Moderate,Unhealthy,0,0,15,Pre,0,0,0,1,1,0,0,0.56,Left,III,Medullary,0,0,Negative,Positive,Positive,Surgery,Complete,Deceased,4
+PKBC1561,44,Punjab,Quetta,Divorced,Graduate,0,0,28.9,Low,Unhealthy,1,0,13,Post,4,0,1,1,1,0,0,2.23,Right,II,IDC,0,1,Positive,Negative,Negative,Radiation,Partial,Deceased,12
+PKBC1562,75,Balochistan,Quetta,Married,Primary,1,0,28.2,High,Mixed,0,0,15,Pre,7,1,0,0,0,0,0,5.01,Right,I,Mucinous,1,0,Negative,Negative,Positive,Hormonal Therapy,None,Alive,12
+PKBC1563,61,Sindh,Peshawar,Widowed,Primary,1,1,32.1,Moderate,Unhealthy,1,0,10,Pre,6,1,1,0,1,1,1,3.12,Right,IV,Mucinous,0,1,Negative,Negative,Positive,Chemotherapy,None,Deceased,1
+PKBC1564,76,Punjab,Quetta,Single,Secondary,0,1,28,Moderate,Unhealthy,0,0,12,Pre,3,0,0,0,1,0,1,8.81,Right,III,Mucinous,1,1,Negative,Positive,Negative,Targeted Therapy,None,Alive,0
+PKBC1565,45,Punjab,Lahore,Widowed,Primary,0,1,28.1,Low,Unhealthy,0,0,12,Pre,7,0,1,0,0,0,0,1.86,Right,III,ILC,0,0,Positive,Negative,Positive,Surgery,Complete,Deceased,13
+PKBC1566,27,KPK,Lahore,Divorced,Secondary,0,0,18.4,High,Healthy,1,0,11,Pre,1,0,1,0,1,1,0,8.82,Left,I,Medullary,1,1,Positive,Positive,Negative,Radiation,Partial,Deceased,2
+PKBC1567,41,KPK,Lahore,Divorced,None,1,0,21.8,High,Healthy,0,1,14,Post,5,0,0,1,1,1,1,4.35,Left,II,IDC,1,0,Negative,Positive,Negative,Targeted Therapy,Complete,Alive,6
+PKBC1568,71,Balochistan,Karachi,Single,None,1,1,28.7,High,Unhealthy,1,1,12,Pre,0,1,1,1,1,1,1,3.12,Left,I,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,14
+PKBC1569,44,KPK,Quetta,Divorced,Secondary,1,0,36.1,Low,Unhealthy,0,0,12,Pre,3,1,1,0,1,0,0,3.39,Right,III,Mucinous,1,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,2
+PKBC1570,67,Balochistan,Karachi,Widowed,None,1,1,24.1,High,Mixed,0,1,14,Pre,3,0,0,1,1,0,0,3.64,Left,III,IDC,1,1,Positive,Positive,Negative,Radiation,Partial,Deceased,9
+PKBC1571,31,Punjab,Islamabad,Divorced,Graduate,1,0,29.5,Moderate,Healthy,0,0,9,Pre,6,1,1,0,0,0,0,5.31,Right,III,ILC,0,0,Positive,Positive,Negative,Surgery,Complete,Alive,9
+PKBC1572,28,Punjab,Peshawar,Widowed,None,1,0,25.6,Moderate,Healthy,1,1,12,Post,3,0,0,0,1,0,0,3.86,Right,II,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Alive,10
+PKBC1573,29,Balochistan,Islamabad,Widowed,Secondary,1,0,20.3,Moderate,Healthy,1,0,13,Post,1,1,0,1,1,1,0,6.65,Right,III,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,Complete,Alive,8
+PKBC1574,67,KPK,Karachi,Divorced,Graduate,0,0,39.1,Low,Unhealthy,0,0,15,Post,3,1,1,0,0,0,0,4.54,Left,III,ILC,1,0,Positive,Negative,Negative,Hormonal Therapy,Complete,Deceased,2
+PKBC1575,29,KPK,Lahore,Single,Primary,1,0,36.8,High,Mixed,0,1,15,Pre,5,0,1,1,0,0,1,6.88,Left,I,ILC,0,0,Positive,Positive,Positive,Radiation,Partial,Deceased,10
+PKBC1576,28,Balochistan,Quetta,Married,Primary,1,0,19.7,Low,Mixed,1,1,10,Post,0,0,1,0,1,1,1,6.24,Left,III,Mucinous,1,0,Positive,Negative,Positive,Targeted Therapy,Partial,Deceased,5
+PKBC1577,45,Gilgit-Baltistan,Quetta,Single,Primary,0,0,33.8,High,Unhealthy,0,1,14,Post,5,0,1,1,1,1,1,2.82,Left,IV,Mucinous,0,1,Negative,Positive,Negative,Chemotherapy,Partial,Alive,14
+PKBC1578,54,KPK,Lahore,Married,Secondary,1,1,25.6,Low,Unhealthy,0,1,14,Post,0,0,1,1,1,1,1,8.22,Right,I,IDC,0,0,Negative,Negative,Positive,Radiation,Complete,Alive,1
+PKBC1579,46,Sindh,Quetta,Single,Primary,1,1,39.9,Moderate,Mixed,1,1,14,Post,2,1,0,1,0,0,0,8.09,Right,III,IDC,1,1,Positive,Negative,Negative,Surgery,Partial,Alive,7
+PKBC1580,79,KPK,Peshawar,Widowed,None,0,0,24.7,Low,Mixed,0,0,13,Pre,4,1,0,1,1,0,0,9.9,Left,I,ILC,0,1,Negative,Positive,Negative,Radiation,Partial,Deceased,9
+PKBC1581,50,Gilgit-Baltistan,Peshawar,Widowed,Primary,1,0,23.3,Low,Healthy,0,0,14,Pre,3,0,1,1,0,1,1,2.16,Left,I,Mucinous,0,0,Positive,Negative,Positive,Radiation,None,Alive,14
+PKBC1582,38,Punjab,Peshawar,Divorced,Postgraduate,0,1,30.5,Low,Unhealthy,1,0,13,Pre,5,1,1,1,0,0,0,8.55,Right,IV,ILC,0,1,Negative,Positive,Negative,Chemotherapy,None,Alive,4
+PKBC1583,62,Punjab,Islamabad,Married,Postgraduate,1,0,36.4,Moderate,Healthy,1,1,15,Pre,4,1,1,0,0,0,0,8.78,Left,I,IDC,0,1,Positive,Negative,Negative,Chemotherapy,None,Deceased,1
+PKBC1584,57,Punjab,Lahore,Married,Primary,1,1,22.2,Low,Mixed,1,0,11,Post,4,0,1,0,1,1,0,6.6,Left,I,ILC,0,0,Positive,Positive,Negative,Chemotherapy,Partial,Alive,13
+PKBC1585,25,KPK,Peshawar,Divorced,Primary,0,1,33.6,Low,Healthy,1,0,9,Pre,4,0,1,1,1,1,1,5.31,Right,II,Medullary,1,1,Negative,Negative,Positive,Targeted Therapy,Complete,Deceased,13
+PKBC1586,34,Punjab,Karachi,Single,Postgraduate,0,1,19.4,Moderate,Mixed,0,1,14,Pre,4,0,0,1,1,1,1,9.59,Left,III,ILC,0,0,Positive,Negative,Positive,Radiation,None,Deceased,6
+PKBC1587,48,Gilgit-Baltistan,Peshawar,Divorced,Primary,1,1,38.2,High,Mixed,1,0,15,Pre,4,1,0,0,0,0,1,9.74,Left,II,Mucinous,0,1,Positive,Positive,Negative,Surgery,Complete,Alive,2
+PKBC1588,66,Gilgit-Baltistan,Islamabad,Single,Graduate,1,1,19.8,Low,Healthy,1,1,9,Post,0,0,0,0,1,0,1,6.6,Left,III,ILC,0,0,Negative,Negative,Negative,Chemotherapy,None,Alive,13
+PKBC1589,64,KPK,Karachi,Divorced,Postgraduate,0,0,38.1,Moderate,Unhealthy,0,1,15,Post,1,0,1,0,1,0,1,3.92,Right,I,ILC,0,1,Positive,Positive,Negative,Chemotherapy,None,Deceased,4
+PKBC1590,73,Sindh,Lahore,Married,Secondary,1,0,28.8,Low,Healthy,1,0,14,Post,3,1,1,0,0,1,1,8.26,Left,III,Mucinous,0,0,Negative,Positive,Positive,Radiation,Complete,Alive,10
+PKBC1591,24,KPK,Lahore,Married,Postgraduate,0,1,27.9,Moderate,Healthy,1,0,13,Pre,3,1,1,0,0,0,1,1.35,Left,I,Medullary,1,0,Positive,Negative,Negative,Surgery,None,Deceased,8
+PKBC1592,33,Punjab,Peshawar,Single,None,0,0,39.4,High,Unhealthy,0,1,15,Pre,0,1,0,1,0,0,0,3.26,Right,III,Mucinous,0,1,Positive,Negative,Positive,Chemotherapy,Complete,Alive,0
+PKBC1593,72,KPK,Karachi,Married,Graduate,0,1,39.8,High,Unhealthy,1,1,10,Pre,5,1,0,0,0,1,1,9.86,Right,I,IDC,0,0,Negative,Negative,Negative,Radiation,Partial,Alive,14
+PKBC1594,21,Gilgit-Baltistan,Karachi,Married,Secondary,1,0,32.3,Low,Healthy,1,0,9,Pre,0,0,0,0,0,0,0,8.24,Right,III,Medullary,0,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,1
+PKBC1595,42,KPK,Peshawar,Married,Primary,1,0,20.8,Moderate,Mixed,0,0,9,Post,6,1,0,0,1,0,0,9.43,Right,III,Medullary,1,1,Positive,Positive,Positive,Targeted Therapy,Complete,Deceased,4
+PKBC1596,63,KPK,Peshawar,Married,None,1,0,29.1,High,Healthy,1,0,13,Pre,7,0,1,1,0,1,1,6.15,Right,III,Mucinous,1,0,Positive,Positive,Positive,Radiation,Complete,Alive,13
+PKBC1597,71,Sindh,Quetta,Widowed,None,0,0,29.6,High,Mixed,1,0,9,Post,4,0,1,0,1,1,0,4.37,Right,I,ILC,1,0,Negative,Positive,Positive,Chemotherapy,Partial,Alive,3
+PKBC1598,65,Gilgit-Baltistan,Quetta,Divorced,Graduate,1,0,29.3,Moderate,Unhealthy,0,0,11,Post,1,1,1,0,0,1,0,9.81,Right,III,IDC,0,1,Negative,Negative,Negative,Surgery,Complete,Deceased,0
+PKBC1599,38,Balochistan,Peshawar,Divorced,Secondary,0,0,30.5,Low,Unhealthy,0,1,13,Pre,3,0,1,1,1,1,1,3.44,Left,I,IDC,0,1,Positive,Positive,Negative,Hormonal Therapy,Partial,Alive,13
+PKBC1600,43,Balochistan,Islamabad,Widowed,None,0,0,18.4,High,Mixed,1,1,9,Post,5,0,1,1,1,1,0,7.7,Right,II,Medullary,0,1,Positive,Positive,Positive,Surgery,Partial,Alive,6
+PKBC1601,39,Gilgit-Baltistan,Quetta,Married,Secondary,1,0,33.6,High,Healthy,1,0,9,Pre,2,1,1,0,0,0,1,5.8,Right,III,IDC,0,1,Positive,Negative,Positive,Surgery,Complete,Alive,8
+PKBC1602,66,Balochistan,Peshawar,Divorced,Secondary,1,1,33.7,High,Unhealthy,1,0,9,Pre,0,1,0,1,0,1,0,2.67,Right,IV,Medullary,0,1,Negative,Negative,Negative,Surgery,None,Deceased,0
+PKBC1603,46,Punjab,Karachi,Divorced,None,0,1,20.5,Low,Mixed,0,0,13,Pre,2,1,1,0,1,1,0,0.67,Left,IV,Medullary,0,1,Positive,Negative,Negative,Radiation,Complete,Alive,7
+PKBC1604,71,Balochistan,Quetta,Divorced,Secondary,1,0,30.5,High,Mixed,1,0,10,Pre,3,0,1,0,0,1,0,4.15,Left,I,IDC,0,0,Negative,Positive,Positive,Radiation,Partial,Alive,8
+PKBC1605,43,Punjab,Islamabad,Single,Graduate,0,0,30.5,Moderate,Healthy,1,0,12,Post,0,0,1,1,0,0,0,5.7,Right,IV,Medullary,0,1,Positive,Negative,Negative,Targeted Therapy,None,Alive,1
+PKBC1606,36,Gilgit-Baltistan,Lahore,Widowed,None,1,0,33,Low,Mixed,0,1,15,Post,3,1,1,0,0,0,1,2.24,Right,I,ILC,0,1,Negative,Negative,Positive,Hormonal Therapy,None,Deceased,12
+PKBC1607,44,Balochistan,Karachi,Single,Graduate,0,1,19.9,High,Mixed,1,1,14,Pre,0,1,1,1,0,1,1,4.44,Right,I,Medullary,0,1,Positive,Positive,Negative,Surgery,Partial,Deceased,0
+PKBC1608,65,Balochistan,Islamabad,Single,Graduate,1,0,31.8,Moderate,Healthy,1,0,15,Post,5,1,1,1,0,0,1,6.34,Left,IV,ILC,0,0,Negative,Positive,Positive,Chemotherapy,None,Alive,5
+PKBC1609,74,Punjab,Islamabad,Widowed,Secondary,0,0,24.2,Moderate,Unhealthy,1,0,9,Post,3,1,1,1,0,0,0,7.29,Right,IV,ILC,1,0,Negative,Positive,Negative,Surgery,None,Deceased,13
+PKBC1610,50,Punjab,Islamabad,Divorced,Secondary,1,1,29.2,Low,Unhealthy,0,0,15,Post,6,1,1,1,0,0,0,1,Left,II,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,Complete,Deceased,6
+PKBC1611,47,KPK,Karachi,Single,None,0,1,35,Moderate,Unhealthy,0,1,12,Pre,2,1,0,0,0,1,0,6.81,Left,I,IDC,1,1,Negative,Negative,Negative,Surgery,Partial,Alive,1
+PKBC1612,69,Sindh,Islamabad,Divorced,Primary,0,1,33.5,Low,Mixed,1,1,12,Pre,1,1,0,0,1,0,0,1.04,Right,IV,ILC,1,0,Negative,Positive,Positive,Radiation,None,Alive,4
+PKBC1613,78,Balochistan,Lahore,Single,None,0,0,20.6,Low,Mixed,1,1,9,Pre,5,0,0,0,1,0,1,0.77,Left,II,IDC,0,0,Negative,Negative,Positive,Radiation,Partial,Deceased,4
+PKBC1614,47,Sindh,Quetta,Divorced,Graduate,0,1,31,Low,Healthy,0,0,9,Post,6,1,1,1,0,1,0,1.95,Right,II,Mucinous,1,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,6
+PKBC1615,41,Sindh,Karachi,Married,Secondary,0,0,39.3,Moderate,Mixed,1,0,14,Pre,5,1,0,0,0,1,1,6.71,Left,I,ILC,1,0,Positive,Positive,Negative,Targeted Therapy,Complete,Alive,11
+PKBC1616,75,Balochistan,Islamabad,Married,Graduate,0,1,21.4,Low,Mixed,0,1,12,Pre,0,1,1,1,1,0,0,1,Left,III,Medullary,1,1,Positive,Positive,Negative,Surgery,Complete,Alive,10
+PKBC1617,78,Punjab,Peshawar,Married,Postgraduate,1,0,36.8,Low,Unhealthy,0,1,10,Pre,2,1,0,0,0,1,0,0.7,Left,IV,Mucinous,1,1,Positive,Positive,Positive,Hormonal Therapy,None,Alive,0
+PKBC1618,24,KPK,Quetta,Widowed,Postgraduate,0,0,33.5,Moderate,Mixed,0,0,12,Pre,3,0,0,1,0,1,1,1.62,Right,IV,Mucinous,1,1,Negative,Positive,Negative,Chemotherapy,Complete,Deceased,9
+PKBC1619,73,Gilgit-Baltistan,Karachi,Married,Graduate,0,0,35,Low,Mixed,0,1,10,Pre,2,1,1,0,0,1,1,9.52,Left,IV,ILC,0,1,Negative,Negative,Positive,Chemotherapy,Partial,Deceased,7
+PKBC1620,63,Balochistan,Peshawar,Single,Primary,1,1,24.2,High,Mixed,0,1,15,Pre,5,0,1,0,0,1,1,9.12,Left,IV,IDC,1,1,Positive,Positive,Negative,Targeted Therapy,Complete,Alive,4
+PKBC1621,61,Balochistan,Peshawar,Divorced,Primary,1,0,24.3,Moderate,Healthy,1,1,11,Post,0,0,1,1,1,0,1,1.32,Right,IV,Mucinous,1,1,Negative,Positive,Negative,Radiation,None,Alive,11
+PKBC1622,27,Gilgit-Baltistan,Islamabad,Divorced,None,0,0,37.9,Moderate,Mixed,0,0,10,Pre,7,0,1,0,0,1,0,3.39,Left,IV,ILC,0,0,Negative,Negative,Negative,Hormonal Therapy,Complete,Deceased,2
+PKBC1623,57,Sindh,Karachi,Divorced,None,1,0,25.9,Moderate,Healthy,1,0,14,Post,2,1,0,1,1,1,1,9.5,Left,II,Mucinous,1,1,Positive,Negative,Positive,Surgery,None,Alive,12
+PKBC1624,47,KPK,Islamabad,Divorced,None,1,1,19.4,High,Unhealthy,1,1,13,Pre,6,1,0,1,0,0,1,1.43,Right,I,Mucinous,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,12
+PKBC1625,76,Sindh,Lahore,Single,Secondary,0,0,31.2,Low,Mixed,1,1,15,Post,3,0,1,0,1,1,0,1.4,Right,II,ILC,0,1,Negative,Positive,Positive,Targeted Therapy,Complete,Alive,8
+PKBC1626,66,Gilgit-Baltistan,Peshawar,Divorced,Primary,0,0,20.7,Moderate,Healthy,0,0,9,Post,4,0,0,0,1,0,0,1.32,Right,IV,Medullary,0,1,Positive,Negative,Negative,Hormonal Therapy,Complete,Deceased,10
+PKBC1627,31,Gilgit-Baltistan,Lahore,Single,Graduate,1,0,35.5,Moderate,Unhealthy,1,0,11,Post,5,1,0,0,1,1,0,9.78,Left,I,Medullary,0,1,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,2
+PKBC1628,76,KPK,Islamabad,Single,Postgraduate,1,0,32.1,Moderate,Mixed,1,1,12,Pre,1,0,0,1,0,0,0,7.56,Left,IV,Medullary,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,6
+PKBC1629,44,Gilgit-Baltistan,Quetta,Divorced,Primary,1,1,37.2,High,Healthy,1,1,10,Pre,1,0,1,1,0,1,1,2.54,Left,I,Mucinous,1,0,Positive,Positive,Negative,Targeted Therapy,None,Alive,9
+PKBC1630,57,Gilgit-Baltistan,Peshawar,Divorced,Primary,1,0,35.3,High,Healthy,0,1,11,Post,5,1,1,1,0,1,1,0.94,Left,II,IDC,0,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,11
+PKBC1631,63,KPK,Quetta,Divorced,Primary,1,1,20.5,High,Unhealthy,1,0,15,Post,7,1,1,1,1,0,0,9.67,Left,I,IDC,1,0,Negative,Positive,Positive,Chemotherapy,Complete,Alive,6
+PKBC1632,34,Balochistan,Karachi,Single,None,1,1,26.4,Low,Mixed,0,1,13,Pre,4,0,0,1,0,0,1,4.54,Right,II,Mucinous,0,0,Positive,Negative,Negative,Surgery,Complete,Deceased,13
+PKBC1633,63,Sindh,Peshawar,Widowed,Secondary,0,0,35,Low,Mixed,0,1,10,Pre,0,0,1,1,0,0,1,6.18,Left,IV,Mucinous,1,1,Negative,Negative,Positive,Targeted Therapy,Complete,Alive,9
+PKBC1634,60,Balochistan,Lahore,Single,Graduate,1,1,27.2,High,Mixed,1,1,14,Pre,2,1,1,1,1,0,0,3.15,Right,I,ILC,1,0,Negative,Negative,Negative,Radiation,Partial,Deceased,11
+PKBC1635,70,Balochistan,Quetta,Widowed,None,0,1,39.4,Low,Healthy,1,1,12,Post,2,1,0,1,0,0,1,7.7,Left,III,IDC,0,0,Positive,Negative,Negative,Targeted Therapy,Complete,Deceased,7
+PKBC1636,72,Sindh,Karachi,Divorced,Secondary,0,1,34.2,High,Mixed,0,1,12,Post,4,1,1,1,1,1,1,2.37,Left,III,Mucinous,1,1,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,14
+PKBC1637,53,Balochistan,Peshawar,Single,Primary,1,0,18.3,Low,Healthy,0,0,10,Post,6,0,1,0,0,0,0,7.98,Right,II,Medullary,0,0,Positive,Negative,Positive,Targeted Therapy,Complete,Alive,9
+PKBC1638,79,KPK,Karachi,Divorced,Secondary,0,1,37.4,Low,Healthy,1,1,13,Post,4,1,1,1,1,1,1,2.69,Left,II,IDC,0,0,Positive,Positive,Positive,Radiation,None,Alive,7
+PKBC1639,64,Sindh,Lahore,Widowed,None,1,1,20.2,High,Unhealthy,1,1,9,Post,3,0,0,1,1,0,1,1.43,Left,II,Mucinous,1,1,Negative,Positive,Negative,Chemotherapy,None,Alive,3
+PKBC1640,32,Punjab,Peshawar,Widowed,Primary,0,0,21.1,Moderate,Healthy,1,0,9,Pre,3,0,1,0,1,0,0,5.05,Right,II,ILC,1,1,Positive,Positive,Negative,Hormonal Therapy,None,Alive,13
+PKBC1641,27,Balochistan,Karachi,Single,None,1,0,34.2,Moderate,Unhealthy,1,0,12,Post,1,1,0,0,1,1,1,8.23,Right,IV,ILC,0,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,0
+PKBC1642,78,Gilgit-Baltistan,Islamabad,Single,Graduate,0,1,37,Low,Unhealthy,1,1,15,Post,0,1,0,1,1,1,0,4.16,Left,III,IDC,0,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Alive,3
+PKBC1643,32,Sindh,Peshawar,Single,Primary,1,1,29.8,Low,Mixed,0,1,15,Pre,7,1,0,0,1,1,0,0.77,Right,II,Medullary,1,0,Negative,Negative,Positive,Radiation,Partial,Alive,5
+PKBC1644,55,Punjab,Peshawar,Single,Secondary,0,1,24.4,Low,Unhealthy,0,1,13,Pre,0,1,0,0,1,1,0,5.76,Left,I,IDC,1,0,Positive,Positive,Positive,Hormonal Therapy,Complete,Alive,9
+PKBC1645,25,Gilgit-Baltistan,Peshawar,Married,None,1,0,25.7,Low,Mixed,0,0,12,Pre,6,0,0,1,0,0,0,6.96,Right,I,Mucinous,1,1,Positive,Negative,Positive,Chemotherapy,Complete,Alive,10
+PKBC1646,57,Punjab,Peshawar,Married,Postgraduate,0,1,25.5,Low,Unhealthy,0,0,9,Post,4,0,0,1,1,1,0,7.54,Left,IV,Medullary,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,12
+PKBC1647,51,Balochistan,Islamabad,Divorced,Secondary,0,0,25.2,Low,Healthy,0,0,12,Pre,1,0,1,0,0,0,0,4.32,Right,II,Mucinous,0,0,Positive,Negative,Positive,Surgery,None,Alive,5
+PKBC1648,40,Gilgit-Baltistan,Lahore,Widowed,Secondary,0,1,23.3,High,Mixed,1,0,10,Post,1,0,1,1,0,0,1,1.42,Right,I,Medullary,1,0,Positive,Negative,Positive,Targeted Therapy,Complete,Alive,5
+PKBC1649,63,Balochistan,Islamabad,Widowed,Primary,1,1,31.4,Moderate,Healthy,0,1,15,Pre,3,1,0,0,0,0,0,6.05,Left,II,Medullary,1,0,Negative,Positive,Negative,Surgery,None,Alive,13
+PKBC1650,63,Gilgit-Baltistan,Islamabad,Divorced,Secondary,1,0,37.8,Moderate,Mixed,1,0,15,Post,2,0,0,1,1,1,1,3.63,Right,I,Mucinous,0,1,Negative,Negative,Positive,Radiation,Complete,Deceased,11
+PKBC1651,68,Sindh,Karachi,Divorced,None,1,1,24.8,High,Healthy,0,1,14,Post,6,1,1,1,0,1,0,9.5,Right,IV,IDC,1,1,Negative,Positive,Positive,Surgery,Complete,Deceased,6
+PKBC1652,78,KPK,Quetta,Divorced,Postgraduate,1,0,22.1,High,Unhealthy,0,0,10,Pre,0,1,1,0,1,1,0,5.28,Right,I,ILC,0,1,Positive,Positive,Negative,Radiation,None,Deceased,11
+PKBC1653,26,KPK,Quetta,Married,Graduate,1,1,36.4,Moderate,Mixed,1,1,14,Post,6,0,1,0,0,1,0,4.99,Left,II,Medullary,0,1,Positive,Positive,Negative,Radiation,Partial,Alive,10
+PKBC1654,45,Punjab,Karachi,Divorced,Postgraduate,0,0,34.3,Moderate,Mixed,0,1,13,Pre,1,0,0,0,1,1,1,3.44,Right,II,Medullary,1,0,Negative,Positive,Positive,Targeted Therapy,None,Deceased,0
+PKBC1655,34,Gilgit-Baltistan,Islamabad,Widowed,None,1,0,38.5,Low,Mixed,0,1,9,Post,3,0,0,0,1,1,1,3.72,Right,IV,ILC,1,1,Positive,Negative,Negative,Surgery,Partial,Alive,9
+PKBC1656,75,Balochistan,Karachi,Divorced,Primary,1,1,21.6,Moderate,Unhealthy,0,0,13,Post,3,0,1,0,0,0,0,5.37,Right,III,IDC,0,0,Negative,Positive,Positive,Targeted Therapy,Partial,Alive,0
+PKBC1657,68,Sindh,Peshawar,Single,None,0,0,21.2,Low,Healthy,0,1,13,Post,3,0,0,1,1,1,1,3.41,Left,II,ILC,0,1,Positive,Negative,Positive,Hormonal Therapy,Complete,Deceased,6
+PKBC1658,61,Sindh,Karachi,Widowed,Secondary,1,1,29.9,Low,Unhealthy,1,1,9,Pre,6,1,0,1,0,0,0,8.98,Left,III,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Complete,Alive,11
+PKBC1659,42,Sindh,Karachi,Widowed,Primary,1,0,31.5,Moderate,Unhealthy,0,1,11,Post,2,1,0,0,1,0,0,4.67,Right,II,Medullary,0,0,Negative,Negative,Negative,Surgery,Complete,Deceased,3
+PKBC1660,71,KPK,Peshawar,Widowed,Graduate,1,0,28.6,Low,Unhealthy,0,0,11,Pre,1,0,0,0,1,1,1,3.27,Left,IV,Medullary,0,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Deceased,5
+PKBC1661,57,Balochistan,Quetta,Married,Graduate,1,0,31.2,Low,Healthy,0,1,12,Post,4,0,1,0,0,1,0,1.98,Right,I,Mucinous,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,5
+PKBC1662,60,Sindh,Peshawar,Married,None,1,1,22,High,Unhealthy,0,0,11,Post,4,0,0,1,1,1,0,6.89,Left,III,IDC,0,0,Positive,Negative,Negative,Targeted Therapy,None,Alive,8
+PKBC1663,34,Sindh,Lahore,Widowed,Secondary,1,0,28.6,Moderate,Mixed,0,1,10,Pre,3,0,0,1,0,1,1,0.74,Right,I,ILC,0,1,Positive,Positive,Positive,Targeted Therapy,Complete,Alive,1
+PKBC1664,67,Punjab,Karachi,Single,Graduate,0,0,32.5,High,Unhealthy,0,0,15,Pre,3,0,0,0,0,0,0,4.77,Left,IV,IDC,0,0,Positive,Negative,Positive,Chemotherapy,Complete,Alive,3
+PKBC1665,72,Gilgit-Baltistan,Karachi,Widowed,Postgraduate,1,0,27.5,Low,Healthy,0,1,14,Post,2,0,0,1,0,1,0,5.73,Right,IV,IDC,0,1,Negative,Negative,Negative,Chemotherapy,Partial,Alive,3
+PKBC1666,59,Gilgit-Baltistan,Quetta,Married,Primary,1,1,32.9,Low,Mixed,0,1,15,Post,3,1,1,1,1,1,1,3.73,Right,IV,IDC,1,1,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,6
+PKBC1667,35,Gilgit-Baltistan,Islamabad,Single,Postgraduate,1,1,27.9,High,Healthy,1,1,13,Post,5,1,0,0,0,0,1,7.62,Left,II,IDC,0,1,Negative,Negative,Negative,Chemotherapy,Partial,Alive,0
+PKBC1668,51,Punjab,Peshawar,Widowed,Graduate,0,0,25.3,High,Unhealthy,1,1,15,Post,1,0,0,0,0,0,0,6.92,Right,II,ILC,1,1,Positive,Negative,Positive,Targeted Therapy,None,Deceased,4
+PKBC1669,56,KPK,Islamabad,Married,Graduate,0,0,24.7,High,Healthy,1,0,12,Post,7,0,1,1,0,1,0,9.73,Right,II,Mucinous,0,0,Negative,Positive,Negative,Radiation,None,Alive,13
+PKBC1670,37,Punjab,Lahore,Single,None,0,1,27,Low,Mixed,0,1,13,Post,7,1,0,1,0,0,1,5.33,Right,II,Medullary,1,0,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,10
+PKBC1671,39,Sindh,Peshawar,Divorced,None,0,0,18.5,Moderate,Healthy,0,1,9,Pre,3,0,0,1,1,1,1,5.61,Left,III,ILC,0,1,Negative,Positive,Negative,Radiation,None,Deceased,3
+PKBC1672,65,Balochistan,Lahore,Divorced,Primary,1,0,32.7,Low,Mixed,1,1,15,Post,7,0,0,1,1,1,0,2.84,Right,IV,ILC,1,1,Positive,Positive,Positive,Targeted Therapy,Complete,Alive,1
+PKBC1673,21,Sindh,Lahore,Widowed,None,0,0,36.6,High,Mixed,1,0,11,Pre,3,0,0,1,0,0,1,4.16,Right,III,Medullary,1,1,Negative,Positive,Positive,Targeted Therapy,Complete,Deceased,4
+PKBC1674,74,Sindh,Lahore,Divorced,Secondary,1,0,25.8,Moderate,Unhealthy,1,0,9,Post,1,1,1,0,0,0,1,0.76,Right,II,Mucinous,1,0,Positive,Negative,Positive,Chemotherapy,Partial,Alive,8
+PKBC1675,42,Balochistan,Peshawar,Married,Primary,1,0,19,High,Unhealthy,1,0,12,Post,0,0,1,1,0,1,1,7.05,Left,I,ILC,1,1,Negative,Positive,Positive,Radiation,Partial,Alive,14
+PKBC1676,49,Gilgit-Baltistan,Peshawar,Single,Secondary,1,0,39.7,Low,Mixed,0,1,14,Pre,5,1,1,0,0,1,0,3.46,Right,III,Medullary,0,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Deceased,7
+PKBC1677,22,Punjab,Quetta,Widowed,None,0,1,23.8,Moderate,Healthy,1,0,10,Post,5,0,0,0,0,1,0,5.63,Left,I,Mucinous,0,0,Negative,Negative,Negative,Hormonal Therapy,None,Alive,8
+PKBC1678,65,KPK,Karachi,Single,Primary,1,0,20.8,Moderate,Mixed,0,0,11,Post,7,0,0,1,0,0,0,2.92,Right,II,Mucinous,0,1,Positive,Positive,Negative,Hormonal Therapy,None,Deceased,6
+PKBC1679,58,Sindh,Islamabad,Single,Graduate,0,0,26.1,Low,Unhealthy,1,0,9,Pre,4,1,1,0,1,0,0,6.4,Left,III,IDC,0,0,Positive,Positive,Positive,Chemotherapy,Complete,Alive,9
+PKBC1680,66,Sindh,Islamabad,Single,Postgraduate,1,1,34.2,High,Healthy,0,1,14,Post,3,0,1,1,0,1,0,4.75,Left,III,ILC,1,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Deceased,6
+PKBC1681,68,KPK,Lahore,Married,Graduate,0,1,24.5,High,Mixed,0,0,15,Pre,1,1,0,0,0,1,1,5.08,Left,III,Mucinous,0,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,13
+PKBC1682,20,Punjab,Peshawar,Widowed,Secondary,0,1,30.6,High,Unhealthy,0,1,11,Post,4,1,0,1,0,0,1,9.45,Right,I,ILC,0,0,Positive,Positive,Positive,Chemotherapy,None,Alive,13
+PKBC1683,60,Sindh,Peshawar,Divorced,Graduate,1,1,27.1,Low,Mixed,0,0,13,Post,6,0,0,0,0,1,1,7.21,Left,II,Medullary,0,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Alive,12
+PKBC1684,41,KPK,Lahore,Single,Graduate,1,0,20.6,High,Mixed,1,0,10,Pre,7,1,0,1,0,0,0,2.99,Left,IV,ILC,0,1,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,1
+PKBC1685,48,Sindh,Karachi,Single,Postgraduate,1,1,25.3,Moderate,Mixed,0,1,15,Pre,6,1,0,1,0,1,0,5.29,Left,IV,Mucinous,1,0,Positive,Negative,Positive,Targeted Therapy,None,Alive,11
+PKBC1686,33,Gilgit-Baltistan,Islamabad,Single,Postgraduate,0,0,33.9,High,Healthy,0,1,14,Post,2,0,0,0,1,0,1,4.93,Left,II,Medullary,0,0,Negative,Positive,Positive,Chemotherapy,Partial,Deceased,12
+PKBC1687,67,Gilgit-Baltistan,Quetta,Married,Graduate,0,1,31.5,High,Unhealthy,1,1,11,Pre,6,0,0,0,1,1,1,8.05,Left,III,Medullary,0,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Alive,2
+PKBC1688,47,Sindh,Karachi,Divorced,Postgraduate,0,1,20.6,Moderate,Unhealthy,1,0,15,Pre,6,0,0,0,0,1,1,8.42,Left,IV,IDC,1,1,Negative,Positive,Negative,Chemotherapy,Complete,Deceased,10
+PKBC1689,40,Sindh,Peshawar,Single,Graduate,1,1,21.6,Moderate,Mixed,1,1,10,Pre,0,1,0,1,1,1,1,3.19,Left,III,Medullary,1,1,Positive,Negative,Negative,Surgery,Partial,Alive,9
+PKBC1690,64,Gilgit-Baltistan,Lahore,Married,Primary,0,0,32.1,High,Mixed,1,1,14,Post,3,0,0,0,0,0,0,8.3,Left,II,Mucinous,0,0,Positive,Negative,Negative,Hormonal Therapy,Partial,Deceased,7
+PKBC1691,51,Sindh,Islamabad,Married,Graduate,1,1,35.9,Moderate,Mixed,0,0,13,Pre,0,0,1,0,1,1,0,2.21,Left,I,IDC,1,1,Positive,Negative,Negative,Targeted Therapy,Complete,Alive,10
+PKBC1692,25,Punjab,Lahore,Single,None,0,1,25.7,Low,Healthy,1,1,13,Pre,3,0,0,1,0,1,1,7.75,Right,III,Mucinous,0,1,Positive,Negative,Negative,Radiation,None,Alive,1
+PKBC1693,73,Punjab,Peshawar,Single,Postgraduate,0,1,31.1,Moderate,Unhealthy,0,1,9,Pre,3,0,0,1,0,1,0,2.86,Left,I,Mucinous,0,0,Negative,Positive,Positive,Chemotherapy,Partial,Deceased,6
+PKBC1694,20,Balochistan,Lahore,Married,Postgraduate,0,0,21.8,Low,Mixed,1,0,12,Pre,3,1,0,0,0,1,0,3.33,Left,I,IDC,0,0,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,11
+PKBC1695,40,Punjab,Islamabad,Married,Secondary,1,0,24.9,Moderate,Unhealthy,0,0,9,Pre,0,0,1,0,1,1,0,8.6,Left,II,IDC,0,0,Negative,Negative,Positive,Hormonal Therapy,None,Deceased,5
+PKBC1696,76,Sindh,Lahore,Single,Secondary,1,1,18.4,Low,Mixed,1,0,10,Post,5,0,0,1,1,1,0,4.49,Left,II,ILC,1,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Deceased,11
+PKBC1697,23,Sindh,Islamabad,Married,None,1,0,34.9,Low,Unhealthy,1,1,9,Post,2,0,1,1,0,0,1,9.91,Left,I,Mucinous,1,1,Positive,Positive,Negative,Surgery,None,Deceased,9
+PKBC1698,22,KPK,Lahore,Married,Postgraduate,0,1,26.8,High,Mixed,1,0,14,Post,5,0,0,1,0,0,1,1.94,Left,I,ILC,1,0,Negative,Negative,Positive,Targeted Therapy,Complete,Deceased,3
+PKBC1699,68,Punjab,Lahore,Single,Postgraduate,0,0,36,Moderate,Healthy,1,1,11,Post,1,0,1,0,1,1,0,4.9,Left,IV,Medullary,1,1,Positive,Positive,Negative,Chemotherapy,None,Alive,10
+PKBC1700,49,Gilgit-Baltistan,Islamabad,Single,Secondary,0,1,33.6,Moderate,Mixed,0,0,14,Post,1,1,1,0,0,1,1,7.46,Right,IV,Medullary,0,1,Positive,Positive,Negative,Chemotherapy,None,Alive,14
+PKBC1701,50,Gilgit-Baltistan,Lahore,Widowed,Secondary,0,0,36.2,Moderate,Mixed,1,0,9,Pre,6,0,0,1,0,0,0,0.55,Right,II,ILC,1,1,Negative,Negative,Negative,Radiation,None,Deceased,3
+PKBC1702,53,Balochistan,Karachi,Divorced,Graduate,1,1,24.3,Low,Mixed,0,0,12,Pre,5,0,1,1,0,0,1,1.94,Right,III,IDC,1,0,Positive,Negative,Negative,Chemotherapy,Complete,Alive,14
+PKBC1703,38,KPK,Quetta,Single,Postgraduate,0,0,22.1,High,Mixed,0,1,14,Post,2,1,1,1,1,1,1,0.69,Left,I,Medullary,0,1,Positive,Positive,Negative,Chemotherapy,None,Deceased,2
+PKBC1704,39,Gilgit-Baltistan,Karachi,Single,Postgraduate,0,0,39.4,Moderate,Mixed,1,1,14,Pre,6,0,0,0,1,0,1,9.93,Left,III,IDC,0,1,Positive,Positive,Negative,Surgery,None,Alive,13
+PKBC1705,42,Balochistan,Quetta,Single,Graduate,1,1,33.8,High,Unhealthy,1,1,14,Pre,2,1,0,0,0,1,1,7.73,Right,I,ILC,1,0,Negative,Negative,Positive,Radiation,Complete,Deceased,5
+PKBC1706,73,Punjab,Karachi,Divorced,Postgraduate,1,1,36.3,High,Unhealthy,0,1,12,Pre,3,1,0,0,0,1,1,4.05,Right,II,IDC,0,1,Negative,Negative,Positive,Chemotherapy,Partial,Deceased,2
+PKBC1707,78,KPK,Quetta,Widowed,None,1,0,18.3,Low,Healthy,0,1,14,Post,3,1,0,0,1,0,1,1.98,Left,III,Mucinous,0,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,14
+PKBC1708,59,KPK,Lahore,Married,Secondary,0,1,25.8,Moderate,Mixed,0,0,10,Pre,1,1,0,1,0,1,1,1.36,Left,II,Medullary,0,0,Negative,Positive,Positive,Targeted Therapy,None,Deceased,8
+PKBC1709,44,Sindh,Islamabad,Divorced,Secondary,1,1,34.3,High,Unhealthy,0,0,13,Pre,3,0,0,1,0,1,0,5.55,Right,I,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Complete,Alive,3
+PKBC1710,34,Punjab,Islamabad,Single,Secondary,0,1,19.7,Moderate,Unhealthy,0,0,12,Post,6,0,1,0,0,1,1,9.77,Right,II,IDC,1,0,Negative,Positive,Positive,Surgery,Complete,Alive,3
+PKBC1711,57,KPK,Peshawar,Single,Primary,1,1,30.5,Moderate,Mixed,1,0,10,Post,3,1,1,1,0,1,0,6.91,Right,III,Mucinous,1,1,Negative,Positive,Positive,Chemotherapy,None,Alive,1
+PKBC1712,42,Balochistan,Quetta,Widowed,None,0,0,27.4,Moderate,Mixed,1,1,12,Pre,2,1,0,1,1,0,1,3.97,Right,IV,IDC,0,1,Negative,Negative,Negative,Chemotherapy,None,Alive,1
+PKBC1713,71,Gilgit-Baltistan,Peshawar,Widowed,None,0,1,18.4,High,Healthy,0,1,12,Pre,0,1,0,0,0,0,1,5.26,Left,II,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Alive,6
+PKBC1714,21,Punjab,Peshawar,Widowed,Graduate,0,0,23.2,Low,Healthy,1,1,13,Post,7,1,0,1,0,0,1,9.99,Right,III,ILC,0,0,Negative,Negative,Positive,Chemotherapy,Partial,Alive,4
+PKBC1715,76,Punjab,Quetta,Married,Primary,0,0,24.3,Low,Unhealthy,0,0,11,Post,5,1,0,0,0,1,0,5.43,Right,II,ILC,1,0,Positive,Negative,Positive,Radiation,None,Alive,2
+PKBC1716,76,KPK,Islamabad,Divorced,Postgraduate,0,1,20.5,High,Healthy,1,0,10,Pre,4,0,1,0,1,0,0,9.66,Left,II,Medullary,0,1,Positive,Negative,Negative,Hormonal Therapy,Complete,Alive,5
+PKBC1717,34,KPK,Quetta,Divorced,None,0,1,31.9,Moderate,Unhealthy,0,1,12,Pre,4,1,1,0,1,0,0,0.66,Right,IV,IDC,0,1,Positive,Negative,Positive,Radiation,None,Alive,5
+PKBC1718,71,KPK,Lahore,Widowed,Primary,1,0,23.3,Moderate,Healthy,1,0,15,Post,3,0,0,1,1,0,0,7.35,Right,III,Medullary,1,0,Positive,Negative,Negative,Radiation,Complete,Alive,0
+PKBC1719,63,Balochistan,Peshawar,Married,Primary,0,1,24.1,Low,Mixed,1,0,12,Pre,3,1,1,0,0,1,0,6.46,Right,III,Medullary,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,2
+PKBC1720,54,Sindh,Peshawar,Divorced,None,0,1,37.8,High,Healthy,0,1,9,Post,5,1,1,1,0,1,1,7.01,Left,III,IDC,1,0,Negative,Negative,Negative,Chemotherapy,None,Alive,11
+PKBC1721,29,KPK,Quetta,Single,Graduate,0,0,28.3,High,Unhealthy,1,0,14,Post,4,0,0,1,0,1,0,5.92,Left,I,IDC,1,1,Negative,Positive,Negative,Radiation,Complete,Alive,4
+PKBC1722,33,Sindh,Peshawar,Single,Primary,0,0,26.6,Low,Healthy,0,1,11,Post,2,1,0,0,1,1,0,0.92,Right,II,ILC,0,1,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,10
+PKBC1723,46,Sindh,Islamabad,Single,Secondary,1,0,33.9,High,Unhealthy,0,0,13,Pre,7,0,1,0,1,1,0,1.92,Left,IV,Medullary,1,0,Negative,Negative,Positive,Chemotherapy,None,Deceased,12
+PKBC1724,73,Punjab,Peshawar,Divorced,Primary,0,1,38,High,Unhealthy,1,1,15,Pre,4,0,0,0,0,0,1,9.26,Left,III,Medullary,0,1,Negative,Negative,Negative,Surgery,None,Deceased,10
+PKBC1725,33,Gilgit-Baltistan,Quetta,Widowed,Postgraduate,0,1,18.6,Low,Healthy,0,0,10,Post,4,1,0,0,0,0,1,2.71,Right,IV,IDC,0,1,Negative,Negative,Positive,Surgery,Partial,Deceased,6
+PKBC1726,54,Gilgit-Baltistan,Islamabad,Single,None,1,0,27.9,Low,Healthy,1,1,12,Post,6,1,0,0,1,0,1,9.93,Left,I,Medullary,1,1,Negative,Positive,Positive,Radiation,None,Alive,3
+PKBC1727,52,Balochistan,Islamabad,Widowed,Postgraduate,0,0,31.4,High,Unhealthy,1,1,14,Post,4,0,1,1,0,1,0,6.96,Right,I,Mucinous,0,0,Negative,Negative,Negative,Radiation,Partial,Alive,11
+PKBC1728,71,Balochistan,Peshawar,Married,Graduate,1,1,25,High,Mixed,0,0,10,Post,3,0,1,1,0,0,1,4.72,Left,IV,IDC,1,1,Positive,Negative,Negative,Hormonal Therapy,Complete,Alive,7
+PKBC1729,20,Gilgit-Baltistan,Quetta,Single,Secondary,0,1,35,Low,Healthy,1,0,13,Pre,6,1,1,1,0,0,0,9.24,Right,III,ILC,1,0,Positive,Negative,Positive,Chemotherapy,None,Deceased,2
+PKBC1730,53,Gilgit-Baltistan,Peshawar,Married,None,0,1,39.4,Low,Unhealthy,0,1,11,Post,3,0,1,0,1,1,1,8.05,Left,IV,Mucinous,1,0,Positive,Positive,Positive,Chemotherapy,Partial,Deceased,5
+PKBC1731,38,Punjab,Lahore,Widowed,Primary,1,0,38.8,Moderate,Mixed,0,1,9,Post,5,1,0,0,0,1,1,4.58,Left,III,Mucinous,0,0,Positive,Negative,Negative,Surgery,Partial,Alive,14
+PKBC1732,43,Punjab,Lahore,Divorced,Secondary,1,1,23.9,High,Unhealthy,1,1,11,Post,4,1,0,1,1,1,1,1.15,Right,III,ILC,1,0,Positive,Positive,Negative,Surgery,Complete,Deceased,5
+PKBC1733,61,Gilgit-Baltistan,Islamabad,Widowed,Primary,1,1,23,High,Healthy,0,1,9,Pre,7,1,1,0,0,1,1,8.75,Right,I,Mucinous,1,0,Negative,Negative,Negative,Radiation,None,Alive,8
+PKBC1734,23,KPK,Peshawar,Single,Graduate,0,0,39.1,Low,Unhealthy,1,1,10,Post,3,0,1,1,1,0,1,7.77,Right,IV,Mucinous,0,0,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,3
+PKBC1735,55,KPK,Lahore,Single,None,1,1,28.1,Low,Unhealthy,1,0,11,Post,5,1,0,1,1,1,0,8.01,Right,I,Mucinous,1,1,Positive,Negative,Negative,Hormonal Therapy,Partial,Deceased,6
+PKBC1736,32,Punjab,Karachi,Widowed,Graduate,1,0,22.6,Moderate,Unhealthy,0,0,11,Post,4,0,1,1,1,1,0,7.58,Left,II,Medullary,1,0,Positive,Negative,Positive,Surgery,Partial,Alive,9
+PKBC1737,77,Sindh,Lahore,Single,Graduate,0,1,33.6,Moderate,Healthy,1,0,11,Post,7,0,1,0,0,1,1,3.12,Left,I,Mucinous,0,1,Negative,Negative,Negative,Surgery,None,Alive,0
+PKBC1738,51,Gilgit-Baltistan,Peshawar,Single,Graduate,0,0,24.3,Low,Mixed,0,0,13,Post,2,1,1,0,0,0,0,8.66,Right,III,Mucinous,1,1,Negative,Negative,Positive,Hormonal Therapy,None,Alive,10
+PKBC1739,28,Balochistan,Peshawar,Married,Graduate,0,0,23.9,High,Mixed,0,0,10,Pre,3,0,1,1,0,0,1,0.52,Left,IV,IDC,0,1,Positive,Negative,Positive,Hormonal Therapy,Complete,Deceased,0
+PKBC1740,58,KPK,Lahore,Divorced,Primary,1,0,37.3,Moderate,Mixed,0,1,15,Pre,7,0,1,0,1,0,1,2.75,Right,II,ILC,0,1,Positive,Positive,Negative,Radiation,Complete,Deceased,1
+PKBC1741,35,Sindh,Peshawar,Widowed,Postgraduate,0,1,21.6,Low,Mixed,0,0,9,Pre,7,0,1,0,1,0,1,0.94,Left,II,Medullary,0,0,Negative,Negative,Positive,Hormonal Therapy,Complete,Alive,3
+PKBC1742,69,KPK,Peshawar,Married,Primary,1,1,19.4,Low,Healthy,1,0,11,Post,7,0,1,0,0,0,1,1.55,Right,II,Medullary,0,1,Negative,Negative,Negative,Chemotherapy,None,Alive,11
+PKBC1743,22,Sindh,Karachi,Single,Secondary,1,1,23.9,Low,Unhealthy,0,1,10,Post,0,0,0,1,1,1,1,5.56,Left,II,ILC,0,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Alive,5
+PKBC1744,71,Gilgit-Baltistan,Islamabad,Married,Graduate,1,1,31.4,High,Mixed,0,1,15,Pre,7,1,0,1,1,1,1,0.85,Right,IV,Medullary,0,0,Negative,Negative,Positive,Targeted Therapy,None,Deceased,3
+PKBC1745,39,Gilgit-Baltistan,Peshawar,Divorced,Secondary,1,0,20.7,Low,Mixed,0,0,14,Post,5,1,0,1,0,1,1,2.22,Left,III,Medullary,0,1,Negative,Negative,Positive,Hormonal Therapy,None,Deceased,14
+PKBC1746,29,Gilgit-Baltistan,Quetta,Widowed,Primary,0,1,28.4,Low,Healthy,1,0,13,Pre,3,0,1,1,1,0,0,2.71,Left,II,Medullary,0,0,Positive,Positive,Negative,Surgery,None,Alive,5
+PKBC1747,75,Punjab,Islamabad,Divorced,Graduate,0,1,31.8,High,Unhealthy,1,1,13,Post,2,1,0,1,0,1,0,6.73,Right,III,IDC,0,1,Negative,Negative,Negative,Surgery,Complete,Alive,1
+PKBC1748,77,Sindh,Islamabad,Divorced,Primary,1,0,36.7,Low,Unhealthy,0,0,14,Pre,2,1,0,0,0,0,1,4.95,Left,I,IDC,1,0,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,8
+PKBC1749,77,Balochistan,Quetta,Married,Graduate,1,0,23.1,Low,Mixed,1,1,10,Pre,3,1,0,1,1,0,0,4.85,Left,III,Medullary,1,0,Negative,Positive,Negative,Chemotherapy,None,Deceased,10
+PKBC1750,41,Balochistan,Lahore,Married,Primary,0,0,36,Moderate,Mixed,1,0,9,Post,7,0,0,0,0,1,1,7.8,Right,II,ILC,1,0,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,2
+PKBC1751,67,Gilgit-Baltistan,Karachi,Divorced,None,0,0,23.2,Low,Unhealthy,0,0,10,Post,1,0,1,1,1,1,0,4.84,Right,I,ILC,0,1,Negative,Negative,Negative,Hormonal Therapy,None,Alive,6
+PKBC1752,22,Balochistan,Peshawar,Single,Postgraduate,1,1,32.9,High,Healthy,0,0,10,Pre,5,1,0,0,0,1,0,3.81,Right,I,IDC,0,1,Negative,Positive,Negative,Targeted Therapy,Partial,Deceased,0
+PKBC1753,30,KPK,Lahore,Widowed,Postgraduate,1,0,27.5,Moderate,Unhealthy,1,0,12,Pre,4,1,0,0,0,1,1,9.64,Right,I,IDC,0,0,Positive,Positive,Positive,Radiation,Complete,Alive,7
+PKBC1754,44,Sindh,Quetta,Single,Graduate,1,1,20.5,Low,Unhealthy,1,1,15,Post,4,1,0,1,0,0,1,0.58,Left,II,Mucinous,1,0,Positive,Positive,Positive,Radiation,None,Alive,3
+PKBC1755,61,Sindh,Karachi,Single,None,1,1,33.7,High,Mixed,1,1,13,Pre,2,0,0,0,0,0,0,3.4,Right,III,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Complete,Alive,13
+PKBC1756,67,Sindh,Karachi,Widowed,Secondary,1,0,22.8,Low,Healthy,0,0,9,Post,7,0,1,0,0,0,1,6.29,Right,IV,Medullary,1,0,Positive,Negative,Negative,Hormonal Therapy,Partial,Deceased,10
+PKBC1757,27,KPK,Karachi,Married,None,0,0,21.9,Moderate,Healthy,1,0,12,Pre,3,1,1,0,0,1,0,7.94,Right,III,IDC,0,1,Positive,Positive,Positive,Hormonal Therapy,Partial,Alive,11
+PKBC1758,28,Punjab,Quetta,Single,Graduate,1,0,25.9,High,Healthy,1,0,14,Post,1,0,0,0,0,0,1,8.26,Left,II,Mucinous,0,1,Negative,Positive,Positive,Hormonal Therapy,Complete,Alive,14
+PKBC1759,34,KPK,Lahore,Married,None,0,0,32.4,Moderate,Mixed,1,0,10,Post,5,0,0,0,1,1,0,0.94,Left,II,Mucinous,1,1,Negative,Positive,Negative,Surgery,None,Deceased,12
+PKBC1760,51,Sindh,Peshawar,Widowed,Secondary,1,0,23.1,High,Healthy,1,1,14,Post,0,0,0,0,0,0,0,7.24,Left,I,ILC,1,1,Negative,Positive,Negative,Radiation,Partial,Alive,4
+PKBC1761,72,Sindh,Karachi,Single,Graduate,0,1,22,High,Healthy,0,1,13,Pre,4,1,0,1,0,1,0,7.34,Left,III,ILC,0,0,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,6
+PKBC1762,22,Sindh,Karachi,Married,Postgraduate,1,0,18.2,Low,Mixed,0,0,12,Post,6,0,1,0,1,0,1,2.53,Right,II,Medullary,1,1,Negative,Negative,Positive,Surgery,None,Alive,2
+PKBC1763,23,Balochistan,Lahore,Married,None,0,1,28.4,High,Unhealthy,0,1,15,Post,5,0,1,1,1,1,0,1.57,Left,II,IDC,1,1,Negative,Negative,Negative,Surgery,Complete,Alive,8
+PKBC1764,49,Punjab,Karachi,Single,Postgraduate,0,0,27.4,High,Healthy,1,1,12,Post,7,1,0,0,0,1,1,7.62,Left,IV,Mucinous,0,1,Positive,Negative,Negative,Radiation,Complete,Deceased,8
+PKBC1765,32,KPK,Karachi,Widowed,Postgraduate,1,1,23.1,Low,Unhealthy,0,0,9,Pre,5,1,1,0,1,0,1,2.87,Right,III,Mucinous,1,1,Positive,Positive,Negative,Hormonal Therapy,None,Deceased,7
+PKBC1766,63,Sindh,Quetta,Divorced,Primary,1,1,19.2,High,Healthy,1,0,15,Post,1,1,1,0,0,1,1,0.52,Right,I,ILC,0,0,Positive,Negative,Negative,Chemotherapy,Partial,Alive,0
+PKBC1767,40,Gilgit-Baltistan,Islamabad,Married,Secondary,0,1,27.4,High,Unhealthy,1,0,10,Post,5,0,0,0,0,0,1,2.62,Left,I,ILC,0,1,Negative,Positive,Positive,Targeted Therapy,Partial,Deceased,11
+PKBC1768,60,Punjab,Lahore,Widowed,None,0,0,35.3,High,Unhealthy,0,1,9,Post,4,0,0,0,1,1,1,0.8,Right,I,IDC,0,0,Positive,Positive,Positive,Radiation,None,Deceased,12
+PKBC1769,76,Gilgit-Baltistan,Lahore,Single,Postgraduate,0,0,33.7,High,Mixed,1,1,12,Post,3,0,1,0,1,0,0,2.87,Left,III,Mucinous,1,1,Negative,Positive,Negative,Chemotherapy,None,Deceased,11
+PKBC1770,65,Punjab,Lahore,Married,Postgraduate,1,0,36.9,Low,Mixed,1,1,15,Post,7,0,1,0,0,1,1,3.68,Left,II,ILC,0,1,Negative,Positive,Positive,Radiation,Complete,Deceased,1
+PKBC1771,38,Sindh,Quetta,Married,Secondary,0,1,18.2,Low,Healthy,1,1,12,Pre,4,0,1,0,1,0,1,3.08,Left,II,IDC,0,0,Negative,Negative,Positive,Radiation,Complete,Deceased,1
+PKBC1772,58,Punjab,Quetta,Married,Postgraduate,1,1,39.3,Moderate,Healthy,0,0,9,Post,0,0,0,1,0,0,0,9.24,Right,IV,IDC,0,1,Negative,Positive,Positive,Radiation,None,Deceased,2
+PKBC1773,67,Punjab,Peshawar,Widowed,Postgraduate,1,0,25.5,High,Mixed,0,0,12,Post,3,1,0,1,0,0,0,2.71,Right,IV,IDC,1,0,Positive,Positive,Negative,Radiation,Partial,Deceased,1
+PKBC1774,41,Sindh,Quetta,Married,Postgraduate,1,0,39.8,Low,Healthy,0,0,15,Pre,2,0,0,1,1,0,1,4.94,Left,II,ILC,1,1,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,0
+PKBC1775,39,Gilgit-Baltistan,Lahore,Married,Postgraduate,1,1,23.6,High,Healthy,0,1,11,Pre,1,0,0,1,0,1,1,9.6,Left,II,ILC,1,0,Positive,Positive,Negative,Surgery,None,Alive,10
+PKBC1776,56,Gilgit-Baltistan,Peshawar,Single,Primary,1,1,28.4,Low,Mixed,0,0,13,Pre,7,1,1,0,1,1,1,8.85,Right,III,ILC,0,0,Positive,Negative,Positive,Radiation,Partial,Alive,4
+PKBC1777,50,Balochistan,Islamabad,Married,Primary,1,0,25.8,Moderate,Unhealthy,0,0,10,Pre,4,1,0,0,1,0,0,3.44,Left,IV,Medullary,1,0,Negative,Positive,Negative,Chemotherapy,Complete,Alive,5
+PKBC1778,29,Gilgit-Baltistan,Karachi,Widowed,Graduate,0,0,25.8,High,Healthy,0,1,13,Post,3,0,1,0,1,0,1,3.6,Right,I,Medullary,1,0,Positive,Negative,Negative,Chemotherapy,None,Alive,12
+PKBC1779,37,Gilgit-Baltistan,Karachi,Single,None,0,0,36.5,Moderate,Mixed,0,0,10,Pre,5,0,1,1,0,1,1,6.14,Right,I,Medullary,1,0,Negative,Positive,Negative,Chemotherapy,None,Alive,6
+PKBC1780,62,Punjab,Peshawar,Divorced,Secondary,1,1,34.4,Moderate,Healthy,0,1,15,Post,3,1,1,1,0,0,0,9.22,Right,I,ILC,1,1,Positive,Negative,Positive,Surgery,Partial,Alive,9
+PKBC1781,58,Balochistan,Islamabad,Single,Graduate,0,1,39.8,Moderate,Healthy,0,1,12,Pre,4,0,1,1,0,0,0,0.59,Right,I,ILC,0,0,Positive,Positive,Positive,Surgery,Partial,Alive,6
+PKBC1782,65,Sindh,Karachi,Married,Primary,0,0,31.5,Low,Mixed,1,0,15,Pre,2,1,0,0,1,0,0,4.23,Left,II,Medullary,0,0,Negative,Positive,Positive,Chemotherapy,None,Alive,1
+PKBC1783,39,Sindh,Peshawar,Divorced,Primary,1,0,28.2,High,Mixed,0,0,9,Post,4,1,1,0,0,1,1,8.57,Right,II,Mucinous,0,1,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,12
+PKBC1784,37,KPK,Quetta,Single,Primary,0,0,20,Low,Healthy,1,1,9,Pre,2,0,1,1,1,0,1,4.4,Right,III,Mucinous,0,0,Negative,Negative,Positive,Surgery,None,Alive,6
+PKBC1785,30,Balochistan,Lahore,Married,Graduate,1,0,39.9,Low,Healthy,1,0,12,Pre,5,1,0,0,1,1,1,7.34,Right,I,Mucinous,0,1,Positive,Negative,Negative,Surgery,Partial,Alive,1
+PKBC1786,41,Punjab,Islamabad,Single,Primary,1,0,30.1,High,Unhealthy,0,0,10,Post,4,0,1,0,0,1,0,7.07,Left,II,Mucinous,0,1,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,1
+PKBC1787,78,KPK,Karachi,Widowed,Graduate,1,1,33.4,High,Unhealthy,0,1,12,Pre,3,1,0,0,1,1,0,2.45,Left,II,Medullary,1,0,Positive,Negative,Positive,Radiation,Complete,Deceased,11
+PKBC1788,63,KPK,Lahore,Married,Primary,1,0,26.9,High,Mixed,1,0,10,Pre,0,1,0,1,0,0,1,4.77,Left,II,IDC,1,0,Negative,Negative,Positive,Surgery,Complete,Alive,5
+PKBC1789,37,Sindh,Peshawar,Widowed,Postgraduate,0,1,30,High,Healthy,0,1,12,Pre,0,1,0,0,1,0,0,5.88,Left,I,IDC,1,0,Positive,Positive,Positive,Chemotherapy,Partial,Alive,5
+PKBC1790,77,Gilgit-Baltistan,Karachi,Married,Postgraduate,0,1,38.7,Low,Mixed,0,1,12,Post,5,0,0,1,0,0,0,7.3,Left,II,Mucinous,1,0,Negative,Negative,Negative,Chemotherapy,None,Alive,7
+PKBC1791,53,Punjab,Lahore,Widowed,None,1,1,21.7,High,Mixed,1,1,12,Post,6,0,1,1,1,1,0,8.31,Right,IV,ILC,0,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,4
+PKBC1792,42,Balochistan,Quetta,Divorced,Primary,0,1,24.4,High,Healthy,0,1,9,Post,6,0,0,0,1,0,0,7.72,Left,I,Mucinous,0,0,Negative,Positive,Negative,Chemotherapy,Complete,Alive,4
+PKBC1793,20,KPK,Islamabad,Widowed,None,1,1,21.3,High,Unhealthy,0,0,10,Post,3,0,1,0,0,0,1,0.77,Left,I,Mucinous,1,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,9
+PKBC1794,74,Punjab,Peshawar,Single,Graduate,1,1,35.4,Moderate,Mixed,1,0,14,Post,0,0,1,0,0,1,1,6.87,Right,IV,IDC,1,1,Positive,Positive,Positive,Chemotherapy,Partial,Alive,0
+PKBC1795,29,Sindh,Karachi,Married,None,0,1,19.4,High,Mixed,1,0,12,Pre,5,0,0,1,0,1,0,5.22,Left,III,ILC,0,1,Positive,Positive,Negative,Hormonal Therapy,Partial,Deceased,3
+PKBC1796,72,KPK,Quetta,Single,Primary,0,1,19.8,High,Healthy,1,1,13,Post,2,1,1,1,0,1,0,5.95,Left,III,IDC,1,1,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,0
+PKBC1797,20,KPK,Islamabad,Widowed,Graduate,1,0,24.6,Low,Unhealthy,0,0,13,Pre,3,1,1,0,0,0,0,4.04,Right,I,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Deceased,9
+PKBC1798,57,Sindh,Islamabad,Married,Graduate,0,0,29.3,Moderate,Unhealthy,1,1,15,Post,6,0,1,0,1,0,0,7.28,Left,I,Medullary,1,0,Negative,Negative,Negative,Targeted Therapy,Complete,Alive,4
+PKBC1799,58,Sindh,Quetta,Widowed,Postgraduate,1,0,26.9,Low,Healthy,0,1,15,Pre,7,0,0,1,1,0,0,6.9,Left,I,IDC,0,1,Negative,Negative,Positive,Surgery,Complete,Alive,14
+PKBC1800,68,Sindh,Karachi,Divorced,Graduate,1,0,19,Moderate,Mixed,0,0,9,Post,2,0,1,1,0,1,1,6.01,Right,IV,Medullary,0,0,Positive,Positive,Positive,Radiation,Complete,Deceased,14
+PKBC1801,28,Punjab,Islamabad,Divorced,Graduate,0,0,39.1,Low,Healthy,0,0,11,Post,3,1,0,1,0,0,0,8.69,Left,II,Medullary,0,0,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,7
+PKBC1802,50,Punjab,Peshawar,Divorced,None,1,1,39,Low,Healthy,1,1,14,Pre,2,0,0,1,1,1,1,1.47,Left,IV,Mucinous,1,1,Positive,Positive,Positive,Surgery,None,Deceased,0
+PKBC1803,26,Punjab,Lahore,Widowed,Graduate,0,1,24.1,High,Unhealthy,0,1,9,Pre,2,0,0,1,1,0,1,3.36,Right,II,ILC,0,1,Positive,Negative,Positive,Hormonal Therapy,None,Alive,13
+PKBC1804,36,Gilgit-Baltistan,Peshawar,Widowed,Secondary,1,1,34.1,High,Mixed,0,1,11,Pre,0,0,1,0,0,0,0,5.2,Left,II,IDC,1,1,Positive,Negative,Positive,Surgery,None,Deceased,2
+PKBC1805,54,KPK,Islamabad,Divorced,Postgraduate,1,1,30.7,Moderate,Mixed,1,1,9,Pre,7,1,1,1,0,0,1,9.61,Left,III,Mucinous,1,1,Negative,Positive,Negative,Surgery,Partial,Alive,0
+PKBC1806,67,Punjab,Lahore,Widowed,Postgraduate,1,1,23.2,Moderate,Unhealthy,1,0,15,Post,3,1,1,1,0,0,0,1.18,Left,IV,IDC,0,0,Negative,Positive,Negative,Targeted Therapy,None,Alive,12
+PKBC1807,56,Gilgit-Baltistan,Quetta,Single,Graduate,1,0,23.8,Moderate,Mixed,0,0,13,Pre,4,1,0,0,1,0,0,3.7,Left,IV,Medullary,0,1,Positive,Positive,Negative,Hormonal Therapy,Complete,Deceased,5
+PKBC1808,71,KPK,Lahore,Widowed,None,1,0,28.8,High,Mixed,1,0,12,Pre,0,1,1,1,1,1,0,9.3,Left,I,IDC,0,0,Positive,Positive,Negative,Hormonal Therapy,Complete,Deceased,9
+PKBC1809,37,Punjab,Lahore,Single,Postgraduate,0,1,27.2,Low,Healthy,0,1,10,Post,2,0,0,1,1,1,1,9.03,Right,IV,IDC,0,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,0
+PKBC1810,52,Sindh,Lahore,Divorced,Postgraduate,1,0,24.4,Moderate,Healthy,0,1,15,Pre,2,0,0,0,1,0,1,8.72,Left,II,Mucinous,0,1,Positive,Positive,Positive,Chemotherapy,None,Alive,9
+PKBC1811,23,Balochistan,Islamabad,Widowed,Secondary,0,0,35.8,High,Healthy,0,0,12,Pre,6,0,1,1,0,0,1,3.43,Right,II,ILC,0,1,Positive,Negative,Positive,Chemotherapy,Partial,Alive,11
+PKBC1812,42,Punjab,Karachi,Divorced,Graduate,0,0,28.6,High,Mixed,1,0,13,Pre,4,1,1,0,0,1,0,8.54,Left,IV,IDC,0,0,Negative,Negative,Positive,Chemotherapy,Partial,Deceased,2
+PKBC1813,30,Balochistan,Islamabad,Married,Postgraduate,0,0,32.4,Low,Mixed,1,0,10,Post,6,0,0,1,0,0,1,5.3,Left,III,Medullary,1,0,Negative,Positive,Negative,Surgery,None,Alive,14
+PKBC1814,71,Punjab,Karachi,Widowed,Postgraduate,1,0,22.2,Low,Mixed,0,1,11,Pre,4,1,0,1,1,1,1,6.39,Right,III,Medullary,0,0,Negative,Negative,Positive,Surgery,Partial,Alive,4
+PKBC1815,28,Sindh,Quetta,Widowed,Postgraduate,0,1,29.7,High,Mixed,0,1,11,Post,2,0,1,0,1,0,1,2.77,Right,I,Mucinous,1,0,Positive,Positive,Negative,Chemotherapy,None,Deceased,4
+PKBC1816,49,Balochistan,Quetta,Divorced,Postgraduate,0,0,25,Low,Unhealthy,0,1,13,Pre,4,0,1,1,0,0,0,7.21,Right,I,Medullary,0,1,Positive,Positive,Negative,Chemotherapy,None,Alive,1
+PKBC1817,27,Gilgit-Baltistan,Quetta,Divorced,None,0,0,29.6,Low,Unhealthy,0,0,10,Post,7,0,1,1,0,1,1,3.61,Left,II,IDC,1,1,Negative,Negative,Negative,Chemotherapy,Partial,Deceased,2
+PKBC1818,59,Sindh,Quetta,Divorced,Primary,1,1,35.2,High,Mixed,1,0,12,Post,1,0,0,0,1,1,0,3.77,Left,IV,ILC,1,1,Positive,Positive,Positive,Radiation,Complete,Deceased,13
+PKBC1819,24,Balochistan,Quetta,Married,Secondary,1,1,34.9,Moderate,Healthy,1,0,13,Pre,6,1,1,1,0,0,1,6.55,Right,II,IDC,0,1,Positive,Positive,Positive,Chemotherapy,None,Deceased,12
+PKBC1820,31,Balochistan,Peshawar,Married,None,1,1,25.8,Moderate,Healthy,1,0,11,Pre,6,1,1,1,0,1,1,2.78,Left,II,Mucinous,0,0,Positive,Positive,Negative,Radiation,Complete,Deceased,8
+PKBC1821,20,Sindh,Islamabad,Divorced,Secondary,1,1,33.3,High,Unhealthy,1,0,13,Pre,0,1,0,1,1,1,1,2.63,Left,IV,Medullary,0,1,Positive,Negative,Negative,Chemotherapy,Complete,Deceased,12
+PKBC1822,34,Sindh,Karachi,Widowed,Postgraduate,0,1,38.7,Moderate,Unhealthy,1,0,12,Pre,7,0,0,1,0,0,0,4.01,Left,II,IDC,1,1,Positive,Negative,Positive,Hormonal Therapy,None,Deceased,0
+PKBC1823,44,Sindh,Quetta,Widowed,Secondary,1,1,31.8,High,Mixed,0,1,9,Pre,3,1,1,1,1,0,0,7.89,Left,II,IDC,0,1,Negative,Positive,Negative,Targeted Therapy,Complete,Deceased,12
+PKBC1824,37,KPK,Peshawar,Divorced,Graduate,0,1,21.3,High,Mixed,1,0,14,Pre,6,0,1,0,0,0,1,2.63,Left,III,Medullary,0,0,Positive,Positive,Positive,Surgery,Partial,Deceased,0
+PKBC1825,57,Gilgit-Baltistan,Peshawar,Single,Graduate,1,1,33,Low,Mixed,0,0,14,Post,4,0,1,1,0,0,1,7.98,Right,I,ILC,1,0,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,11
+PKBC1826,61,Punjab,Peshawar,Married,Primary,0,0,20.3,Moderate,Mixed,0,1,15,Post,4,0,0,1,0,1,0,7.11,Left,III,ILC,1,0,Negative,Negative,Negative,Targeted Therapy,Complete,Alive,1
+PKBC1827,65,Balochistan,Islamabad,Married,Primary,1,1,37.2,High,Mixed,1,1,14,Pre,1,0,1,0,1,0,0,6.95,Right,I,ILC,1,1,Positive,Positive,Positive,Radiation,Partial,Deceased,7
+PKBC1828,72,Punjab,Quetta,Single,Secondary,1,1,29.4,Moderate,Healthy,1,1,9,Post,3,0,0,0,1,0,1,5.01,Left,I,Medullary,1,0,Negative,Negative,Positive,Surgery,None,Alive,5
+PKBC1829,45,Sindh,Peshawar,Divorced,None,1,0,26.5,Moderate,Healthy,0,1,12,Pre,1,1,1,0,1,1,1,7.59,Left,I,IDC,1,0,Negative,Positive,Negative,Radiation,None,Alive,13
+PKBC1830,59,Gilgit-Baltistan,Peshawar,Widowed,None,1,1,19.3,Moderate,Mixed,0,1,15,Pre,3,1,0,0,1,1,0,0.63,Left,III,Mucinous,1,1,Positive,Positive,Negative,Radiation,Complete,Deceased,3
+PKBC1831,78,Gilgit-Baltistan,Quetta,Widowed,Postgraduate,0,1,26.4,High,Healthy,0,1,10,Post,6,0,1,1,0,0,1,3.4,Left,IV,IDC,1,0,Negative,Positive,Positive,Surgery,Partial,Deceased,6
+PKBC1832,22,KPK,Islamabad,Married,None,1,1,37.9,Low,Mixed,1,0,13,Pre,6,0,1,1,1,0,0,6.95,Right,II,Medullary,1,1,Positive,Negative,Negative,Targeted Therapy,Complete,Deceased,5
+PKBC1833,73,Sindh,Peshawar,Single,Primary,1,1,18.5,Moderate,Mixed,1,0,12,Post,0,1,1,1,0,1,1,9.88,Left,IV,Medullary,0,1,Positive,Negative,Negative,Surgery,Partial,Alive,8
+PKBC1834,41,Balochistan,Karachi,Widowed,None,1,0,28.4,High,Unhealthy,1,0,9,Pre,4,0,0,1,0,0,1,0.52,Left,IV,IDC,0,0,Negative,Negative,Negative,Chemotherapy,None,Deceased,5
+PKBC1835,45,KPK,Lahore,Married,Postgraduate,0,0,38.5,Moderate,Healthy,1,0,15,Post,0,1,0,1,0,1,1,5.34,Right,I,Medullary,1,1,Positive,Positive,Negative,Radiation,Partial,Alive,1
+PKBC1836,38,Sindh,Lahore,Widowed,Graduate,1,1,26.7,Low,Healthy,0,1,11,Pre,3,0,0,1,0,1,1,9.28,Left,I,IDC,1,1,Negative,Negative,Negative,Chemotherapy,Partial,Alive,2
+PKBC1837,63,KPK,Lahore,Widowed,None,1,0,27.4,Moderate,Unhealthy,1,1,14,Post,4,1,0,1,0,1,0,8.7,Left,III,IDC,1,1,Negative,Negative,Negative,Surgery,Complete,Alive,8
+PKBC1838,63,Punjab,Islamabad,Widowed,None,0,0,30.7,High,Healthy,0,0,14,Post,6,0,1,0,0,0,1,0.72,Left,III,ILC,1,1,Positive,Positive,Positive,Surgery,None,Deceased,14
+PKBC1839,66,Sindh,Peshawar,Married,Primary,0,0,28.2,Moderate,Unhealthy,1,1,12,Pre,1,1,0,1,0,0,1,5.53,Right,II,Medullary,1,0,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,14
+PKBC1840,79,Balochistan,Lahore,Single,Secondary,0,0,21.7,Moderate,Healthy,1,1,14,Pre,6,0,0,0,1,1,1,0.54,Left,IV,Medullary,0,1,Positive,Positive,Positive,Radiation,None,Alive,6
+PKBC1841,58,Balochistan,Lahore,Divorced,Graduate,1,0,18.4,Moderate,Mixed,1,0,14,Post,6,0,1,0,0,0,1,8,Right,IV,ILC,1,0,Positive,Positive,Negative,Hormonal Therapy,Partial,Alive,5
+PKBC1842,78,Sindh,Quetta,Single,Secondary,0,0,31.4,Low,Unhealthy,0,0,12,Pre,2,0,0,0,1,1,1,3.43,Right,II,ILC,1,1,Positive,Negative,Negative,Surgery,None,Alive,12
+PKBC1843,55,KPK,Peshawar,Widowed,Postgraduate,1,1,38.3,Moderate,Mixed,0,0,12,Pre,1,0,1,1,0,0,1,7.77,Left,I,ILC,0,1,Positive,Negative,Positive,Hormonal Therapy,Partial,Alive,4
+PKBC1844,40,Gilgit-Baltistan,Peshawar,Single,Postgraduate,0,1,20.3,High,Mixed,1,0,15,Pre,2,0,0,1,1,0,0,9.48,Left,III,Mucinous,1,1,Positive,Positive,Positive,Radiation,None,Deceased,2
+PKBC1845,60,Sindh,Quetta,Widowed,Secondary,1,0,22.6,Moderate,Healthy,0,0,9,Pre,7,1,0,0,0,1,1,9.77,Left,II,Medullary,1,1,Positive,Negative,Positive,Chemotherapy,Partial,Deceased,3
+PKBC1846,73,Balochistan,Peshawar,Married,Primary,0,0,26.1,Moderate,Unhealthy,0,0,9,Pre,7,0,1,1,1,0,0,8.99,Left,IV,IDC,0,1,Positive,Negative,Positive,Radiation,None,Alive,0
+PKBC1847,67,Punjab,Karachi,Married,Primary,0,0,35.8,Moderate,Mixed,1,0,14,Pre,1,0,1,1,0,0,0,2.44,Right,II,IDC,1,1,Positive,Negative,Positive,Targeted Therapy,Partial,Alive,4
+PKBC1848,45,Balochistan,Islamabad,Married,Primary,0,1,23.9,Low,Mixed,1,0,15,Post,3,0,1,0,1,0,0,2.35,Left,II,IDC,1,1,Negative,Positive,Negative,Hormonal Therapy,Partial,Alive,6
+PKBC1849,32,Gilgit-Baltistan,Quetta,Widowed,Graduate,1,1,37.4,High,Unhealthy,0,1,12,Post,0,0,1,0,1,1,0,6.44,Left,IV,Medullary,1,0,Negative,Positive,Positive,Hormonal Therapy,None,Deceased,1
+PKBC1850,55,Balochistan,Lahore,Single,Postgraduate,0,1,19.2,Moderate,Healthy,1,0,12,Pre,7,1,0,1,1,0,1,5.67,Left,IV,Mucinous,0,0,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,10
+PKBC1851,43,Gilgit-Baltistan,Peshawar,Divorced,Postgraduate,1,1,38.7,High,Mixed,0,1,14,Post,2,1,0,0,0,1,1,0.59,Right,III,Medullary,1,0,Positive,Positive,Positive,Chemotherapy,Partial,Alive,11
+PKBC1852,60,Sindh,Karachi,Divorced,Postgraduate,0,1,30.3,High,Healthy,0,0,10,Pre,3,1,1,0,0,0,1,4.22,Left,III,Medullary,1,1,Positive,Negative,Negative,Surgery,Partial,Deceased,7
+PKBC1853,45,Balochistan,Karachi,Married,Graduate,0,1,32.5,Low,Unhealthy,1,1,11,Post,0,0,1,0,1,0,0,9.11,Left,IV,Medullary,0,0,Positive,Negative,Negative,Radiation,Complete,Deceased,14
+PKBC1854,40,KPK,Islamabad,Divorced,Postgraduate,0,0,26.1,High,Healthy,0,0,13,Pre,0,0,0,1,1,0,1,9.03,Left,III,Medullary,0,1,Positive,Negative,Negative,Targeted Therapy,Partial,Alive,11
+PKBC1855,37,KPK,Karachi,Widowed,Secondary,1,1,35.2,Moderate,Unhealthy,1,0,13,Pre,4,0,1,1,0,1,0,2.44,Left,III,Medullary,1,0,Negative,Negative,Positive,Surgery,None,Deceased,9
+PKBC1856,34,Balochistan,Peshawar,Single,None,1,1,21.7,Low,Healthy,0,0,14,Pre,6,0,0,0,0,1,0,4.13,Left,III,Mucinous,1,0,Positive,Positive,Negative,Radiation,Complete,Deceased,5
+PKBC1857,34,Balochistan,Peshawar,Divorced,Graduate,1,1,19.1,Low,Healthy,0,0,15,Post,4,0,1,0,0,1,1,5.82,Left,IV,ILC,1,1,Positive,Negative,Negative,Chemotherapy,Partial,Deceased,9
+PKBC1858,25,Punjab,Karachi,Divorced,None,0,0,26.7,High,Mixed,0,0,13,Pre,6,1,1,1,0,0,0,8.6,Left,I,IDC,1,1,Negative,Positive,Negative,Targeted Therapy,None,Deceased,13
+PKBC1859,62,Balochistan,Peshawar,Single,Secondary,1,1,36.8,Low,Healthy,0,1,9,Pre,4,1,1,1,0,0,0,5.55,Right,I,Medullary,1,1,Positive,Positive,Negative,Chemotherapy,None,Deceased,2
+PKBC1860,50,Punjab,Peshawar,Divorced,Primary,1,0,34.6,High,Mixed,0,0,15,Post,2,1,1,1,1,0,0,9.7,Right,III,Medullary,1,1,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,1
+PKBC1861,47,Punjab,Lahore,Single,Primary,0,0,29.4,High,Unhealthy,0,0,15,Post,2,0,0,1,1,1,0,8.09,Left,I,Medullary,1,1,Negative,Negative,Positive,Hormonal Therapy,Complete,Alive,7
+PKBC1862,27,Punjab,Quetta,Widowed,Primary,0,1,30.6,Low,Unhealthy,1,0,9,Pre,6,1,1,1,1,0,1,9.55,Left,III,IDC,0,0,Positive,Positive,Positive,Radiation,Complete,Alive,12
+PKBC1863,48,Punjab,Peshawar,Widowed,Graduate,1,1,20.9,Moderate,Mixed,0,1,10,Post,7,1,0,1,1,0,0,7.45,Left,I,Mucinous,0,1,Positive,Negative,Positive,Surgery,None,Alive,3
+PKBC1864,40,Sindh,Peshawar,Widowed,Primary,1,1,36.5,High,Healthy,0,1,14,Post,0,0,1,0,0,1,0,8.84,Right,I,IDC,1,1,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,6
+PKBC1865,36,KPK,Islamabad,Married,Graduate,0,0,35.3,Low,Unhealthy,0,1,9,Pre,2,1,1,0,0,0,0,8.39,Left,II,Mucinous,0,1,Positive,Positive,Positive,Radiation,None,Deceased,6
+PKBC1866,75,Punjab,Quetta,Widowed,Graduate,1,1,32.4,Low,Unhealthy,1,1,14,Pre,0,0,0,0,1,1,1,2.91,Left,III,ILC,1,0,Negative,Positive,Positive,Radiation,None,Deceased,13
+PKBC1867,76,KPK,Quetta,Divorced,None,0,0,28.3,High,Unhealthy,0,1,14,Pre,3,0,1,1,0,0,1,2.68,Right,I,Medullary,1,1,Positive,Positive,Positive,Radiation,Complete,Alive,9
+PKBC1868,68,Punjab,Quetta,Married,Primary,0,0,39.2,High,Mixed,0,1,15,Pre,1,0,0,0,0,0,0,8.71,Right,I,Mucinous,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,8
+PKBC1869,43,KPK,Karachi,Married,Postgraduate,1,1,37.3,High,Unhealthy,0,0,12,Post,0,0,1,0,1,0,1,1.3,Left,II,IDC,1,0,Negative,Negative,Negative,Hormonal Therapy,None,Deceased,9
+PKBC1870,77,Balochistan,Lahore,Married,Primary,1,1,32.2,High,Unhealthy,1,0,11,Pre,0,0,0,0,1,0,1,4.38,Left,I,Mucinous,0,0,Positive,Positive,Positive,Surgery,Complete,Deceased,14
+PKBC1871,79,Balochistan,Lahore,Widowed,Primary,0,1,26.2,Moderate,Unhealthy,1,0,11,Pre,3,1,1,0,0,0,1,8.3,Right,II,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,13
+PKBC1872,69,KPK,Islamabad,Married,Primary,1,0,31.6,Moderate,Unhealthy,1,1,14,Pre,6,0,1,0,1,1,1,8.23,Right,I,ILC,1,1,Negative,Negative,Negative,Chemotherapy,Partial,Deceased,7
+PKBC1873,55,Punjab,Quetta,Widowed,Postgraduate,0,1,30.7,Moderate,Mixed,0,0,11,Post,4,0,1,0,0,0,0,1.82,Right,II,Medullary,1,1,Positive,Positive,Negative,Radiation,Partial,Deceased,11
+PKBC1874,50,Sindh,Quetta,Widowed,Postgraduate,1,0,26.7,Moderate,Mixed,0,0,11,Pre,5,1,1,0,1,0,0,5.13,Right,II,Medullary,1,1,Negative,Positive,Negative,Chemotherapy,Complete,Alive,12
+PKBC1875,66,KPK,Peshawar,Married,Graduate,0,1,24.7,Low,Healthy,0,1,13,Pre,7,0,1,1,0,1,1,5.06,Left,IV,IDC,0,1,Negative,Negative,Positive,Hormonal Therapy,Partial,Alive,14
+PKBC1876,53,Gilgit-Baltistan,Karachi,Married,Postgraduate,1,0,27,High,Unhealthy,1,0,15,Pre,6,0,0,0,1,1,1,3.58,Left,III,IDC,1,0,Positive,Positive,Negative,Surgery,Partial,Deceased,7
+PKBC1877,21,Sindh,Karachi,Divorced,Graduate,1,1,30.6,Low,Mixed,0,0,13,Post,4,1,0,0,0,1,1,9.21,Right,IV,ILC,0,0,Negative,Negative,Positive,Chemotherapy,None,Alive,6
+PKBC1878,61,Gilgit-Baltistan,Islamabad,Married,None,0,1,27.4,Low,Healthy,1,0,12,Pre,4,1,0,1,0,0,1,6.7,Left,III,Mucinous,0,1,Positive,Positive,Negative,Chemotherapy,Partial,Deceased,9
+PKBC1879,22,KPK,Lahore,Widowed,Graduate,1,0,23.8,Moderate,Healthy,1,1,10,Pre,7,0,1,0,0,1,1,9.81,Left,I,Mucinous,1,1,Negative,Negative,Negative,Targeted Therapy,Complete,Alive,4
+PKBC1880,49,Punjab,Quetta,Divorced,Primary,0,0,34.7,Low,Unhealthy,0,1,15,Pre,6,1,1,1,1,1,1,1.13,Right,III,IDC,1,1,Negative,Negative,Positive,Hormonal Therapy,Partial,Deceased,8
+PKBC1881,27,Gilgit-Baltistan,Islamabad,Divorced,Secondary,1,1,29.7,Moderate,Healthy,0,0,9,Pre,6,0,1,0,0,1,1,4.25,Right,IV,Medullary,1,0,Negative,Positive,Negative,Chemotherapy,None,Deceased,13
+PKBC1882,71,KPK,Karachi,Widowed,Secondary,1,0,19.5,High,Mixed,1,0,9,Post,7,1,0,1,0,1,0,8.43,Right,III,Mucinous,0,0,Negative,Positive,Positive,Hormonal Therapy,Partial,Deceased,11
+PKBC1883,26,Sindh,Karachi,Married,Primary,1,0,26.1,Moderate,Healthy,0,1,13,Post,0,1,0,0,1,0,0,4.52,Left,IV,ILC,0,0,Positive,Positive,Negative,Surgery,None,Deceased,10
+PKBC1884,31,Punjab,Karachi,Married,Graduate,1,0,37.5,High,Healthy,1,1,14,Pre,0,0,0,0,1,1,1,2.99,Left,III,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,6
+PKBC1885,77,Gilgit-Baltistan,Quetta,Single,Primary,0,0,34.6,Moderate,Mixed,1,1,11,Post,2,0,1,0,0,1,1,9.98,Left,I,Mucinous,1,0,Positive,Positive,Positive,Surgery,Partial,Deceased,14
+PKBC1886,38,KPK,Quetta,Married,Postgraduate,0,1,25.1,Low,Healthy,0,1,12,Post,2,0,1,0,0,0,0,8.79,Right,I,Medullary,0,0,Positive,Negative,Positive,Chemotherapy,Complete,Deceased,11
+PKBC1887,45,Punjab,Quetta,Single,Graduate,1,0,38.6,Low,Healthy,0,0,10,Pre,1,1,0,0,1,0,0,5.69,Left,III,Medullary,1,0,Negative,Positive,Negative,Radiation,Complete,Deceased,13
+PKBC1888,47,Punjab,Peshawar,Divorced,Primary,0,1,19.7,Moderate,Healthy,0,1,13,Pre,1,1,0,1,1,1,1,5.84,Right,III,ILC,0,1,Positive,Negative,Positive,Targeted Therapy,Partial,Deceased,10
+PKBC1889,34,Balochistan,Lahore,Divorced,Postgraduate,0,1,39.1,High,Healthy,0,0,14,Post,5,1,0,0,0,0,0,0.57,Left,I,ILC,0,0,Negative,Positive,Negative,Targeted Therapy,Partial,Alive,2
+PKBC1890,33,Punjab,Karachi,Divorced,Postgraduate,1,1,23.4,High,Unhealthy,0,1,12,Pre,6,0,0,1,0,1,0,9.82,Right,III,IDC,0,1,Positive,Negative,Negative,Targeted Therapy,None,Alive,11
+PKBC1891,67,KPK,Karachi,Single,Graduate,0,0,18.2,Moderate,Unhealthy,0,0,14,Pre,2,1,1,0,1,0,1,8.16,Left,II,IDC,0,1,Negative,Negative,Positive,Surgery,None,Alive,5
+PKBC1892,78,Sindh,Peshawar,Widowed,None,0,1,27.5,Low,Mixed,0,1,12,Pre,6,0,0,0,0,0,0,0.85,Left,I,Medullary,1,1,Positive,Negative,Positive,Hormonal Therapy,Complete,Deceased,2
+PKBC1893,33,Balochistan,Karachi,Widowed,None,1,1,25.9,High,Healthy,1,1,13,Pre,0,0,1,0,0,1,1,2.18,Right,I,Medullary,1,0,Positive,Negative,Negative,Targeted Therapy,Partial,Alive,5
+PKBC1894,22,KPK,Karachi,Divorced,Postgraduate,1,1,29.9,Moderate,Mixed,0,1,12,Post,3,1,1,1,0,0,0,8.3,Right,IV,Mucinous,0,1,Negative,Negative,Negative,Chemotherapy,Partial,Deceased,12
+PKBC1895,69,KPK,Quetta,Single,None,1,1,35.5,High,Unhealthy,0,0,15,Pre,2,1,1,1,1,0,1,1.33,Left,IV,Mucinous,1,0,Negative,Negative,Positive,Chemotherapy,None,Alive,7
+PKBC1896,48,KPK,Quetta,Single,Postgraduate,1,1,36.5,Low,Healthy,0,0,11,Post,0,1,1,1,1,1,0,9.45,Left,II,Mucinous,0,0,Positive,Positive,Negative,Radiation,Partial,Alive,8
+PKBC1897,79,Gilgit-Baltistan,Lahore,Divorced,None,0,0,26.8,High,Healthy,0,0,12,Pre,6,1,1,1,0,1,0,10,Right,III,ILC,1,1,Positive,Negative,Positive,Surgery,Partial,Deceased,1
+PKBC1898,73,Gilgit-Baltistan,Karachi,Married,Postgraduate,1,1,27.5,Moderate,Unhealthy,1,0,10,Pre,7,1,1,1,0,0,1,8.92,Left,II,ILC,0,1,Positive,Positive,Positive,Chemotherapy,Partial,Alive,5
+PKBC1899,25,Sindh,Islamabad,Divorced,Postgraduate,0,0,21.3,High,Healthy,0,1,12,Post,2,0,0,0,0,0,0,7.52,Left,III,Mucinous,1,1,Positive,Positive,Positive,Chemotherapy,None,Deceased,13
+PKBC1900,68,KPK,Karachi,Single,Postgraduate,0,1,19,High,Healthy,1,1,15,Post,4,1,0,0,1,1,0,5.13,Right,IV,Medullary,1,0,Positive,Positive,Negative,Radiation,None,Alive,2
+PKBC1901,42,Gilgit-Baltistan,Karachi,Married,Postgraduate,1,1,32.1,Low,Unhealthy,1,1,9,Post,2,0,0,1,0,0,1,1.28,Right,III,IDC,0,1,Positive,Positive,Negative,Radiation,None,Deceased,14
+PKBC1902,47,Gilgit-Baltistan,Lahore,Widowed,Secondary,0,0,19.4,Low,Mixed,1,0,15,Post,6,1,0,1,1,1,0,7.44,Left,IV,ILC,1,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,13
+PKBC1903,33,Gilgit-Baltistan,Islamabad,Married,None,0,0,34.1,Low,Mixed,1,1,12,Pre,6,1,1,0,0,0,0,4.27,Right,I,ILC,0,1,Negative,Positive,Negative,Hormonal Therapy,None,Deceased,13
+PKBC1904,33,Sindh,Karachi,Widowed,Postgraduate,0,1,29.9,Low,Healthy,1,1,14,Pre,5,0,0,0,1,0,1,5.92,Left,I,Mucinous,1,0,Negative,Positive,Positive,Hormonal Therapy,Complete,Deceased,6
+PKBC1905,39,Sindh,Islamabad,Single,Primary,1,1,22.4,Moderate,Unhealthy,0,1,13,Post,6,1,1,1,0,1,1,3.29,Left,III,IDC,0,1,Positive,Negative,Negative,Chemotherapy,Complete,Alive,10
+PKBC1906,32,KPK,Quetta,Divorced,Graduate,0,1,29.9,High,Mixed,1,0,9,Pre,4,1,0,1,1,1,1,2.8,Right,IV,ILC,1,1,Positive,Positive,Positive,Radiation,None,Deceased,3
+PKBC1907,46,Balochistan,Quetta,Divorced,Primary,1,1,22,High,Mixed,1,0,13,Pre,0,0,0,0,1,0,1,3.58,Left,II,IDC,1,0,Negative,Positive,Positive,Surgery,None,Alive,13
+PKBC1908,79,KPK,Islamabad,Divorced,Primary,1,1,27.7,High,Healthy,0,1,14,Pre,4,0,1,1,0,0,1,8.23,Left,IV,ILC,0,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,14
+PKBC1909,54,Gilgit-Baltistan,Karachi,Divorced,Secondary,0,0,35.6,High,Mixed,1,0,10,Post,2,1,1,0,1,0,1,4.55,Left,IV,IDC,0,1,Negative,Negative,Negative,Targeted Therapy,None,Deceased,14
+PKBC1910,64,Gilgit-Baltistan,Islamabad,Divorced,None,0,1,28.2,Moderate,Unhealthy,0,0,11,Post,7,1,0,1,0,0,1,3.46,Left,IV,IDC,1,1,Negative,Positive,Negative,Chemotherapy,None,Deceased,4
+PKBC1911,75,Punjab,Islamabad,Single,Secondary,1,1,21.3,Low,Mixed,0,1,10,Post,4,1,0,1,1,1,1,4.61,Left,I,ILC,1,1,Negative,Negative,Positive,Surgery,Complete,Deceased,9
+PKBC1912,21,KPK,Quetta,Single,None,1,0,33.9,High,Unhealthy,0,1,9,Post,5,0,1,0,0,0,0,0.81,Right,IV,IDC,0,0,Negative,Positive,Negative,Chemotherapy,Complete,Alive,5
+PKBC1913,60,Gilgit-Baltistan,Islamabad,Divorced,Postgraduate,1,0,22.1,High,Unhealthy,0,0,14,Post,3,1,1,0,1,0,0,8.96,Right,III,Medullary,0,0,Negative,Negative,Positive,Hormonal Therapy,Complete,Alive,10
+PKBC1914,64,Gilgit-Baltistan,Peshawar,Married,Secondary,1,1,34.2,Low,Healthy,1,0,14,Post,4,1,1,1,1,1,1,5.74,Left,I,ILC,0,0,Negative,Positive,Positive,Chemotherapy,Complete,Deceased,12
+PKBC1915,59,Balochistan,Peshawar,Divorced,Graduate,1,0,28.5,Low,Mixed,1,1,11,Post,6,1,1,0,0,1,0,1.5,Left,I,ILC,0,0,Positive,Negative,Negative,Hormonal Therapy,None,Alive,7
+PKBC1916,67,Punjab,Quetta,Widowed,None,0,0,28,High,Healthy,1,1,12,Pre,5,0,1,1,1,1,1,3.24,Right,I,Medullary,1,0,Negative,Positive,Negative,Chemotherapy,Complete,Alive,1
+PKBC1917,43,KPK,Karachi,Widowed,Secondary,1,0,36.7,Low,Mixed,0,1,9,Pre,4,1,1,1,0,0,0,9.84,Left,IV,IDC,1,1,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,3
+PKBC1918,48,Sindh,Karachi,Widowed,Graduate,0,1,33.6,High,Healthy,0,1,11,Post,1,0,1,0,0,1,0,6.13,Right,II,Medullary,1,0,Negative,Positive,Positive,Radiation,Partial,Alive,13
+PKBC1919,22,KPK,Quetta,Widowed,Primary,1,1,18.7,High,Healthy,0,1,15,Pre,3,0,1,0,0,1,1,3.27,Right,IV,ILC,1,1,Positive,Negative,Positive,Radiation,None,Deceased,10
+PKBC1920,64,KPK,Karachi,Divorced,Postgraduate,0,1,24.5,High,Healthy,1,1,15,Pre,0,0,1,0,1,0,0,4.55,Right,IV,Medullary,1,0,Negative,Negative,Negative,Radiation,Partial,Deceased,3
+PKBC1921,23,Balochistan,Lahore,Widowed,Postgraduate,1,0,37.2,High,Mixed,0,1,13,Post,6,0,1,1,1,1,0,2.96,Left,II,IDC,1,1,Positive,Negative,Negative,Radiation,Complete,Alive,5
+PKBC1922,69,KPK,Peshawar,Married,Primary,0,1,18.4,High,Healthy,1,0,11,Pre,5,0,0,0,1,1,0,0.8,Left,IV,Medullary,0,0,Positive,Negative,Positive,Radiation,Complete,Alive,3
+PKBC1923,21,Balochistan,Lahore,Divorced,Secondary,0,1,30,High,Unhealthy,1,0,13,Pre,4,1,1,0,0,0,1,8.5,Left,III,ILC,1,1,Positive,Negative,Negative,Targeted Therapy,Partial,Deceased,10
+PKBC1924,39,Balochistan,Lahore,Widowed,Primary,1,0,34,Low,Mixed,0,1,15,Post,7,0,1,0,0,1,0,3.28,Left,II,IDC,0,0,Positive,Positive,Negative,Chemotherapy,None,Deceased,4
+PKBC1925,73,Gilgit-Baltistan,Lahore,Divorced,Graduate,0,1,31.7,Moderate,Unhealthy,0,0,15,Post,3,1,0,1,1,0,0,8.46,Right,III,ILC,0,1,Positive,Positive,Positive,Radiation,Complete,Deceased,4
+PKBC1926,72,Sindh,Quetta,Divorced,None,1,0,34.7,Moderate,Healthy,0,0,13,Pre,0,1,1,0,0,1,1,5.05,Left,III,ILC,0,1,Negative,Positive,Positive,Targeted Therapy,Complete,Alive,7
+PKBC1927,34,Balochistan,Lahore,Divorced,Secondary,1,0,34,High,Healthy,0,1,14,Post,3,0,0,0,1,1,0,2.24,Left,I,Mucinous,0,1,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,3
+PKBC1928,68,Punjab,Islamabad,Single,None,0,0,33.2,Low,Unhealthy,0,1,11,Post,5,0,1,0,1,1,0,8.12,Left,I,ILC,1,1,Positive,Negative,Positive,Chemotherapy,None,Deceased,11
+PKBC1929,51,Punjab,Karachi,Widowed,Primary,0,0,36.1,High,Healthy,1,1,14,Pre,1,0,0,0,0,0,0,4.08,Right,II,ILC,0,1,Positive,Negative,Negative,Chemotherapy,None,Deceased,5
+PKBC1930,61,Sindh,Quetta,Single,Postgraduate,1,1,32.2,Low,Mixed,1,0,15,Post,5,0,1,1,0,1,0,7.22,Left,IV,IDC,0,0,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,6
+PKBC1931,20,Balochistan,Islamabad,Married,None,1,1,26.9,High,Unhealthy,0,1,14,Pre,5,1,0,1,0,1,1,8.45,Right,III,IDC,1,1,Positive,Positive,Positive,Hormonal Therapy,Complete,Deceased,7
+PKBC1932,57,Sindh,Islamabad,Married,None,1,1,28.4,High,Mixed,0,1,10,Post,7,1,0,1,0,1,1,9.65,Left,IV,IDC,0,1,Positive,Positive,Positive,Radiation,Partial,Alive,8
+PKBC1933,54,Gilgit-Baltistan,Peshawar,Single,Postgraduate,0,0,33.8,Moderate,Mixed,0,0,10,Pre,0,0,1,1,1,1,1,1.32,Left,III,Medullary,0,1,Negative,Negative,Positive,Surgery,Partial,Alive,9
+PKBC1934,70,Punjab,Peshawar,Widowed,None,0,1,37.3,Low,Mixed,1,1,14,Post,7,0,1,0,0,0,0,0.58,Left,I,Medullary,1,0,Positive,Negative,Negative,Hormonal Therapy,Partial,Alive,7
+PKBC1935,26,KPK,Islamabad,Divorced,None,1,1,24,Low,Healthy,1,0,14,Pre,7,1,0,1,0,1,1,5.71,Left,I,IDC,0,1,Positive,Negative,Positive,Surgery,Complete,Alive,13
+PKBC1936,64,Punjab,Peshawar,Married,Postgraduate,0,0,25.5,Moderate,Healthy,1,0,13,Post,0,1,0,0,0,1,0,3.01,Left,I,Medullary,1,1,Positive,Positive,Negative,Hormonal Therapy,Complete,Alive,3
+PKBC1937,32,Balochistan,Karachi,Married,Postgraduate,0,0,38.5,Moderate,Unhealthy,1,1,14,Pre,4,0,0,1,1,1,0,4.96,Right,II,Mucinous,1,0,Negative,Negative,Positive,Targeted Therapy,Partial,Deceased,3
+PKBC1938,68,Sindh,Karachi,Married,Primary,0,1,30.7,Moderate,Unhealthy,0,1,9,Post,2,1,1,0,0,1,1,1.19,Left,III,Medullary,1,0,Negative,Negative,Negative,Targeted Therapy,None,Alive,9
+PKBC1939,20,Punjab,Peshawar,Widowed,Primary,1,0,21.9,Moderate,Mixed,1,1,11,Pre,5,1,0,0,0,0,1,5.27,Right,IV,Mucinous,1,1,Negative,Negative,Positive,Targeted Therapy,Partial,Deceased,10
+PKBC1940,33,KPK,Lahore,Single,None,1,1,32.6,Low,Healthy,1,0,9,Post,0,1,0,0,1,0,1,1.69,Left,III,IDC,1,1,Positive,Positive,Positive,Surgery,Complete,Alive,14
+PKBC1941,48,KPK,Islamabad,Single,Secondary,0,0,39.8,Low,Healthy,0,1,10,Pre,7,0,0,1,1,0,0,8.47,Left,IV,IDC,0,0,Positive,Positive,Negative,Radiation,None,Alive,4
+PKBC1942,77,Sindh,Karachi,Widowed,Primary,0,0,36.1,Moderate,Healthy,0,0,9,Pre,5,0,0,1,1,1,0,7.72,Right,IV,Medullary,1,1,Negative,Positive,Positive,Hormonal Therapy,None,Deceased,2
+PKBC1943,22,Sindh,Peshawar,Married,Primary,1,1,34.4,High,Unhealthy,1,1,12,Post,5,1,1,1,0,0,0,1.2,Left,IV,IDC,1,1,Negative,Negative,Negative,Hormonal Therapy,Complete,Alive,14
+PKBC1944,65,Punjab,Peshawar,Widowed,Secondary,0,0,22.6,High,Healthy,0,1,12,Post,7,0,1,0,1,0,0,8.45,Right,III,IDC,1,1,Negative,Negative,Negative,Surgery,Complete,Alive,1
+PKBC1945,43,Balochistan,Karachi,Widowed,Secondary,1,0,37.3,High,Mixed,0,1,10,Pre,0,1,0,1,1,0,1,3.59,Right,I,ILC,1,0,Positive,Positive,Positive,Targeted Therapy,Partial,Deceased,1
+PKBC1946,20,Gilgit-Baltistan,Karachi,Single,Postgraduate,1,0,29.6,High,Mixed,0,1,9,Post,1,1,1,0,0,1,1,3.85,Left,II,IDC,1,1,Positive,Negative,Positive,Radiation,Complete,Alive,8
+PKBC1947,67,KPK,Lahore,Widowed,Primary,1,1,37.6,Low,Mixed,1,0,11,Pre,1,0,1,1,0,1,0,2.21,Left,II,ILC,0,1,Negative,Negative,Negative,Hormonal Therapy,None,Alive,7
+PKBC1948,29,Sindh,Peshawar,Widowed,Graduate,1,1,25.3,Low,Healthy,1,1,10,Pre,5,0,0,1,1,0,0,8.44,Left,I,IDC,0,0,Negative,Negative,Positive,Radiation,Partial,Alive,5
+PKBC1949,32,Gilgit-Baltistan,Peshawar,Married,Graduate,1,1,19.4,Low,Mixed,0,1,12,Pre,1,1,0,1,0,1,1,4.34,Left,II,Mucinous,1,0,Positive,Positive,Positive,Radiation,Partial,Deceased,13
+PKBC1950,55,Gilgit-Baltistan,Quetta,Divorced,None,1,0,28.5,High,Mixed,0,1,10,Pre,5,0,1,1,0,1,1,0.96,Left,IV,Mucinous,0,0,Negative,Positive,Negative,Chemotherapy,None,Alive,13
+PKBC1951,28,Gilgit-Baltistan,Lahore,Married,Primary,1,0,23.9,Moderate,Unhealthy,1,1,9,Pre,7,0,1,1,1,1,0,9.68,Right,II,IDC,1,1,Positive,Positive,Positive,Radiation,Complete,Alive,14
+PKBC1952,33,Balochistan,Karachi,Single,Graduate,0,0,33.7,High,Unhealthy,1,0,9,Pre,4,0,0,0,0,0,1,2.93,Right,III,Mucinous,1,1,Negative,Negative,Positive,Chemotherapy,Partial,Deceased,13
+PKBC1953,55,Sindh,Karachi,Divorced,Primary,1,0,39.1,Low,Healthy,0,0,9,Post,0,0,0,1,0,1,0,9.39,Left,I,Mucinous,1,0,Positive,Positive,Positive,Surgery,None,Alive,8
+PKBC1954,29,KPK,Islamabad,Married,Primary,0,1,33.2,High,Healthy,0,1,13,Pre,5,1,0,1,1,1,0,3.36,Left,I,Mucinous,0,1,Positive,Positive,Positive,Targeted Therapy,None,Deceased,4
+PKBC1955,59,Sindh,Karachi,Widowed,Graduate,0,1,37.5,Moderate,Healthy,1,0,9,Pre,1,1,0,1,1,0,0,8.4,Right,I,Medullary,1,0,Negative,Positive,Positive,Chemotherapy,None,Deceased,13
+PKBC1956,42,Punjab,Peshawar,Widowed,Primary,0,0,28,Moderate,Healthy,0,1,14,Pre,1,0,0,0,0,1,0,6.81,Right,I,Mucinous,1,1,Positive,Positive,Negative,Radiation,Complete,Deceased,11
+PKBC1957,54,KPK,Karachi,Divorced,Secondary,1,1,35,High,Healthy,1,0,12,Pre,3,1,1,1,1,1,1,8.68,Right,III,ILC,0,1,Positive,Positive,Positive,Targeted Therapy,Complete,Deceased,9
+PKBC1958,74,Sindh,Peshawar,Divorced,None,0,1,36.5,Low,Unhealthy,0,1,15,Pre,3,0,0,1,1,0,1,9.77,Left,IV,Medullary,1,1,Negative,Negative,Positive,Radiation,Complete,Alive,0
+PKBC1959,26,KPK,Peshawar,Widowed,Postgraduate,1,1,33.6,Low,Unhealthy,1,0,12,Post,6,0,0,0,0,0,0,8.78,Left,IV,ILC,0,1,Positive,Negative,Negative,Radiation,Complete,Alive,7
+PKBC1960,61,Punjab,Lahore,Single,Graduate,1,0,29.2,Low,Unhealthy,0,0,13,Post,1,0,0,1,0,1,0,4.33,Right,IV,ILC,0,1,Negative,Negative,Positive,Chemotherapy,None,Deceased,2
+PKBC1961,54,KPK,Karachi,Married,Postgraduate,0,1,31.8,High,Mixed,1,0,12,Pre,6,1,0,0,0,1,0,8.24,Right,II,ILC,1,1,Positive,Negative,Negative,Surgery,Partial,Alive,13
+PKBC1962,21,Gilgit-Baltistan,Lahore,Widowed,None,0,1,33.4,Low,Mixed,0,0,12,Pre,6,1,1,0,1,1,0,7.26,Left,IV,Medullary,0,0,Negative,Negative,Negative,Radiation,None,Alive,8
+PKBC1963,34,Balochistan,Peshawar,Married,Secondary,0,1,23.6,High,Unhealthy,0,0,10,Pre,6,1,1,1,1,0,0,1.09,Right,II,IDC,1,1,Positive,Negative,Positive,Chemotherapy,Partial,Alive,10
+PKBC1964,28,Punjab,Karachi,Married,Secondary,0,1,35.8,Low,Unhealthy,0,1,15,Post,4,0,1,0,0,0,1,9.33,Left,III,Mucinous,0,0,Positive,Positive,Positive,Radiation,Partial,Deceased,0
+PKBC1965,66,KPK,Karachi,Married,Secondary,1,1,38.9,Moderate,Healthy,0,0,15,Post,2,1,1,1,0,1,0,4.93,Right,II,Mucinous,0,1,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,2
+PKBC1966,36,Punjab,Lahore,Married,Secondary,0,0,28.2,Moderate,Unhealthy,1,1,9,Pre,5,1,1,0,0,1,1,1.78,Left,IV,IDC,0,0,Negative,Negative,Positive,Surgery,Complete,Deceased,0
+PKBC1967,58,Gilgit-Baltistan,Lahore,Single,Graduate,0,1,33.4,Low,Healthy,0,1,14,Post,3,0,1,1,0,1,0,4.54,Right,I,IDC,1,0,Positive,Negative,Negative,Radiation,None,Deceased,0
+PKBC1968,71,Balochistan,Peshawar,Single,Graduate,0,1,34.2,High,Unhealthy,1,1,14,Pre,5,0,0,0,1,1,0,6.23,Right,III,ILC,0,1,Negative,Negative,Positive,Surgery,Partial,Alive,14
+PKBC1969,37,Punjab,Peshawar,Single,Primary,0,0,32.6,Low,Healthy,1,1,10,Pre,3,0,0,0,1,0,0,5.94,Right,IV,Medullary,1,1,Negative,Negative,Positive,Surgery,None,Alive,5
+PKBC1970,34,Gilgit-Baltistan,Karachi,Widowed,Primary,0,1,30,High,Unhealthy,0,1,14,Post,0,0,0,0,1,1,0,5.96,Right,IV,ILC,1,1,Positive,Negative,Negative,Targeted Therapy,Complete,Deceased,12
+PKBC1971,37,Gilgit-Baltistan,Karachi,Widowed,None,1,0,37.4,Moderate,Healthy,1,1,10,Post,0,1,1,1,1,0,1,2.93,Left,IV,Mucinous,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,3
+PKBC1972,43,Gilgit-Baltistan,Quetta,Widowed,Primary,1,0,27.9,High,Mixed,0,1,15,Post,1,1,1,0,1,0,1,6.51,Right,III,IDC,0,1,Positive,Negative,Negative,Hormonal Therapy,Complete,Deceased,9
+PKBC1973,42,KPK,Quetta,Single,None,1,0,19.3,Low,Mixed,1,1,15,Post,0,0,1,1,1,0,1,9.12,Left,I,Mucinous,0,1,Negative,Positive,Negative,Surgery,Complete,Alive,3
+PKBC1974,31,Sindh,Islamabad,Married,None,0,0,36.6,Moderate,Healthy,0,1,15,Post,7,0,0,1,0,1,0,4.19,Right,I,IDC,1,1,Positive,Negative,Negative,Radiation,None,Deceased,4
+PKBC1975,42,Punjab,Peshawar,Single,None,0,1,32.8,High,Healthy,0,1,14,Pre,0,0,1,0,1,0,1,6.49,Right,I,Medullary,1,1,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,14
+PKBC1976,40,Sindh,Islamabad,Widowed,Secondary,1,1,36.7,High,Mixed,1,1,12,Post,2,0,0,1,1,0,0,2.82,Left,IV,ILC,1,0,Positive,Negative,Negative,Radiation,Complete,Alive,13
+PKBC1977,45,Gilgit-Baltistan,Islamabad,Divorced,Postgraduate,1,0,21,Moderate,Unhealthy,1,0,15,Pre,6,1,1,1,1,1,0,0.96,Right,II,Mucinous,1,1,Positive,Negative,Negative,Surgery,None,Alive,2
+PKBC1978,27,Sindh,Lahore,Widowed,Postgraduate,1,1,18.7,Low,Healthy,0,1,11,Post,4,0,0,0,1,1,1,6.06,Right,IV,Medullary,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Alive,14
+PKBC1979,49,Gilgit-Baltistan,Lahore,Married,Graduate,1,0,38.6,Moderate,Unhealthy,1,1,9,Pre,1,0,1,1,0,0,0,0.95,Left,I,Mucinous,1,0,Negative,Positive,Negative,Hormonal Therapy,Partial,Deceased,11
+PKBC1980,53,Gilgit-Baltistan,Quetta,Single,None,0,1,21.3,Low,Mixed,0,1,11,Post,2,1,0,1,0,1,0,7.37,Right,III,IDC,0,1,Positive,Positive,Positive,Surgery,Complete,Deceased,1
+PKBC1981,21,Balochistan,Islamabad,Divorced,Secondary,0,1,35.8,Low,Mixed,0,0,12,Post,7,0,0,0,1,0,1,6.87,Right,II,Mucinous,1,1,Negative,Positive,Positive,Radiation,Complete,Deceased,13
+PKBC1982,24,Balochistan,Quetta,Divorced,Primary,0,0,36.1,High,Healthy,1,0,13,Pre,1,0,1,0,0,1,1,4.01,Right,II,Medullary,1,0,Positive,Positive,Negative,Hormonal Therapy,Complete,Deceased,9
+PKBC1983,50,Sindh,Peshawar,Married,Primary,1,1,33.6,Low,Unhealthy,0,1,10,Post,4,0,1,0,0,0,0,4.41,Left,IV,Medullary,1,1,Positive,Positive,Positive,Surgery,Complete,Deceased,7
+PKBC1984,52,Punjab,Karachi,Single,Graduate,1,0,20.9,Low,Mixed,1,0,14,Pre,1,0,0,0,0,0,1,9.22,Right,III,ILC,1,0,Negative,Negative,Negative,Targeted Therapy,Partial,Deceased,10
+PKBC1985,73,Sindh,Lahore,Divorced,Graduate,1,1,32.7,Moderate,Unhealthy,0,0,14,Post,5,0,1,1,0,1,1,0.62,Left,II,Mucinous,0,0,Negative,Positive,Positive,Surgery,Complete,Deceased,6
+PKBC1986,23,Punjab,Peshawar,Widowed,None,0,1,37.6,Moderate,Mixed,0,1,12,Pre,5,1,1,1,1,1,1,5.85,Left,I,IDC,0,1,Negative,Positive,Positive,Chemotherapy,Complete,Alive,14
+PKBC1987,25,Sindh,Peshawar,Married,None,0,1,27.4,Low,Healthy,0,1,14,Pre,5,1,0,1,1,1,0,9.27,Left,IV,Mucinous,1,1,Positive,Positive,Positive,Radiation,Complete,Deceased,9
+PKBC1988,42,KPK,Lahore,Divorced,Primary,1,0,27.1,High,Unhealthy,1,0,12,Post,0,1,0,0,1,0,0,9.18,Left,IV,ILC,1,1,Negative,Positive,Positive,Targeted Therapy,Partial,Alive,12
+PKBC1989,64,KPK,Lahore,Married,Primary,0,0,27.7,Moderate,Unhealthy,0,0,11,Post,4,1,0,1,1,0,1,6.05,Right,I,IDC,1,0,Negative,Negative,Positive,Targeted Therapy,None,Alive,3
+PKBC1990,38,Punjab,Islamabad,Single,Primary,1,0,19.8,High,Healthy,0,1,13,Post,2,0,1,0,1,1,0,4.12,Right,I,IDC,0,0,Negative,Negative,Negative,Chemotherapy,None,Deceased,1
+PKBC1991,62,Balochistan,Quetta,Single,Primary,1,1,37.6,Moderate,Healthy,1,1,10,Post,2,0,0,1,0,0,0,1.44,Left,I,ILC,0,1,Positive,Positive,Positive,Hormonal Therapy,Partial,Deceased,11
+PKBC1992,64,Punjab,Peshawar,Single,Postgraduate,1,0,37.1,Moderate,Healthy,0,1,14,Post,7,0,1,0,1,1,1,2.15,Right,II,IDC,0,1,Negative,Negative,Positive,Targeted Therapy,None,Deceased,8
+PKBC1993,27,Sindh,Islamabad,Widowed,None,0,0,40,Low,Healthy,1,1,13,Pre,3,0,1,1,1,0,1,6.96,Right,III,Medullary,1,0,Negative,Negative,Negative,Hormonal Therapy,Partial,Deceased,7
+PKBC1994,58,Gilgit-Baltistan,Islamabad,Divorced,None,1,0,30.9,Moderate,Mixed,1,1,13,Post,2,0,0,1,0,0,1,0.66,Right,II,Medullary,0,0,Positive,Negative,Positive,Hormonal Therapy,Complete,Alive,3
+PKBC1995,32,KPK,Peshawar,Single,Primary,1,1,34.5,Moderate,Unhealthy,1,1,13,Post,6,0,1,0,0,1,0,8.89,Right,III,IDC,1,1,Negative,Negative,Positive,Hormonal Therapy,None,Alive,10
+PKBC1996,20,Gilgit-Baltistan,Peshawar,Widowed,Secondary,0,1,22.5,High,Mixed,0,0,9,Pre,5,1,1,1,1,1,0,6.09,Right,IV,Mucinous,1,0,Positive,Positive,Positive,Surgery,Partial,Alive,4
+PKBC1997,25,KPK,Karachi,Single,Primary,1,1,32.7,Moderate,Healthy,1,1,13,Pre,6,0,0,1,0,0,0,0.93,Right,III,IDC,1,1,Negative,Negative,Positive,Chemotherapy,Partial,Alive,13
+PKBC1998,26,Sindh,Quetta,Single,Graduate,1,1,32.3,Moderate,Mixed,0,1,15,Post,7,0,0,1,1,0,0,2.78,Left,I,Mucinous,1,0,Positive,Negative,Positive,Radiation,Complete,Deceased,9
+PKBC1999,67,KPK,Peshawar,Divorced,Secondary,0,0,37.8,High,Mixed,1,0,12,Pre,6,1,1,1,0,0,1,6.14,Right,II,ILC,1,1,Positive,Positive,Positive,Chemotherapy,Partial,Alive,5
